@@ -1,0 +1,4 @@
+station_observations
+wind_speed, temperature, wind_direction, relative_humidity, time, precipitation
+0.0, 0.0, 0.0, 0.0, 1987-04-05 00:00:00, 0.0
+0.0, 0.0, 0.0, 0.0, 1988-05-03 00:00:00, 0.0

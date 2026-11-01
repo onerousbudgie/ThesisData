@@ -1,0 +1,3 @@
+station_observations
+wind_speed, temperature, wind_direction, relative_humidity, time, precipitation
+0.0, 0.0, 0.0, 0.0, 1992-03-27 00:00:00, 0.0
