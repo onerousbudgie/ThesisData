@@ -1,0 +1,27 @@
+I'm trying to figure out how climate change factors (temperature rise, flooding/droughts and salt water intrusions) influences metals (As, Mn, Pb, U) concentration in well water. 
+
+This dataset contains different concentrations [periodic symbol] taken from testing wells ['OBSWell] in British Columbia, Canada that was matched with the corresponding monthly precipitation and monthly MAX_Temp from nearest weather station
+
+You can ignore "Native ID", "Closest Longitude", "Closest Latitude" - those are for the corresponding weatherstation data.
+
+Precip_Climatology, Tn_Climatology, Tx_Climatology are the computer simulated monthly precipitation, min temp and max temps
+
+Saltwater intrusion is when chloride concentration is greater than 150 mg/L [Chlrid:D] or specific conductivity greater than 1000 µS/cm
+
+
+I need at least: 
+
+Maps of at least:  
+- N.Kjel:T, P--T, Sulfat:D, Ca-T, overlayed with precipitation and max Temp
+- Pb-T, U--T, Mn-T, As-T overlayed with precipitation and max Temp
+- Chlrid:D, specific conductance
+
+Queens/Morans I autocorrection of at least 
+- Pb-T, U--T, Mn-T, As-T, N.Kjel:T, precipitation, max Temp
+
+Dbscan or similar clustering of at least
+-  Pb-T, U--T, Mn-T, As-T, N.Kjel:T, precipitation, max Temp
+
+Can you also include a step by step instructions or screencap showing what you did?  
+
+Thank you,

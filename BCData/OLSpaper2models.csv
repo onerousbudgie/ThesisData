@@ -1,0 +1,20 @@
+﻿Model,As Model,Mn Model,Pb Model,U Model
+Alkalinity ,1,1,0,0
+Chloride,-1,0,0,0
+Fe,1,1,0,0
+P,1,0,-1,0
+Sulfate,1,0,-1,0
+Hardness,1,1,0,0
+K,1,1,0,0
+Residue Filterable,0,-1,1,0
+Time,-1,0,-1,0
+x,-1,-1,0,1
+N,0,1,0,-1
+Aquifer_1,0,-1,0,-1
+Aquifer_2,0,0,0,-1
+Maximum °C,0,-1,0,1
+Minimum °C,0,1,0,0
+FD,0,1,0,0
+HW,0,1,1,0
+MT,0,-1,0,1
+y,0,0,0,1
