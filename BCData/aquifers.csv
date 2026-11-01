@@ -1,0 +1,1183 @@
+aquifer_id,aquifer_name,location_description,material,litho_stratographic_unit,subtype,vulnerability,area,productivity,demand,mapping_year
+1,,Floods; Harrison; Hope,SG - Sand and Gravel,Fraser River Sediments; glaciofluvial and fluvial gravel,1a - Unconfined sand and gravel - large river system,H - High,7.8,H - High,M - Moderate,2012
+2,,Chawathil,SG - Sand and Gravel,"Fraser River Sediments; Glacial, glaciofluvial and fluvial gravel",1a - Unconfined sand and gravel - large river system,H - High,7.1,H - High,L - Low,2012
+3,,Laidlaw,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,9.3,M - Moderate,L - Low,2012
+4,Aggasiz,Aggasiz/Sea Bird Island,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,63.3,H - High,L - Low,1993
+5,,Chehalis,SG - Sand and Gravel,Salish Sediments,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,16.1,H - High,L - Low,1993
+6,Chilliwack-Rosedale,Chilliwack Fraser Lowland,SG - Sand and Gravel,Holocene fluvial sand and gravel,1a - Unconfined sand and gravel - large river system,H - High,208.7,,,2019
+7,,Harrison Mills,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,6.2,M - Moderate,L - Low,1993
+8,Sardis-Vedder,"Vedder Alluvial Fan, Vedder Crossing",SG - Sand and Gravel,Holocene alluvial fan,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,57.7,,,2019
+9,Chilliwack River Shallow,Chilliwack River; Cultus Lake,SG - Sand and Gravel,"Holocene Fluvial, include Sumas Outwash by Cultus Lake",1b - Unconfined sand and gravel aquifer - medium stream system,H - High,12.7,,,2019
+10,,Mouth of Sleese Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,2.1,M - Moderate,M - Moderate,1993
+11,,Lake Erroch/Deroche Creek,SG - Sand and Gravel,Sumas Drift,4a - Unconfined sand and gravel - late glacial outwash,H - High,13.2,M - Moderate,L - Low,1993
+12,Nicomen Slough,Nicomen Slough,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,60.2,M - Moderate,L - Low,1993
+13,,Norrish Creek,SG - Sand and Gravel,Salish Sediments,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,2.3,H - High,M - Moderate,1993
+14,Hatzic Prairie,Hatzic Prairie,SG - Sand and Gravel,Salish Sediments; Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,10.0,M - Moderate,L - Low,2016
+15,Abbotsford-Sumas,Abbotsford -Sumas,SG - Sand and Gravel,Sumas Drift; glacial outwash,4a - Unconfined sand and gravel - late glacial outwash,H - High,94.9,H - High,H - High,2018
+16,,Mount Lehman,SG - Sand and Gravel,Sumas Drift,4a - Unconfined sand and gravel - late glacial outwash,H - High,5.8,M - Moderate,L - Low,1993
+17,,Mission Floodplain,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,6.5,H - High,M - Moderate,2016
+18,,Mission,B - Bedrock,Tertiary bedrock,5a - Fractured sedimentary rock,H - High,48.4,L - Low,L - Low,2016
+19,Grant Hill,Grant Hill,B - Bedrock,Tertiary bedrock,5a - Fractured sedimentary rock,M - Moderate,55.3,L - Low,M - Moderate,2016
+20,Columbia Valley,South of Chilliwack,G - Gravel,Sumas Stade Outwash,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,16.0,,,2019
+21,Sumas Prairie,Sumas Prairie,SG - Sand and Gravel,Salish Sediments; Fraser River Sediments,1a - Unconfined sand and gravel - large river system,M - Moderate,97.8,M - Moderate,M - Moderate,2012
+22,,Matsqui Prairie,SG - Sand and Gravel,Fraser River Sediments; Salish Sediments,1a - Unconfined sand and gravel - large river system,M - Moderate,45.9,M - Moderate,L - Low,1993
+23,,North of Abbotsford,SG - Sand and Gravel,Sumas Drift,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,3.3,M - Moderate,L - Low,1993
+24,,Glen Valley,SG - Sand and Gravel,Fraser River Sediments; Salish Sediments,1a - Unconfined sand and gravel - large river system,M - Moderate,19.2,M - Moderate,M - Moderate,2018
+25,,Miracle Valley,SG - Sand and Gravel,Fort Langley Formation? Vashon Drift?,4b - Confined sand and gravel - glacial,L - Low,14.1,M - Moderate,M - Moderate,2016
+26,,Kanaka/Whonnock Creek,SG - Sand and Gravel,Vashon Drift Fort Langley Formation,4b - Confined sand and gravel - glacial,M - Moderate,15.0,M - Moderate,H - High,2016
+27,Aldergrove AB,Aldergrove AB,SG - Sand and Gravel,Fort Langley Formation,4c - Confined sand and gravel - glacio-marine,M - Moderate,47.2,H - High,H - High,2018
+28,,Northwest of Clearbrook,SG - Sand and Gravel,Fort Langley Formation,4b - Confined sand and gravel - glacial,L - Low,68.7,M - Moderate,H - High,2012
+29,,North of Mt. Lehman,SG - Sand and Gravel,Fort Langley Formation,4b - Confined sand and gravel - glacial,L - Low,3.3,M - Moderate,L - Low,1993
+30,,North of Dennison,SG - Sand and Gravel,Fort Langley Formation,4a - Unconfined sand and gravel - late glacial outwash,H - High,4.8,M - Moderate,L - Low,2012
+32,Beaver River,Beaver River,SG - Sand and Gravel,Early Fort Langley or late Vashon glaciofluvial/glaciomarine outwash,4c - Confined sand and gravel - glacio-marine,L - Low,50.0,H - High,M - Moderate,2015
+33,West of Aldergrove,West of Aldergrove,SG - Sand and Gravel,Early Fort Langley or Vashon intertill glaciofluvial/glaciomarine outwash,4b - Confined sand and gravel - glacial,L - Low,73.0,M - Moderate,M - Moderate,2015
+35,Hopington AB,Hopington - Township of Langley,SG - Sand and Gravel,Sumas glaciofluvial deltaic,4a - Unconfined sand and gravel - late glacial outwash,H - High,23.9,H - High,H - High,2015
+36,Fort Langley B,Fort Langley,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,1.3,H - High,M - Moderate,2015
+37,Fort Langley AC,Fort Langley Upland,SG - Sand and Gravel,Sumas Drift; Raised proglacial deltaic gravel and sand,4a - Unconfined sand and gravel - late glacial outwash,H - High,3.9,H - High,H - High,2015
+38,,Alouette,SG - Sand and Gravel,Salish Sediments; Fort Langley Formation,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,16.9,M - Moderate,L - Low,2016
+39,,East Pitt River,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,84.1,M - Moderate,L - Low,1993
+40,,Barnston Island,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,6.2,M - Moderate,L - Low,1993
+41,Brookswood,Langley/Surrey,SG - Sand and Gravel,Sumas Drift & Fort Langley,4a - Unconfined sand and gravel - late glacial outwash,H - High,33.3,M - Moderate,H - High,2018
+42,,South Fraser River Delta,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,142.9,M - Moderate,L - Low,1993
+43,,Annacis Island,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,5.5,M - Moderate,L - Low,2020
+44,,Lulu Island,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,109.8,M - Moderate,L - Low,1993
+45,,North Arm Delta,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,16.3,M - Moderate,L - Low,1993
+46,,Coquitlam River Floodplain,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,9.9,M - Moderate,L - Low,1993
+48,,Fraser River Junction,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,M - Moderate,9.0,M - Moderate,L - Low,1993
+49,,Vancouver-Quadra Sands,SG - Sand and Gravel,Quadra Sands,4b - Confined sand and gravel - glacial,M - Moderate,195.1,M - Moderate,L - Low,2000
+50,South of Hopington,South of Hopington,SG - Sand and Gravel,Fort Langley Formation,4b - Confined sand and gravel - glacial,L - Low,19.7,M - Moderate,M - Moderate,2018
+51,South of Murrayville AC,South of Murrayville,SG - Sand and Gravel,Vashon Drift,4b - Confined sand and gravel - glacial,L - Low,73.5,M - Moderate,L - Low,2018
+52,Langley Upland,Langley Upland/Inter-till,SG - Sand and Gravel,Fort Langley Formation,4b - Confined sand and gravel - glacial,L - Low,49.8,M - Moderate,M - Moderate,2018
+53,,Hazelmere Valley,SG - Sand and Gravel,,4c - Confined sand and gravel - glacio-marine,L - Low,18.3,M - Moderate,L - Low,1993
+54,,Hazelmere,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,2.6,L - Low,M - Moderate,2007
+55,,Grandview,SG - Sand and Gravel,,4c - Confined sand and gravel - glacio-marine,L - Low,20.1,M - Moderate,M - Moderate,2007
+56,,NE of Whiterock,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,1.7,M - Moderate,M - Moderate,2007
+57,,Whiterock,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,40.2,H - High,M - Moderate,1993
+58,Nicomekl-Serpentine,Nicomekl-Serpentine,SG - Sand and Gravel,Glaciomarine outwash (Semiahmoo/pre-Semiahmoo),4c - Confined sand and gravel - glacio-marine,L - Low,216.0,M - Moderate,M - Moderate,2015
+59,,Clayton Upland (Upper),SG - Sand and Gravel,Vashon Drift,4b - Confined sand and gravel - glacial,L - Low,35.3,M - Moderate,M - Moderate,2018
+61,,Newton Upland,SG - Sand and Gravel,Quadra Sands,4b - Confined sand and gravel - glacial,L - Low,137.4,H - High,L - Low,2000
+62,,Tsawwassen,SG - Sand and Gravel,Vashon Drift,4b - Confined sand and gravel - glacial,L - Low,6.8,M - Moderate,L - Low,1993
+63,,Westham Island,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,10.4,M - Moderate,L - Low,2020
+64,,Mitchel Island,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,1.4,M - Moderate,L - Low,2020
+65,,Sea Island,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,15.4,M - Moderate,L - Low,1993
+66,,Capilano River,SG - Sand and Gravel,Salish Sediments,2 - Unconfined sand and gravel - deltaic,H - High,5.4,H - High,L - Low,1993
+67,,Seymour River/Lynn Creek,SG - Sand and Gravel,Salish Sediments,2 - Unconfined sand and gravel - deltaic,H - High,5.2,H - High,L - Low,1993
+68,,Belcarra,B - Bedrock,Coast Plutonic diorite; Pre-Jurassic Twin Island Group,6b - Fractured crystalline bedrock,H - High,1.8,L - Low,H - High,1993
+69,,Port Moody,SG - Sand and Gravel,Salish Sediments,1a - Unconfined sand and gravel - large river system,H - High,2.8,L - Low,L - Low,1993
+70,,Coquitlam River,SG - Sand and Gravel,Salish Sediments; Capilano Sediments,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,25.1,H - High,L - Low,1993
+71,,West Pitt River,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,14.0,M - Moderate,L - Low,1993
+72,McMillan Island,McMillan Island,S - Sand,Fraser River Sands,1a - Unconfined sand and gravel - large river system,H - High,2.5,H - High,,2019
+73,,Matsqui Island,SG - Sand and Gravel,Fraser River Sediments,1a - Unconfined sand and gravel - large river system,H - High,3.7,M - Moderate,L - Low,2020
+74,Upper Merritt,Merritt,SG - Sand and Gravel,,1c - Unconfined sand and gravel aquifer - small stream system,H - High,7.0,H - High,H - High,2018
+75,Joeyaska Deep,Joeyaska,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,2.7,M - Moderate,L - Low,2018
+76,Stumbles Creek,Stumbles Creek,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,12.9,M - Moderate,M - Moderate,2018
+77,Lower Nicola,Lower Nicola,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,5.5,M - Moderate,L - Low,2018
+78,,West End of Nicola Lake,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,1.2,M - Moderate,L - Low,1993
+79,Unicola,Lower Clapperton Creek,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,8.1,M - Moderate,L - Low,2018
+80,Conicola,Nicola,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,6.3,M - Moderate,L - Low,2018
+81,,14 kilometres northeast of Prince George,B - Bedrock,,5a - Fractured sedimentary rock,L - Low,6.6,L - Low,M - Moderate,1994
+82,,12 kilometres northeast of Prince George,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,2.0,L - Low,M - Moderate,1994
+83,,10 kilometres northeast of Prince Georg,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,7.7,M - Moderate,M - Moderate,2017
+84,,North and west of Tabor Lake,B - Bedrock,,5a - Fractured sedimentary rock,L - Low,4.9,L - Low,L - Low,2007
+85,,West of south end of Tabor Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,25.4,M - Moderate,L - Low,2017
+86,Pineview,Pineview to Buckhorn,SG - Sand and Gravel,Tertiary channel sand and gravel deposits,4b - Confined sand and gravel - glacial,L - Low,142.8,H - High,L - Low,2012
+87,,Miller to Tabor,SG - Sand and Gravel,Sand & Gravel,4b - Confined sand and gravel - glacial,H - High,12.4,M - Moderate,L - Low,2012
+88,,"College Heights, South of Prince George",B - Bedrock,Primarily volcanic rk; Witch Lake Formation; Mesozoic Era,6b - Fractured crystalline bedrock,M - Moderate,7.7,M - Moderate,L - Low,2012
+89,,Vanway South,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,7.5,L - Low,M - Moderate,1994
+90,,Beaverley,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,46.7,M - Moderate,L - Low,1998
+91,,Northwest of Beaverley,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,4.6,M - Moderate,M - Moderate,1994
+92,Lower Nechako River,Lower Nechako River Valley,SG - Sand and Gravel,Present day alluvial sands and gravels,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,94.0,H - High,H - High,2017
+93,,Cranbrook Hill,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,29.7,L - Low,L - Low,2017
+94,,Hart Highlands,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,21.5,L - Low,L - Low,2017
+96,,Spa Creek,B - Bedrock,,4a - Unconfined sand and gravel - late glacial outwash,L - Low,1.1,L - Low,L - Low,1994
+97,Salmon River - Upper Aquifer,Salmon River from Falkland to Salmon arm,SG - Sand and Gravel,,1a - Unconfined sand and gravel - large river system,H - High,36.7,M - Moderate,M - Moderate,2017
+98,Salmon River - Lower Aquifer,Salmon River - Westwold to Salmon Arm,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,94.8,M - Moderate,M - Moderate,2017
+99,,Switsemalph,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,2.8,L - Low,M - Moderate,1994
+100,Gleneden,Gleneden,G - Gravel,,4b - Confined sand and gravel - glacial,L - Low,6.6,M - Moderate,M - Moderate,2018
+101,,Mount Tappen,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,0.6,L - Low,L - Low,1994
+102,Hullcar Confined Aquifer,Hullcar,S - Sand,,4b - Confined sand and gravel - glacial,M - Moderate,15.1,H - High,L - Low,1994
+103,Hullcar Unconfined Aquifer,Parkinson Lake,S - Sand,,4a - Unconfined sand and gravel - late glacial outwash,H - High,21.8,H - High,L - Low,2017
+104,,1 kilometre northwest of Hullcar,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,1.0,M - Moderate,M - Moderate,1994
+105,,Hillcrest,B - Bedrock,,5a - Fractured sedimentary rock,M - Moderate,1.7,L - Low,L - Low,1994
+106,,Southwest of Leduc Creek,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,16.9,L - Low,L - Low,1994
+107,,Gardom Lake to Enderby,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,21.4,L - Low,M - Moderate,1994
+108,Tuhok Unconfined Aquifer,4 kilometres southeast of Salmon Arm,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,25.4,M - Moderate,M - Moderate,2017
+109,Tuhok Confined Aquifer,Highway 97B,G - Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,27.1,M - Moderate,L - Low,2017
+110,,Grandview  Bench,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,13.5,L - Low,L - Low,1994
+111,Spallumcheen Unconfined Aquifer,Lower Shuswap River Valley,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,101.1,M - Moderate,L - Low,2017
+112,,2 kilometres northeast of Enderby,B - Bedrock,,5a - Fractured sedimentary rock,L - Low,2.7,M - Moderate,L - Low,1994
+113,Ashton Creek Confined,Ashton Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,13.5,M - Moderate,L - Low,2017
+114,Mara Aquifer,South of Mara Lake,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,3.5,M - Moderate,M - Moderate,2017
+115,,Northeast of Quesnel,SG - Sand and Gravel,Modern alluvium,4b - Confined sand and gravel - glacial,M - Moderate,146.2,M - Moderate,M - Moderate,2017
+117,,Red Bluff south of Quesnel,S - Sand,Sand,4a - Unconfined sand and gravel - late glacial outwash,H - High,6.6,M - Moderate,M - Moderate,2017
+121,,Kersley,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,1.4,L - Low,L - Low,2017
+122,,Sardine Flats,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,20.4,M - Moderate,L - Low,2017
+124,Fraser Plateau Lava,70 Mile House to 108 Mile Lake,B - Bedrock,"Cenozoic, Tertiary, Miocene and/or Pliocene Epochs",6a - Flat-lying to gently-dipping volcanic bedrock,M - Moderate,6562.2,M - Moderate,L - Low,2000
+125,,Pressy Lake,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,5.4,M - Moderate,L - Low,2000
+126,Upper Lac la Hache Valley Bedrock,"Upper Lac la Hache valley, including dissected valleys that drain to main valley bottom",B - Bedrock,Nicola Group,6b - Fractured crystalline bedrock,M - Moderate,594.5,M - Moderate,L - Low,2022
+127,,Buffalo Creek,B - Bedrock,"Cenozoic, Tertiary, Eocene and ? Oligocene Epochs, Kamloops Group, Skull Hill",6a - Flat-lying to gently-dipping volcanic bedrock,M - Moderate,17.1,M - Moderate,L - Low,1994
+128,Lower Bridge Creek Valley Aquifer System,"Outlet of Horse Lake to the Intake of Canim Lake, within lower Bridge Creek Valley",SG - Sand and Gravel,Pre-Fraser Glaciation fluvial,4b - Confined sand and gravel - glacial,M - Moderate,67.4,M - Moderate,M - Moderate,2022
+129,Southern Horse Lake Aquifer System,Local valley that extends to the southern shoreline of Horse Lake,SG - Sand and Gravel,Pre-Fraser Glaciation fluvial,4b - Confined sand and gravel - glacial,M - Moderate,8.9,M - Moderate,M - Moderate,2022
+130,Upper Bridge Creek Valley Aquifer System,"Upper Bridge Creek valley, including the outlet of Deka Lake to the intake of Horse Lake",SG - Sand and Gravel,Pre-Fraser Glaciation fluvial,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,49.7,M - Moderate,M - Moderate,2022
+131,Watson Creek Valley Aquifer System,"Within Lac la Hache valley, southeast of Lac la Hache and north of 100 Mile House",SG - Sand and Gravel,Pre-Fraser Glaciation fluvial,4b - Confined sand and gravel - glacial,M - Moderate,28.2,H - High,L - Low,2022
+132,,Buffalo Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,22.9,M - Moderate,L - Low,2000
+133,,Cache Creek to Scottie Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,16.5,H - High,H - High,1999
+134,,Cache Creek to north of Maiden Creek,SG - Sand and Gravel,,1c - Unconfined sand and gravel aquifer - small stream system,H - High,15.2,H - High,H - High,1999
+135,,Semlin Valley,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,10.0,H - High,H - High,1999
+136,,Mauvais Rocher IR#5,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,L - Low,3.6,H - High,M - Moderate,1999
+137,,Minton Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,1.1,M - Moderate,L - Low,1999
+138,,Upper Missioner/Minton Creek Valleys,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,0.8,M - Moderate,M - Moderate,1994
+139,,Missioner Creek Valley,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,2.1,M - Moderate,M - Moderate,1994
+140,,North side of lower Missioner Creek Valley,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,2.6,L - Low,M - Moderate,1994
+141,,Between Williams Lake and Missioner Creek,B - Bedrock,,6a - Flat-lying to gently-dipping volcanic bedrock,L - Low,18.1,M - Moderate,L - Low,1994
+142,,Southwest side of Williams Lake,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,1.6,L - Low,M - Moderate,1994
+143,,Southwest side of Williams Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.8,M - Moderate,M - Moderate,1994
+144,,Southeast side of Williams Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.4,M - Moderate,M - Moderate,1994
+145,,Northeast side of Williams Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,1.1,M - Moderate,L - Low,1994
+146,,West and northwest side of Williams Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,3.0,H - High,H - High,1994
+147,,Hill southwest of Williams Lake townsite,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.4,M - Moderate,H - High,2007
+148,,Between Chimney Creek and Williams Lake,B - Bedrock,,6a - Flat-lying to gently-dipping volcanic bedrock,L - Low,30.7,M - Moderate,L - Low,2007
+149,,Chimney Creek Valley,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,6.8,M - Moderate,L - Low,2007
+150,,South of Williams Lake on Dog Creek Road,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,1.0,M - Moderate,M - Moderate,2007
+151,,Frost Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,1.4,M - Moderate,M - Moderate,1994
+152,,South of Williams Lake on Dog Creek Road,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.3,M - Moderate,H - High,1994
+153,,Lower Pablo Creek,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,3.8,M - Moderate,L - Low,1994
+154,,NW of Whonnock Lake,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,35.1,L - Low,L - Low,2016
+155,Walker Hook,"Walker Hook, Saltspring Island",SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,0.3,L - Low,,2018
+156,Ganges Harbour,"Ganges Harbour, Saltspring Island",SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,2.3,L - Low,,2018
+157,Fulford Aquifer,"Fulford Harbour, Saltspring Island",SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,5.6,M - Moderate,,2018
+158,Grand Forks,Grand Forks,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,38.8,H - High,H - High,2007
+159,"Ucluelet, Lost Show",Ucluelet,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,16.4,,,2018
+160,Lower Cassidy,Cassidy,SG - Sand and Gravel,Glacio-Fluvial (Vashon),4b - Confined sand and gravel - glacial,L - Low,8.9,M - Moderate,L - Low,2012
+161,Cassidy,Cassidy,SG - Sand and Gravel,Capilano Sediments and Salish Sediments,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,31.2,H - High,M - Moderate,2012
+162,162,"Cedar, Yellow Point, N. Oyster (Ladysmith)",B - Bedrock,Cedar & DeCourcey Formation (Nanaimo Series),5a - Fractured sedimentary rock,H - High,84.2,L - Low,M - Moderate,2012
+163,,"Cedar, North Holden Lake",SG - Sand and Gravel,Quadra Sands,4b - Confined sand and gravel - glacial,M - Moderate,1.6,M - Moderate,M - Moderate,1995
+164,164,Harewood Lake,B - Bedrock,Extension Formation (Nanaimo Series),5a - Fractured sedimentary rock,M - Moderate,6.3,L - Low,M - Moderate,2012
+165,165,South Wellington,B - Bedrock,"Nanaimo Series, Upper Cretaceous",5a - Fractured sedimentary rock,M - Moderate,17.4,L - Low,M - Moderate,2012
+166,,"Stevenson Point, Nanaimo",B - Bedrock,Vancouver Volcanics,6b - Fractured crystalline bedrock,M - Moderate,12.0,L - Low,L - Low,1995
+167,167,"Westwood Lake, Nanaimo",SG - Sand and Gravel,Either glacio-fluvial Vashon Drift or Quadra Sediments,4b - Confined sand and gravel - glacial,L - Low,14.6,M - Moderate,L - Low,2012
+168,168,Ladysmith,B - Bedrock,"Nanaimo Series, Cretaceous Era",5a - Fractured sedimentary rock,H - High,6.7,L - Low,L - Low,1995
+169,,"Saltair, South Ladysmith",S - Sand,Vashon Drift,4b - Confined sand and gravel - glacial,L - Low,9.9,M - Moderate,L - Low,1995
+170,,"Panorama Ridge, Chemainus",B - Bedrock,Sicker Volcanics,6b - Fractured crystalline bedrock,M - Moderate,1.9,M - Moderate,H - High,1995
+171,,"Mount Sicker, Crofton - Chemainus",B - Bedrock,Haslam Formation,5a - Fractured sedimentary rock,L - Low,14.5,L - Low,L - Low,1995
+172,,Chemainus and Crofton,SG - Sand and Gravel,Salish Sediments,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,7.5,H - High,H - High,2004
+173,,"Maple Mountain, Crofton - Maple Bay",B - Bedrock,Sicker Volcanics,6b - Fractured crystalline bedrock,H - High,34.1,L - Low,L - Low,1995
+174,,North Duncan,S - Sand,Vashon Drift,4b - Confined sand and gravel - glacial,L - Low,1.5,M - Moderate,M - Moderate,1995
+175,,North Duncan,B - Bedrock,Haslam Formation,5a - Fractured sedimentary rock,M - Moderate,42.9,L - Low,M - Moderate,1995
+176,,East Duncan - Maple Bay,B - Bedrock,Sicker Volcanics & Haslam Formation,5a - Fractured sedimentary rock,H - High,15.5,L - Low,L - Low,1995
+177,,East Duncan - Maple Bay,B - Bedrock,Sicker Volcanics & Haslam Formation,5a - Fractured sedimentary rock,H - High,7.7,L - Low,L - Low,1995
+178,,"Skutz Falls, Lake Cowichan, Paldi",SG - Sand and Gravel,Vashon Drift; Likely advance glacial outwash,4b - Confined sand and gravel - glacial,L - Low,17.9,M - Moderate,L - Low,2012
+179,,Sahtlam,SG - Sand and Gravel,Salish Sediments,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,7.6,M - Moderate,L - Low,1995
+180,,Sahtlam,SG - Sand and Gravel,Vashon Drift,4b - Confined sand and gravel - glacial,L - Low,8.4,M - Moderate,M - Moderate,1995
+181,,West Duncan,B - Bedrock,Duncan Formation,5a - Fractured sedimentary rock,L - Low,1.3,L - Low,H - High,1995
+182,,Paldi - Sahtlam,B - Bedrock,Duncan Formation,5a - Fractured sedimentary rock,L - Low,31.6,M - Moderate,M - Moderate,1995
+183,,West Duncan,SG - Sand and Gravel,Vashon Drift,4b - Confined sand and gravel - glacial,L - Low,6.3,M - Moderate,M - Moderate,1995
+184,,West Duncan,G - Gravel,Vashon Drift,4a - Unconfined sand and gravel - late glacial outwash,H - High,2.6,L - Low,M - Moderate,1995
+185,,"Deerholm, South Duncan",SG - Sand and Gravel,Vashon Drift,4b - Confined sand and gravel - glacial,M - Moderate,8.2,M - Moderate,M - Moderate,2020
+186,Lower Cowichan River A,Duncan,SG - Sand and Gravel,Salish Sediments,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,17.4,H - High,H - High,2020
+188,Lower Cowichan River C,Duncan,SG - Sand and Gravel,Vashon Drift?,4b - Confined sand and gravel - glacial,L - Low,8.6,H - High,L - Low,2020
+189,,Honeymoon Bay & Mesachie Lake,S - Sand,"Salish Sediments; fluvial, alluvial & glacio-fluvial sediments",2 - Unconfined sand and gravel - deltaic,H - High,10.5,M - Moderate,M - Moderate,2012
+190,,Youbou,SG - Sand and Gravel,Likely ice contact deltas of Vashon Drift,2 - Unconfined sand and gravel - deltaic,H - High,2.8,M - Moderate,L - Low,2012
+191,,North Lake Cowichan,SG - Sand and Gravel,Salish Sediments; Fluvial and Glaciofluvial deposits,2 - Unconfined sand and gravel - deltaic,H - High,3.4,M - Moderate,M - Moderate,2012
+192,,North Lake Cowichan,SG - Sand and Gravel,Galcial outwash sand & gravel; Vashon Drift,4b - Confined sand and gravel - glacial,L - Low,8.9,M - Moderate,L - Low,2012
+193,Osoyoos West,West Osoyoos,SG - Sand and Gravel,"Glacial deposits, Kettle outwash",4a - Unconfined sand and gravel - late glacial outwash,H - High,14.0,H - High,H - High,2012
+194,,Osoyoos East,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,5.3,M - Moderate,M - Moderate,2012
+195,,Osoyoos East,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,0.5,M - Moderate,L - Low,1996
+197,Cherry Point,"Cowichan Bay, Cowichan Station, Hillbank, Cherry Point, and Dougan Lake",SG - Sand and Gravel,Quadra Sand/ Dashwood Drift,4b - Confined sand and gravel - glacial,M - Moderate,48.6,,,2019
+198,Cowichan Bay,"Cowichan Bay, Cowichan Station, Hillbank, and Fairbridge",B - Bedrock,Nanaimo Series,5a - Fractured sedimentary rock,L - Low,104.7,,,2019
+199,Fairbridge,"West of Koksilah River, includes Fairbridge",SG - Sand and Gravel,Quadra Sand/ Dashwood Drift,4b - Confined sand and gravel - glacial,M - Moderate,27.7,,,2020
+201,Heather Bank,"West slope of Cobble Hill, along the east banks of the Koksilah River",SG - Sand and Gravel,Quadra Sand/ Dashwood Drift,4a - Unconfined sand and gravel - late glacial outwash,H - High,1.9,,,2019
+202,Koksilah River Valley,Shawnigan Lake / Cobble Hill,B - Bedrock,Bonanza Group and Sicker Volcanics,6b - Fractured crystalline bedrock,M - Moderate,39.6,,,2018
+203,Shawnigan Lake/Cobble Hill/Mill Bay,Shawnigan Lake / Cobble Hill,B - Bedrock,Wark and Colquitz Gneiss and Bonanza Group,6b - Fractured crystalline bedrock,M - Moderate,122.7,,,2018
+205,Shawnigan Lake,Shawnigan Lake area,SG - Sand and Gravel,Quadra Sand/ Dashwood Drift,4a - Unconfined sand and gravel - late glacial outwash,H - High,13.2,,,2019
+206,Mill Bay,Mill Bay and Cobble Hill,SG - Sand and Gravel,Quadra Sand/ Dashwood Drift,4a - Unconfined sand and gravel - late glacial outwash,H - High,16.4,,,2019
+208,Malahat Ridge,East and south slope of Malahat Ridge,B - Bedrock,Wark Gneiss & Leech River Formations,6b - Fractured crystalline bedrock,M - Moderate,58.0,,,2019
+209,209,Errington; Morison Creek area,SG - Sand and Gravel,Confined glaciofluvial sand and gravel - likely Quadra Sand,4b - Confined sand and gravel - glacial,L - Low,12.4,M - Moderate,L - Low,2023
+210,210,Nanoose Bay,B - Bedrock,"Sedimentary Rks, Fourth Lk. Form.; Intrusive Rk., Mount Hall Gabbro",5a - Fractured sedimentary rock,M - Moderate,5.4,L - Low,M - Moderate,2012
+211,211,Nanaimo,B - Bedrock,"Triassic basalts, Karmutsen Form; Sedimentary Rks, Nanaimo Grp.",6b - Fractured crystalline bedrock,M - Moderate,29.6,L - Low,M - Moderate,2012
+212,,Parksville,B - Bedrock,Nanaimo Group,5a - Fractured sedimentary rock,L - Low,35.4,L - Low,L - Low,2023
+213,,Lantzville,B - Bedrock,Vancouver Group,6b - Fractured crystalline bedrock,L - Low,42.0,M - Moderate,M - Moderate,1996
+214,214,Madrona Point / Parksville,B - Bedrock,Nanaimo Group: Extension Form. & Comox Form.,5a - Fractured sedimentary rock,M - Moderate,30.4,L - Low,L - Low,2012
+215,,Lantzville,SG - Sand and Gravel,Quadra Sand,4b - Confined sand and gravel - glacial,L - Low,14.3,M - Moderate,M - Moderate,1996
+216,,Parksville,SG - Sand and Gravel,Quadra Sand,4b - Confined sand and gravel - glacial,M - Moderate,32.1,M - Moderate,M - Moderate,2023
+217,,Qualicum,SG - Sand and Gravel,Quadra Sand,4b - Confined sand and gravel - glacial,M - Moderate,35.4,M - Moderate,M - Moderate,2023
+218,,Nanoose Hill,B - Bedrock,Benson Formation,5a - Fractured sedimentary rock,M - Moderate,15.8,L - Low,M - Moderate,2007
+219,,Nanoose Creek,SG - Sand and Gravel,Quadra Sand,4b - Confined sand and gravel - glacial,L - Low,31.2,M - Moderate,L - Low,2023
+220,220,Errington,B - Bedrock,Haslam Formation of the Nanaimo Group,5a - Fractured sedimentary rock,M - Moderate,160.6,L - Low,L - Low,2023
+221,,Parksville,SG - Sand and Gravel,Salish Sediments,2 - Unconfined sand and gravel - deltaic,H - High,9.6,H - High,M - Moderate,2023
+222,,Sorrento / Notch Hill,SG - Sand and Gravel,Fraser Glaciation Lacustrine and Fluvial Deposits,4b - Confined sand and gravel - glacial,L - Low,14.7,M - Moderate,L - Low,1996
+223,,Celista,SG - Sand and Gravel,Fraser Glaciation Lacustrine Deposit,4b - Confined sand and gravel - glacial,L - Low,13.7,M - Moderate,M - Moderate,1996
+224,,Eagle Bay,B - Bedrock,Eagle Bay Assemblage,6b - Fractured crystalline bedrock,M - Moderate,21.5,M - Moderate,L - Low,1996
+225,,Sicamous (Mara Lake),SG - Sand and Gravel,Fraser Glaciation Lacustrine and Modern Fan Deposits,2 - Unconfined sand and gravel - deltaic,M - Moderate,1.0,H - High,H - High,1996
+226,,Scotch Creek to Anglemont,B - Bedrock,Johnson Lake Unit,6b - Fractured crystalline bedrock,L - Low,75.0,L - Low,L - Low,1996
+227,,Sorrento / Notch Hill,B - Bedrock,Sicamous Formation,5b - Karstic limestone,L - Low,18.8,L - Low,L - Low,1996
+228,,Celista,SG - Sand and Gravel,Modern Alluvium Fan and Fraser Glaciation Terraced Delta,2 - Unconfined sand and gravel - deltaic,H - High,2.9,H - High,M - Moderate,1996
+229,,Scotch Creek,SG - Sand and Gravel,Modern Alluvium Fan and Fraser Glaciation Terraced Delta,2 - Unconfined sand and gravel - deltaic,H - High,11.3,M - Moderate,M - Moderate,1996
+230,,Squilax / Tappen,SG - Sand and Gravel,Fraser Glaciation Glacio-Fluvial Sediments,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,17.5,M - Moderate,L - Low,1996
+231,Sunnybrae,Sunnybrae,SG - Sand and Gravel,Pre-Glacial Fan,4b - Confined sand and gravel - glacial,L - Low,7.0,M - Moderate,M - Moderate,2018
+232,Tappen,Tappen,G - Gravel,"preglacial fan, Bessette alluvium and possibly basal aquifer",4b - Confined sand and gravel - glacial,L - Low,34.5,M - Moderate,M - Moderate,2018
+233,,Blind Bay / White Lake,B - Bedrock,"Sicamous Formation, Skwaam Bay and Woolford Creek Units",6b - Fractured crystalline bedrock,M - Moderate,52.4,L - Low,L - Low,1996
+234,,Squilax,SG - Sand and Gravel,Fraser Glaciation Glacio-Fluvial Sediments and Modern Alluvium,2 - Unconfined sand and gravel - deltaic,H - High,19.1,H - High,L - Low,1996
+235,,Whitecroft,SG - Sand and Gravel,Fraser Glaciation Glacio-Fluvial Sediments,4b - Confined sand and gravel - glacial,L - Low,2.1,M - Moderate,L - Low,1996
+236,,Chase,SG - Sand and Gravel,Fraser Glaciation Glacio-Fluvial Sediments,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,11.9,M - Moderate,L - Low,1996
+237,,Chase,SG - Sand and Gravel,Fraser Glaciation Lacustrine Deposit,1b - Unconfined sand and gravel aquifer - medium stream system,L - Low,7.1,M - Moderate,L - Low,1996
+238,,"Spotted Lake, Osoyoos",B - Bedrock,Kobau Group,6b - Fractured crystalline bedrock,H - High,7.0,L - Low,M - Moderate,2012
+239,Fort Fraser Bedrock,"East of Fort Fraser, in the bend of the Nechako River",B - Bedrock,"Endako Batholith, Endako Formation, Cache Creek Complex",6b - Fractured crystalline bedrock,L - Low,154.1,M - Moderate,L - Low,2020
+240,Sinkut Mountain North Surficial,"Nulki Lake, Sinkut Lake, Cluculz Lake, and Sinkut Mountain",SG - Sand and Gravel,Fraser Glaciofluvial and recent Alluvial,4a - Unconfined sand and gravel - late glacial outwash,H - High,93.9,M - Moderate,L - Low,2020
+242,Nechako Buried Valley,"Between Fraser Lake and Stuart River, along & North of the Nechako",SG - Sand and Gravel,Fraser glaciofluvial,4b - Confined sand and gravel - glacial,L - Low,554.5,M - Moderate,L - Low,2020
+243,South Nechako Terrace Bedrock,Between Nechako River and mountains to the south,B - Bedrock,"Endako Formation, Cache Creek complex, Chilcotin Group, Vanderhoof Metamorphic Complex",6b - Fractured crystalline bedrock,M - Moderate,375.0,M - Moderate,L - Low,2020
+244,Vanderhoof Alluvial,"Along Nechako River, between Redmond Creek and Hulatt",SG - Sand and Gravel,Alluvial,1a - Unconfined sand and gravel - large river system,H - High,49.3,M - Moderate,L - Low,2020
+245,Tachick Lake Unconsolidated,East of Tachick Lake,SG - Sand and Gravel,Fraser Glaciofluvial,4b - Confined sand and gravel - glacial,L - Low,29.5,M - Moderate,L - Low,2020
+246,South Vanderhoof Unconsolidated,"South of Vanderhoof, between Tachick and Cluculz Lakes",SG - Sand and Gravel,Fraser Glaciofluvial,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,225.6,M - Moderate,L - Low,2020
+248,,"Spotted Lake, Osoyoos",B - Bedrock,Kobau Group,6b - Fractured crystalline bedrock,L - Low,4.4,L - Low,L - Low,2012
+249,,Duck Range / Pritchard / Monte Lake,B - Bedrock,Kamloops Group,6b - Fractured crystalline bedrock,M - Moderate,197.3,L - Low,L - Low,1996
+250,,Pinantan Lake / Pritchard,B - Bedrock,Kamloops and Nicola Group,6b - Fractured crystalline bedrock,M - Moderate,132.9,L - Low,M - Moderate,1996
+251,,Pritchard,SG - Sand and Gravel,Fraser Glaciation fluvial deposits,4b - Confined sand and gravel - glacial,L - Low,12.3,M - Moderate,L - Low,1996
+252,,Monte Creek,SG - Sand and Gravel,Fraser Glaciation fluvial deposits,4b - Confined sand and gravel - glacial,L - Low,4.0,M - Moderate,M - Moderate,1996
+253,,Monte Lake,SG - Sand and Gravel,Fraser Glaciation fluvial deposits,4b - Confined sand and gravel - glacial,M - Moderate,3.1,M - Moderate,L - Low,1996
+254,,Osoyoos Lake to southwest of Tug Lake,SG - Sand and Gravel,Recent and Fraser Glaciation fluvial deposits,1a - Unconfined sand and gravel - large river system,H - High,29.4,H - High,M - Moderate,2016
+255,,North of Tug Lake to Vaseux Lake,SG - Sand and Gravel,Recent and Fraser Glaciation fluvial deposits,1a - Unconfined sand and gravel - large river system,H - High,13.7,M - Moderate,H - High,2016
+256,,Testalinden Creek to Reed Creek,SG - Sand and Gravel,Recent and Fraser Glaciation fluvial deposits,3 - Unconfined sand and gravel - alluvial or colluvial fan,L - Low,16.1,L - Low,M - Moderate,2016
+257,,Meyers Flat,SG - Sand and Gravel,Fraser Glaciation fluvial deposits,4b - Confined sand and gravel - glacial,H - High,8.6,M - Moderate,M - Moderate,2016
+258,,Richter Pass,SG - Sand and Gravel,Recent Fraser Glaciation - Alluvial Fan deposits,3 - Unconfined sand and gravel - alluvial or colluvial fan,L - Low,7.6,M - Moderate,M - Moderate,2007
+259,Similkameen River Aquifer,US Border to Princeton,SG - Sand and Gravel,Unconfined alluvium; Fraser Glaciation,1a - Unconfined sand and gravel - large river system,H - High,120.6,H - High,M - Moderate,2016
+260,,Marron Valley northwest of Okanagan Falls,B - Bedrock,Basal Volcanics (Marron Formation),6b - Fractured crystalline bedrock,M - Moderate,62.5,M - Moderate,L - Low,2016
+261,,Marron Valley northwest of Okanagan Falls,SG - Sand and Gravel,Recent Fraser Glaciation,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,3.1,M - Moderate,M - Moderate,1997
+262,,White Lake Basin 35 km south of Penticton,SG - Sand and Gravel,Recent Fraser Glaciation,4a - Unconfined sand and gravel - late glacial outwash,H - High,1.2,H - High,L - Low,2007
+263,,North of Okanagan Falls/ shore of Skaha Lk,B - Bedrock,Nelson Plutonic,6b - Fractured crystalline bedrock,H - High,8.4,L - Low,L - Low,2007
+264,,Okanagan Falls and east of Okanagan Falls,SG - Sand and Gravel,Glaciofluvial Deposits,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,9.1,M - Moderate,M - Moderate,1997
+265,,Between OK Falls and Vaseux Lk,SG - Sand and Gravel,Glaciofluvial Deposits,1a - Unconfined sand and gravel - large river system,H - High,5.4,H - High,L - Low,2016
+266,,Stafford Creek southwest of Penticton,SG - Sand and Gravel,Glaciofluvial Deposits,4b - Confined sand and gravel - glacial,L - Low,2.7,H - High,L - Low,2007
+267,,Shingle Creek,SG - Sand and Gravel,Alluvial and Glaciofluvial Deposits,3 - Unconfined sand and gravel - alluvial or colluvial fan,M - Moderate,6.8,H - High,M - Moderate,1997
+268,,Penticton East and east shore of Skaha Lk.,B - Bedrock,Nelson Plutonic Rocks,6b - Fractured crystalline bedrock,M - Moderate,26.0,L - Low,M - Moderate,2007
+269,,Ellis Creek,B - Bedrock,Monashee Group,6b - Fractured crystalline bedrock,H - High,180.3,L - Low,M - Moderate,2020
+270,,Ellis Creek,SG - Sand and Gravel,Alluvium (Floodplain Deposits),3 - Unconfined sand and gravel - alluvial or colluvial fan,M - Moderate,4.7,H - High,M - Moderate,2007
+271,,North Thompson River floodplain,SG - Sand and Gravel,Alluvium (floodplain) and Fan Deposits,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,19.3,H - High,L - Low,2020
+272,,North-east of Kamloops,B - Bedrock,Cache Creek Group,5a - Fractured sedimentary rock,M - Moderate,672.4,L - Low,L - Low,1996
+273,,Rose Hill / Barnhartvale / Shumway Lake,B - Bedrock,Cache Creek and Nicola Groups,5a - Fractured sedimentary rock,M - Moderate,172.8,L - Low,L - Low,1996
+274,,Brigade Lake,B - Bedrock,Kamloops Group,6b - Fractured crystalline bedrock,M - Moderate,76.0,L - Low,L - Low,1996
+275,,Knutsford,B - Bedrock,Kamloops Group,6b - Fractured crystalline bedrock,L - Low,1.0,L - Low,M - Moderate,1996
+276,,Sugarloaf Hill southwest of Kamloops,B - Bedrock,Coast Intrusions: Iron Mask Batholith,6b - Fractured crystalline bedrock,M - Moderate,64.8,L - Low,L - Low,1996
+277,,Davidson Creek,SG - Sand and Gravel,Kamloops drift,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,1.0,M - Moderate,M - Moderate,1996
+278,,Peterson Creek,SG - Sand and Gravel,Kamloops drift,4a - Unconfined sand and gravel - late glacial outwash,H - High,2.2,M - Moderate,L - Low,1996
+279,,Buse Lake,SG - Sand and Gravel,Kamloops Drift; Pre- and Post-Fraser glacial and non-glacial deposits,4b - Confined sand and gravel - glacial,L - Low,5.3,M - Moderate,L - Low,1996
+280,,2 km west of Barnhartvale,SG - Sand and Gravel,Kamloops Drift; Pre-Fraser glacial and non-glacial deposits,4b - Confined sand and gravel - glacial,L - Low,1.4,M - Moderate,M - Moderate,1996
+281,,Paul Lake,SG - Sand and Gravel,Kamloops drift; Pre-Fraser glacial and non-glacial deposits,4b - Confined sand and gravel - glacial,L - Low,1.3,M - Moderate,M - Moderate,1996
+282,,Kamloops Airport,SG - Sand and Gravel,Recent alluvial,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,23.1,M - Moderate,L - Low,1996
+283,,North Thompson River north of Kamloops,SG - Sand and Gravel,Modern alluvium and Fan deposits,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,79.2,M - Moderate,L - Low,1996
+284,,Pulmill southwest of Kamloops,SG - Sand and Gravel,Recent alluvial deposits,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,2.2,M - Moderate,M - Moderate,1996
+285,,Campbell Creek,SG - Sand and Gravel,Recent alluvial and older Kamloops Drift,4b - Confined sand and gravel - glacial,M - Moderate,3.1,M - Moderate,M - Moderate,1996
+286,,Lower South Thompson River,SG - Sand and Gravel,Recent alluvial and older Kamloops Drift,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,33.2,H - High,M - Moderate,1996
+287,,Heffley and Edward Creek confluence,SG - Sand and Gravel,Lacustrine complex,4b - Confined sand and gravel - glacial,L - Low,0.7,M - Moderate,M - Moderate,1996
+288,,Louis and Fraser Creek Valleys,SG - Sand and Gravel,Alluvium-Fan complex,3 - Unconfined sand and gravel - alluvial or colluvial fan,L - Low,26.0,M - Moderate,L - Low,1996
+289,Westwold,Westwold Valley,SG - Sand and Gravel,glacial outwash and post-Fraser alluvium,4a - Unconfined sand and gravel - late glacial outwash,H - High,34.0,M - Moderate,M - Moderate,2018
+290,,Dixon and Sargent Creek Valleys,SG - Sand and Gravel,Alluvium-Fan complex,3 - Unconfined sand and gravel - alluvial or colluvial fan,L - Low,5.3,M - Moderate,L - Low,1996
+291,,"Dixon, Sargent and Jet Creek Valleys",B - Bedrock,Upper Triassic or earlier,6b - Fractured crystalline bedrock,M - Moderate,50.3,L - Low,L - Low,1996
+292,,Louis Creek and North Thompson confluence,SG - Sand and Gravel,Modern alluvium and fan deposits,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,2.3,M - Moderate,M - Moderate,1996
+293,,North Thompson River; north of Barriere,SG - Sand and Gravel,Modern alluvium and fan deposits,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,51.6,M - Moderate,L - Low,1996
+294,,Lower Barriere River Valley,SG - Sand and Gravel,,1c - Unconfined sand and gravel aquifer - small stream system,M - Moderate,11.7,M - Moderate,L - Low,1996
+295,,Christian Creek Valley,SG - Sand and Gravel,Lacustrine complex and hummocky gravels,4b - Confined sand and gravel - glacial,M - Moderate,5.1,H - High,M - Moderate,2020
+296,,Little Fort,SG - Sand and Gravel,Modern alluvium and fan deposits,1c - Unconfined sand and gravel aquifer - small stream system,M - Moderate,5.4,M - Moderate,L - Low,1996
+297,,"Summerland, Trout Creek",SG - Sand and Gravel,,2 - Unconfined sand and gravel - deltaic,M - Moderate,2.6,L - Low,L - Low,2007
+298,,Naramata,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,202.8,L - Low,L - Low,1997
+299,,Fauder (Meadow Valley),SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,7.8,M - Moderate,M - Moderate,1997
+300,,Faulder (Enesas Creek),B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,55.1,M - Moderate,M - Moderate,1997
+301,Shannon Lake,Shannon Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,1.1,M - Moderate,M - Moderate,1997
+302,Powers Ck Deltaic,South of Westbank adjacent to Okanagan Lk.,SG - Sand and Gravel,,2 - Unconfined sand and gravel - deltaic,H - High,1.6,H - High,M - Moderate,2020
+303,McDougall Creek Deltaic,Southeast of Westbank adj. to Okanagan Lk.,S - Sand,,2 - Unconfined sand and gravel - deltaic,M - Moderate,2.1,M - Moderate,L - Low,2007
+304,,"West side of Okanagan Lk, west of Kelowna",B - Bedrock,,5a - Fractured sedimentary rock,M - Moderate,63.6,L - Low,M - Moderate,2020
+306,,"East of Westbank, parallel to Mt. Boucher",SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,5.9,M - Moderate,L - Low,2020
+307,Eagle River,Malakwa,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,45.6,M - Moderate,M - Moderate,1997
+308,,West of Sicamous,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,4.7,L - Low,L - Low,1997
+309,,South of Sicamous,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,0.3,M - Moderate,M - Moderate,1997
+310,Creighton,Creighton Valley,SG - Sand and Gravel,"mixed kame, fan and modern alluvium",1c - Unconfined sand and gravel aquifer - small stream system,M - Moderate,9.8,M - Moderate,M - Moderate,2018
+311,Upper Cherryville,South of Cherryville,G - Gravel,"preglacial, early Bessette",4b - Confined sand and gravel - glacial,M - Moderate,5.9,M - Moderate,M - Moderate,2018
+312,,Cherryville,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,45.6,L - Low,L - Low,1998
+313,,Cherryville,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,14.7,L - Low,L - Low,1998
+314,Lumby - Lower Aquifer,Lumby,SG - Sand and Gravel,deep basal (early Bessette),4b - Confined sand and gravel - glacial,L - Low,29.5,M - Moderate,M - Moderate,2018
+316,Lumby - Upper Aquifer,Lavington to Lumby,SG - Sand and Gravel,,1c - Unconfined sand and gravel aquifer - small stream system,H - High,25.8,M - Moderate,M - Moderate,2018
+318,Bessette Creek,Lumby to Shuswap Falls,G - Gravel,deep basal (early Bessette),4b - Confined sand and gravel - glacial,L - Low,29.9,M - Moderate,M - Moderate,2018
+319,Trinity Valley,North of Lumby,G - Gravel,late Bessette to early glacial,1c - Unconfined sand and gravel aquifer - small stream system,H - High,12.1,M - Moderate,M - Moderate,2018
+320,,Galiano Island,B - Bedrock,Upper Cretaceous Nanaimo Group,5a - Fractured sedimentary rock,M - Moderate,58.2,L - Low,M - Moderate,1999
+321,Upper Gates River,Birken,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,4.6,M - Moderate,L - Low,1998
+322,Lower Gates River,D'Arcy,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,7.1,M - Moderate,L - Low,1998
+323,Seton Portage,Seton Portage,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,1.8,M - Moderate,M - Moderate,1998
+324,,Lillooet,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,7.3,M - Moderate,L - Low,1998
+325,,Lillooet,SG - Sand and Gravel,,1c - Unconfined sand and gravel aquifer - small stream system,M - Moderate,4.4,M - Moderate,M - Moderate,1998
+326,,Pemberton,SG - Sand and Gravel,Fluvial sand and gravel,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,32.7,H - High,M - Moderate,2012
+327,,Prince George,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,3.4,M - Moderate,L - Low,1999
+328,,Prince George,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,20.4,M - Moderate,L - Low,1999
+329,,Prince George,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,45.8,L - Low,L - Low,1999
+330,,Prince George,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,5.9,M - Moderate,L - Low,1999
+331,,Prince George,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,7.7,M - Moderate,L - Low,1999
+332,,Prince George,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,309.7,M - Moderate,M - Moderate,1999
+333,,Hixon,SG - Sand and Gravel,,1c - Unconfined sand and gravel aquifer - small stream system,H - High,23.4,M - Moderate,L - Low,1999
+334,,Hixon,SG - Sand and Gravel,"Post-glacial, Quatenary,alluvial deposits(Learning and Armstrong,1969)",1a - Unconfined sand and gravel - large river system,H - High,0.6,M - Moderate,L - Low,2007
+335,,Hixon,SG - Sand and Gravel,"Fraser glaciation, Quaternary, glaciofluvual deposits (Learming and Armstrong,",4b - Confined sand and gravel - glacial,L - Low,108.0,M - Moderate,L - Low,1999
+336,,Hixon,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,3.2,M - Moderate,L - Low,2007
+337,111 Mile Creek Valley Aquifer System,Dissected valley northeast of Lac la Hache,SG - Sand and Gravel,Pre-Fraser Glaciation fluvial,4b - Confined sand and gravel - glacial,M - Moderate,37.6,M - Moderate,L - Low,2022
+339,,North of Prince George,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,325.7,M - Moderate,L - Low,2020
+340,,East of Vanderhoof/north of Prince George,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,5.0,L - Low,L - Low,2020
+341,,East of Vanderhoof /norht of Prince George,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,3.6,M - Moderate,L - Low,2007
+342,,East of Vanderhoof/north of Prince George,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,2.7,H - High,L - Low,2007
+343,,North of Prince George,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,34.7,M - Moderate,L - Low,1999
+344,,Ellison Lake to Wood Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,8.7,H - High,H - High,1999
+345,,Oyama,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,H - High,6.2,H - High,M - Moderate,2020
+346,South Vernon Unconfined Aquifer,Kalamalka Lake to Vernon,SG - Sand and Gravel,Likely alluvium or stream terrace deposits,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,14.7,M - Moderate,L - Low,2017
+347,South Vernon Confined Aquifer,Vernon to Okanagan Lake,SG - Sand and Gravel,Sand and gravels from alluvium or stream terrace deposits,4b - Confined sand and gravel - glacial,L - Low,6.8,H - High,M - Moderate,2017
+348,Swan Lake Confined Aquifer,Just north of Vernon to north of Swan Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,13.8,H - High,L - Low,2017
+349,,Northeast of Vernon along BX Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,9.6,M - Moderate,M - Moderate,2017
+350,,NE of Vernon and to the south of BX Creek,B - Bedrock,,5a - Fractured sedimentary rock,L - Low,7.0,L - Low,M - Moderate,2012
+351,,NE of Vernon and to the north of BX Creek,B - Bedrock,Chase Formation and Silver Creek Formation,6b - Fractured crystalline bedrock,L - Low,54.0,L - Low,L - Low,2021
+352,Coldstream,Coldstream to Lavington,SG - Sand and Gravel,"reworked Bessette, early glacial outwash",4b - Confined sand and gravel - glacial,L - Low,15.0,M - Moderate,M - Moderate,2018
+353,Eagle Rock Aquifer,SE of Armstrong,SG - Sand and Gravel,"Pre-Glacial, Reworked Pre-Glacial, Syn-Glacial",3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,7.7,H - High,H - High,2017
+354,O’Keefe Unconfined Aquifer,O'Keefe Valley and Grandview Flats,SG - Sand and Gravel,"Pre-Glacial, Reworked Pre-Glacial, Syn-Glacial",4a - Unconfined sand and gravel - late glacial outwash,H - High,23.9,M - Moderate,L - Low,2017
+355,,"West of Deep Creek, NW of Armstrong",B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,17.3,L - Low,L - Low,2020
+356,,Mouth of  Deep Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,4.7,M - Moderate,L - Low,2007
+357,,Whiteman Creek Fan,SG - Sand and Gravel,Alluvial fan deposits,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,2.2,H - High,L - Low,1999
+358,,"Fintry Fan, Short Creek",SG - Sand and Gravel,Alluvial fan sediments,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,0.9,H - High,M - Moderate,1999
+359,,"Quesnel, west side of Fraser River",SG - Sand and Gravel,Sand & Gravel,4b - Confined sand and gravel - glacial,M - Moderate,11.3,M - Moderate,M - Moderate,2017
+360,,"West of Bouchie Lake, northwest of Quesnel",B - Bedrock,"Sedimentary rk, Cache Creek Complex, Paleozoic to Mesozoic Era",6b - Fractured crystalline bedrock,L - Low,47.3,L - Low,L - Low,2012
+361,,East of Milburn Lake and nw of Quesnel,SG - Sand and Gravel,Sand & Gravel,4a - Unconfined sand and gravel - late glacial outwash,H - High,5.7,M - Moderate,M - Moderate,2012
+362,,North of Quesnel and south of Strathnaver,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,5.1,M - Moderate,L - Low,1999
+363,,NW of Quesnel and north of Bouchie Lake,SG - Sand and Gravel,Sand & Gravel,4b - Confined sand and gravel - glacial,L - Low,11.1,M - Moderate,L - Low,2012
+364,,NW of Quesnel and west of Moose Heights,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,3.8,M - Moderate,L - Low,1999
+365,,NW of Quesnel and E shoreline of Bouchie L,SG - Sand and Gravel,Sand & Gravel,4b - Confined sand and gravel - glacial,L - Low,17.1,M - Moderate,M - Moderate,2012
+366,,Northwest of Quesnel and east of Bouchie L,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,2.3,M - Moderate,M - Moderate,1999
+367,,Northwset of Quesnel,SG - Sand and Gravel,,1a - Unconfined sand and gravel - large river system,M - Moderate,1.6,L - Low,M - Moderate,1999
+368,,2 km. north of Quesnel,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,32.9,L - Low,L - Low,1999
+369,,2 km. north of Quesnel Airport,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,1.6,M - Moderate,M - Moderate,1999
+370,,Area west of Quesnel,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,6.7,H - High,M - Moderate,1999
+371,,E of Quesnel Airport and S of Ten Mile L.,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,26.3,M - Moderate,L - Low,1999
+372,,"Northwest of Ten Mile Lake, Quesnel",SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,29.8,L - Low,L - Low,1999
+373,,Rt. St. James at mouth of Stuart L,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,14.1,H - High,H - High,1999
+374,,Ft st James bounded by Stuart L and Pitka,B - Bedrock,Late Proterozioc to Oligocene of Later-Cache Creek Group,5b - Karstic limestone,L - Low,19.2,L - Low,L - Low,1999
+375,,Ft St James bound by Necoslie R and Stuart,B - Bedrock,,5b - Karstic limestone,L - Low,3.6,L - Low,L - Low,1999
+376,,Ft St James-south of Stuart L shoreli,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,2.1,M - Moderate,L - Low,1999
+377,,Ft. St. James-west of Sruart R.,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,11.9,M - Moderate,L - Low,1999
+378,,Ft. St. James - east of Stuart River,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.9,L - Low,L - Low,1999
+379,,"Horsefly, B.C.",SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,6.2,L - Low,L - Low,2000
+380,,14 km North of William Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,6.7,M - Moderate,L - Low,2000
+382,,Soda Cr. 26 km north of Williams Lake,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,201.9,M - Moderate,L - Low,2017
+383,,"Dugan Lake, 7km north of 150 Mile House",SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,14.1,M - Moderate,L - Low,2000
+384,,"150 Mile House, B. C.",SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,12.2,M - Moderate,M - Moderate,2000
+385,,4.5 km. sw of McKenzie,SG - Sand and Gravel,Glaciofluvial sand and gravel,4b - Confined sand and gravel - glacial,L - Low,20.7,H - High,H - High,2021
+386,,"Miocene, Northeast of 150 Mile House",B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,65.6,L - Low,L - Low,2000
+387,,"Alliuvial Fan of Fitzsimmons Cr.,Whistler",SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,M - Moderate,2.6,H - High,H - High,2000
+388,,SW end of Green Lake at Nineteen Mile Cr.,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,M - Moderate,1.2,H - High,H - High,2007
+389,,"Valley from Alta Lk to Green Lk, Whistler",SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,3.2,H - High,L - Low,2007
+390,,W side of Green Lk opposite Parkhurst,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,0.1,H - High,H - High,2000
+391,,Bdrk aq above and on the NW side of valley,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,45.6,M - Moderate,L - Low,2007
+392,,Bdrk aq above and on the SW side of valley,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,74.0,M - Moderate,L - Low,2007
+393,,At Whislter Cr between Nita Lk and Alpha L,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,M - Moderate,0.4,H - High,H - High,2007
+394,,"Sproatt Cr Fan, w end of Alpha Lk,Whistler",SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,M - Moderate,0.1,M - Moderate,H - High,2007
+395,,Appr 2km w of Alpha Lk at Sproatt,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,1.2,H - High,H - High,2000
+396,,Cheekye Fan,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,5.1,H - High,L - Low,2007
+397,,Powerhouse Springs Mamguan R E of Squamish,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,0.2,H - High,H - High,2007
+398,,Mamquam Valley,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,6.0,H - High,L - Low,2007
+399,,Squamish River Squamish to Brackendale,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,12.0,H - High,L - Low,2007
+400,,"Confluence - Squamish, Cheakamus, Cheekye",SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,M - Moderate,8.7,M - Moderate,L - Low,2007
+401,,22 km north along the Cheakamus River,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,6.4,H - High,M - Moderate,2000
+402,,"Stawamus R valley, Squamish",SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,1.6,H - High,L - Low,2020
+403,,"Shannon Falls, south of Squamish",SG - Sand and Gravel,,4c - Confined sand and gravel - glacio-marine,L - Low,0.6,M - Moderate,M - Moderate,2020
+404,,Furry Creek,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,M - Moderate,0.8,H - High,M - Moderate,2020
+405,,D'Arcy Creek Alluvial Fan,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,1.0,H - High,L - Low,2020
+406,,Approximately 11 km NE of 150 Mile house,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,1.2,M - Moderate,M - Moderate,2000
+407,,"Point Holmes, east of the Town of Comox.",SG - Sand and Gravel,Salish Sediments,2 - Unconfined sand and gravel - deltaic,H - High,1.9,M - Moderate,L - Low,2000
+408,Comox-Merville,Comox Harbour to 10 km north of Merville,SG - Sand and Gravel,Quadra Sediments,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,155.0,,,2023
+409,,Little River deltaic deposit,SG - Sand and Gravel,Salish Sediments,2 - Unconfined sand and gravel - deltaic,H - High,1.3,M - Moderate,L - Low,2000
+411,"Nanaimo Group, Campbell River to Courtney",1 km S. of Oyster R. Vancounver Is.,B - Bedrock,Nanaimo group,5a - Fractured sedimentary rock,L - Low,731.9,,,2019
+412,Oyster River,"Kahushan Point, north bank of Oyster R.",SG - Sand and Gravel,Salish Sediments,2 - Unconfined sand and gravel - deltaic,H - High,9.3,,,2019
+414,,Alluvial fan at the mouth of Rosewall Cr.,SG - Sand and Gravel,Salish Sediments,2 - Unconfined sand and gravel - deltaic,H - High,1.5,H - High,H - High,2000
+415,,Tsable River delta deposit,SG - Sand and Gravel,Salish Sediments,2 - Unconfined sand and gravel - deltaic,H - High,0.8,H - High,L - Low,2000
+416,,Thames River to Maplegaurd Point,SG - Sand and Gravel,Quadra Sediments,4b - Confined sand and gravel - glacial,M - Moderate,44.9,H - High,L - Low,2023
+417,Puntledge/ Cumberland,"North of Cumberland, to Puntledge R.",SG - Sand and Gravel,Vashon Drift (glaciofluvial) or Quadra Sand,4a - Unconfined sand and gravel - late glacial outwash,H - High,37.4,,,2019
+418,,South bank at Oyster-Little R. confluence,SG - Sand and Gravel,Quadra Sediments?,4b - Confined sand and gravel - glacial,L - Low,0.7,L - Low,L - Low,2000
+419,,"Wilfred Creek delta, south of Fanny Bay",SG - Sand and Gravel,Quadra Sediments,2 - Unconfined sand and gravel - deltaic,M - Moderate,4.3,H - High,M - Moderate,2000
+422,,"Porteau Cove, Howe Sound",SG - Sand and Gravel,Quadra Sediments,3 - Unconfined sand and gravel - alluvial or colluvial fan,M - Moderate,0.1,L - Low,L - Low,2000
+423,Northern Lac la Hache Aquifer System,"Within Lac la Hach valley, along the northern shoreline of Lac la Hache",SG - Sand and Gravel,Pre-Fraser Glaciation fluvial,4b - Confined sand and gravel - glacial,M - Moderate,8.2,H - High,L - Low,2022
+424,Bridge Lake Aquifer System,Permeable sediments surrounding Bridge Lake,SG - Sand and Gravel,Pre-Fraser Glaciation fluvial,4b - Confined sand and gravel - glacial,M - Moderate,14.4,M - Moderate,L - Low,2022
+425,,south of Bridge Lake,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,45.5,L - Low,L - Low,2000
+426,Bradley Creek Valley Aquifer System,"Near the headwaters of Bradley Creek to Canim Lake, including Ruth Lake",SG - Sand and Gravel,Pre-Fraser Glaciation fluvial,4b - Confined sand and gravel - glacial,M - Moderate,24.5,M - Moderate,L - Low,2022
+427,,southern tip of Canim Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,15.7,M - Moderate,L - Low,2000
+428,,San Jose River and Knife Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,1.4,M - Moderate,M - Moderate,2000
+429,,near Ruth Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,4.3,M - Moderate,L - Low,2000
+430,,West shore of Canim Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.9,M - Moderate,L - Low,2000
+431,,Mackenzie,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,1.5,H - High,M - Moderate,2001
+432,,Mackenzie,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,3.1,M - Moderate,M - Moderate,2001
+433,,McLeod Lake,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,10.3,M - Moderate,M - Moderate,2001
+434,,Appr 6km NE of Tudyah Lakes,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,15.2,M - Moderate,L - Low,2001
+435,,"Whaling Station Bay, Hornby Island",B - Bedrock,,5a - Fractured sedimentary rock,M - Moderate,3.8,L - Low,H - High,2020
+436,,"Shingle Spit-Phipps Point, Hornby Island",B - Bedrock,,5a - Fractured sedimentary rock,M - Moderate,5.2,L - Low,H - High,2020
+437,,"Ford Cove-Norman Point, Hornby Island",B - Bedrock,,5a - Fractured sedimentary rock,M - Moderate,2.2,M - Moderate,M - Moderate,2020
+438,,"Mt. Geoffrey, Hornby Island",B - Bedrock,,5a - Fractured sedimentary rock,M - Moderate,18.8,M - Moderate,H - High,2020
+439,,Jim Smith Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.7,M - Moderate,H - High,2003
+440,,Hudson Hope,SG - Sand and Gravel,High energy glaciofluvial sand & gravel,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,13.2,M - Moderate,L - Low,2004
+441,,Lynx Ck.; 7 km NE of Hudson Hope,B - Bedrock,,5a - Fractured sedimentary rock,M - Moderate,13.6,M - Moderate,L - Low,2004
+442,,3.5 km W. of Taylor,SG - Sand and Gravel,sand and gravel,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,1.9,H - High,M - Moderate,2004
+443,,Taylor townsite N. of peace R.,G - Gravel,,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,11.9,M - Moderate,M - Moderate,2004
+444,Fort St. John Overburden Aquifer System,Between Wilder Creek and Charlie Lake and the Peace River escarpment,SG - Sand and Gravel,Mid-Wisconsinan fluvial gravel and Late-Wisconsinan outwash sand and gravel,4a - Unconfined sand and gravel - late glacial outwash,H - High,178.6,M - Moderate,L - Low,2022
+445,,NW of Cranbrook; near Hospital Ck,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,4.7,M - Moderate,M - Moderate,2016
+446,,"Booth Creek, NW of Cranbrook",SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,2.8,L - Low,M - Moderate,2016
+447,,"Georgina Pt - Hall Hill, Mayne Island N.",B - Bedrock,Upper Cretaceous; Nanimo Grp; Gabriola & Spray Formations,5a - Fractured sedimentary rock,H - High,3.7,L - Low,M - Moderate,2006
+448,,Clayhurst,B - Bedrock,"Smoky Group , Wapiti Formation",5a - Fractured sedimentary rock,L - Low,90.1,M - Moderate,L - Low,2004
+449,,West of Sooke at Orveas Bay,B - Bedrock,Sooke Formation,5a - Fractured sedimentary rock,L - Low,28.1,M - Moderate,L - Low,2003
+450,,Nicholson; Stacey Ck. Fan and South,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,3.3,M - Moderate,L - Low,2003
+451,Central Halfway-Beatton Bedrock Aquifer,"South of Highway 97, between Red Creek and Cameron River",B - Bedrock,Dunvegan Formation,5a - Fractured sedimentary rock,M - Moderate,512.5,M - Moderate,L - Low,2022
+453,,Windermere; E. side of Windermere LK.,SG - Sand and Gravel,Glaciofluvial; Multiple stacked aquifers?,4b - Confined sand and gravel - glacial,M - Moderate,65.0,M - Moderate,L - Low,2016
+454,,S. of Golden; across R. from Nicholson,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,4.0,M - Moderate,M - Moderate,2003
+455,,Hospital Creek near Golden,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,0.9,M - Moderate,L - Low,2003
+456,,"Golden, confluence of 2 rivers",SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,10.2,H - High,M - Moderate,2003
+458,,Fairmont Hotsprings; W. side of R.,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,15.4,M - Moderate,L - Low,2016
+459,,Fairmont Hot Springs,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,H - High,3.3,H - High,M - Moderate,2003
+461,,Upper Mission Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,15.1,M - Moderate,L - Low,2001
+462,Bellevue fan aquifer,Upper Mission in south Kelowna,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,L - Low,22.0,M - Moderate,M - Moderate,2018
+464,Greater Kelowna Aquifer,Below Kelowna to Ellison Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,93.7,H - High,L - Low,2018
+467,Mission Creek Aquifer,East Kelowna and Rutland area,SG - Sand and Gravel,,1c - Unconfined sand and gravel aquifer - small stream system,H - High,41.7,H - High,M - Moderate,2001
+469,Glemmore Basal Aquifer,"Glenmore Valley, N. of Kelowna",SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,11.9,M - Moderate,L - Low,2001
+470,470,Kelowna north to Ellison Lake,B - Bedrock,"Volcanic Rk, Penticton Grp, Cenozoic Era & Harper Ranch Grp, Paleozoic Era",6b - Fractured crystalline bedrock,M - Moderate,52.2,L - Low,L - Low,2012
+471,,West of Ellison Lake,B - Bedrock,Intrusive rks; Mesozoic Era; Granite & Alkali feldspar granite,6b - Fractured crystalline bedrock,M - Moderate,127.6,L - Low,L - Low,2012
+472,472,Southeast of Ellison Lake,B - Bedrock,"Metamorphic Rk, Shuswap Assemblage, Proterozoic to Paleozoic Era",6b - Fractured crystalline bedrock,M - Moderate,18.8,L - Low,M - Moderate,2001
+473,,"Mission, Daves & Cardinal Ck area",B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,39.4,L - Low,L - Low,2001
+474,,Kettle Valley - Rock Creek,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,1.4,H - High,L - Low,2002
+475,,Bedrock slope north of Rock Creek,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,0.7,M - Moderate,L - Low,2002
+476,,Low lying area northeast of Rock Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.4,M - Moderate,M - Moderate,2002
+477,,"Kettle R., eastward from Rock Ck.",SG - Sand and Gravel,,1c - Unconfined sand and gravel aquifer - small stream system,H - High,5.8,H - High,M - Moderate,2002
+478,,Midway,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,3.6,H - High,H - High,2002
+479,,Kettle River Valley near Christina Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,9.7,M - Moderate,L - Low,2002
+480,,South end of Christina Lk.,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,0.9,H - High,L - Low,2002
+481,,Kettle River Valley at West ridge,SG - Sand and Gravel,,1c - Unconfined sand and gravel aquifer - small stream system,M - Moderate,6.1,H - High,L - Low,2002
+482,,Kettle river Valley near Beaverdell,SG - Sand and Gravel,,1c - Unconfined sand and gravel aquifer - small stream system,H - High,15.9,M - Moderate,L - Low,2002
+483,,Trail Townsite,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,1.3,H - High,M - Moderate,2002
+484,,Waneta Junction/southeast of Trail,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.6,M - Moderate,M - Moderate,2002
+485,,Southwest of the Village of Montrose,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,M - Moderate,0.1,M - Moderate,M - Moderate,2002
+486,,Columbia Gardens northwards to Kelly Ck.,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,21.1,L - Low,L - Low,2002
+487,,Goat River Floodplain near Creston,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,10.3,M - Moderate,L - Low,2002
+488,,"Lister, South of Creston",B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,77.2,L - Low,L - Low,2002
+489,,"Canyon, SE of Creston",SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,L - Low,2.1,M - Moderate,M - Moderate,2002
+490,,Rykerts Lake,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,0.7,M - Moderate,M - Moderate,2002
+491,,Southern area of the Moyie R.,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,3.3,H - High,M - Moderate,2002
+492,,Yahk,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,1.4,H - High,M - Moderate,2002
+493,,"Ross Spur, North",B - Bedrock,,5a - Fractured sedimentary rock,M - Moderate,6.7,M - Moderate,M - Moderate,2002
+494,,"Ross Spur, South",B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,20.4,M - Moderate,M - Moderate,2002
+495,,Fruitvale Creek,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,11.1,M - Moderate,M - Moderate,2002
+496,,Salmo River,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,15.0,M - Moderate,L - Low,2002
+497,,"Erie 1, Salmo",SG - Sand and Gravel,,1c - Unconfined sand and gravel aquifer - small stream system,M - Moderate,1.3,H - High,M - Moderate,2002
+498,,"Erie 2, Salmo",SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,M - Moderate,1.0,M - Moderate,M - Moderate,2007
+499,Alice Siding,"Alice Siding, north of Creston",B - Bedrock,"Sedimentary & dolomitic rks, Creston, Kitchener & Aldridge Formations",6b - Fractured crystalline bedrock,M - Moderate,35.2,L - Low,L - Low,2012
+500,,"Blueberry, between China Ck. and Kinnaird",B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,14.0,L - Low,L - Low,2002
+501,,Lower China Creek,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,1.3,H - High,M - Moderate,2002
+502,502,"Robson, N of Columbia R. & W of Castlegar",SG - Sand and Gravel,Fluvial sand and gravels,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,1.6,M - Moderate,M - Moderate,2012
+503,,Robson - South,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,0.3,M - Moderate,H - High,2002
+504,504,Raspberry Village,SG - Sand and Gravel,Post glacial floodplain,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,1.6,M - Moderate,M - Moderate,2012
+505,505,Castlegar Townsite North,SG - Sand and Gravel,Fluvial sand and gravel,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,1.9,H - High,L - Low,2012
+506,506,"Brilliant, Kootenay & Columbia Rivers",SG - Sand and Gravel,Fluvial sand and gravels,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,0.8,H - High,L - Low,2012
+507,,Airport Creek,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,1.9,H - High,M - Moderate,2002
+508,,"Selkirk Colledge, Southeast of Castlegar",SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,1.4,H - High,M - Moderate,2012
+509,,Castlegar - South,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,2.1,H - High,M - Moderate,2002
+510,,Castlegar - Airport,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,6.6,M - Moderate,M - Moderate,2002
+511,,Fortynine Creek,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,22.9,M - Moderate,M - Moderate,2016
+512,,"Falls Creek near West Arm, Kootenay Lake",B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,36.9,M - Moderate,L - Low,2016
+513,,Krestova B. R.,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,11.9,M - Moderate,L - Low,2016
+514,,Crescent Valley,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,15.5,M - Moderate,M - Moderate,2016
+515,,Krestova - Surficial,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,0.8,L - Low,L - Low,2002
+516,,Willow Point,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,0.8,H - High,M - Moderate,2002
+517,,Roberts Bay - Cedar Point,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,2.8,M - Moderate,M - Moderate,2002
+518,,Mt. Nelson,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,1.6,M - Moderate,L - Low,2002
+519,,Baynes Lake - East 1,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,6.8,M - Moderate,M - Moderate,2002
+520,,Baynes Lake - East 2,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,4.3,M - Moderate,M - Moderate,2002
+521,,Jaffray,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,5.2,H - High,H - High,2002
+522,,Rosen Lake - South,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,0.3,M - Moderate,M - Moderate,2002
+523,,"Cranbrook S., B. R.",B - Bedrock,,5a - Fractured sedimentary rock,M - Moderate,28.5,L - Low,M - Moderate,2003
+524,,Cranbrook,SG - Sand and Gravel,Glaciofluvial,4a - Unconfined sand and gravel - late glacial outwash,H - High,21.8,M - Moderate,M - Moderate,2012
+525,,Cranbrook - West St. Mary River,SG - Sand and Gravel,Glaciofluvial,4b - Confined sand and gravel - glacial,L - Low,30.3,M - Moderate,L - Low,2016
+526,,Cranbrook - East,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,10.8,M - Moderate,M - Moderate,2002
+527,,Bull River,SG - Sand and Gravel,Fluvioglacial; possibly stacked aquifers,4b - Confined sand and gravel - glacial,M - Moderate,4.1,M - Moderate,M - Moderate,2012
+528,,Wardner,SG - Sand and Gravel,Sand and gravel,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,8.0,M - Moderate,H - High,2012
+529,,Wardner,B - Bedrock,"Sed rock; Banff, Exshaw, Palliser, Sassenach, Alexo form.; Paleozoic Era",5a - Fractured sedimentary rock,M - Moderate,46.9,M - Moderate,L - Low,2012
+530,,Rosen Lake - North,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.3,M - Moderate,H - High,2002
+531,,Tie Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,0.2,M - Moderate,H - High,2002
+532,,Elk River,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,20.8,M - Moderate,M - Moderate,2002
+534,,Fernie S. B. R.,B - Bedrock,,5a - Fractured sedimentary rock,L - Low,7.2,L - Low,M - Moderate,2002
+535,,Cranbrook Northwest,B - Bedrock,Indurated sedimentary rocks; siltstone and argillite,5a - Fractured sedimentary rock,M - Moderate,115.0,M - Moderate,L - Low,2016
+536,,Wycliffe,B - Bedrock,,5a - Fractured sedimentary rock,L - Low,57.6,M - Moderate,L - Low,2016
+537,,"Kimberley, B.R.",B - Bedrock,,5a - Fractured sedimentary rock,L - Low,25.0,M - Moderate,L - Low,2016
+538,,St. Mary River IR,SG - Sand and Gravel,,1a - Unconfined sand and gravel - large river system,H - High,10.7,M - Moderate,L - Low,2016
+539,,Mather Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,4.0,M - Moderate,L - Low,2016
+540,,Wasa Lake,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,10.6,M - Moderate,M - Moderate,2002
+541,,Ta Ta Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,3.0,M - Moderate,M - Moderate,2002
+542,,North of Wasa Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,4.1,M - Moderate,L - Low,2002
+543,,Skookumchuk S.,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,23.0,H - High,L - Low,2002
+544,,Skookumchuk E.,SG - Sand and Gravel,,1c - Unconfined sand and gravel aquifer - small stream system,H - High,0.5,H - High,L - Low,2002
+545,,NE of Skookumchuck,SG - Sand and Gravel,,1c - Unconfined sand and gravel aquifer - small stream system,M - Moderate,6.3,M - Moderate,M - Moderate,2002
+546,,Moyie River - South near Glenlily,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,3.2,H - High,L - Low,2002
+547,,SE portion of Keats Island,SG - Sand and Gravel,,4c - Confined sand and gravel - glacio-marine,M - Moderate,0.7,L - Low,L - Low,2001
+548,,Keats Island,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,6.2,L - Low,L - Low,2001
+549,,Southwestern portion of Gambier Island,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,4.1,L - Low,M - Moderate,2001
+550,,"Carmelo Point, Gambier Island",B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,2.8,L - Low,M - Moderate,2001
+551,,Northeast portion of Gambier Island,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,5.8,L - Low,L - Low,2002
+552,Langdale/Hopkins,Langdale,SG - Sand and Gravel,Quadra or Pre-Vashon,4b - Confined sand and gravel - glacial,M - Moderate,7.2,,,2018
+555,Roberts Creek,Sechelt,B - Bedrock,Granitic/Dioritic,6b - Fractured crystalline bedrock,M - Moderate,40.8,,,2018
+557,,"Sargeant Bay, Sunshine Coast",SG - Sand and Gravel,Recent fluvial and glacio-marine sediments; Capilano Sediments,4c - Confined sand and gravel - glacio-marine,M - Moderate,3.0,M - Moderate,M - Moderate,2012
+558,,Halfmoon Bay,B - Bedrock,,6b - Fractured crystalline bedrock,H - High,10.3,M - Moderate,M - Moderate,2003
+559,,Sakinaw Lake; Mixel Lake,B - Bedrock,Bedrock   fractured granite,6b - Fractured crystalline bedrock,H - High,14.5,M - Moderate,M - Moderate,2012
+560,Gibsons/SCRD Granthams Landing/Elphinstone,Sunshine Coast,SG - Sand and Gravel,Quadra Sands,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,18.3,,,2019
+561,,Kleindale,B - Bedrock,,6b - Fractured crystalline bedrock,H - High,4.2,M - Moderate,M - Moderate,2003
+562,West Sechelt,Sunshine Coast,B - Bedrock,Granoritic/Dioritic,6b - Fractured crystalline bedrock,M - Moderate,56.8,,,2018
+563,Sechelt/Wakefield Creek,Sunshine Coast,SG - Sand and Gravel,Quadra Sands,4b - Confined sand and gravel - glacial,M - Moderate,10.5,,,2018
+564,East Porpoise Bay,Sunshine Coast,B - Bedrock,Granodioritic/Dioritic,6b - Fractured crystalline bedrock,M - Moderate,28.2,,,2018
+565,,Francis Penninsula,B - Bedrock,Bedrock;  fractured basalt or granite,6b - Fractured crystalline bedrock,H - High,3.7,M - Moderate,L - Low,2012
+566,East Sechelt Delta,Sunshine Coast,SG - Sand and Gravel,Salish Sediments,4a - Unconfined sand and gravel - late glacial outwash,H - High,9.7,,,2018
+569,,Confluence of Telkwa and Bulkley Rivers,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,2.4,M - Moderate,L - Low,2003
+570,,Terrace - SE; Jack Pine Flats,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,32.8,M - Moderate,M - Moderate,2017
+571,,E. of Terrace - Thornhill; E. of River,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,17.4,M - Moderate,M - Moderate,2017
+572,,E. of Terrace - Thornhill; E. side of R.,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,15.1,M - Moderate,M - Moderate,2017
+573,,Terrace - North,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,38.5,M - Moderate,M - Moderate,2017
+574,,Gossan Creek; E. of Terrace,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,H - High,4.7,M - Moderate,M - Moderate,2017
+575,,Terrace - South,SG - Sand and Gravel,,1a - Unconfined sand and gravel - large river system,M - Moderate,19.1,H - High,H - High,2017
+576,,S. of Telkwa; SE side of Telkwa River,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,5.0,H - High,M - Moderate,2003
+577,,E. of Smithers; E. side of Bulkley River,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,13.7,M - Moderate,L - Low,2003
+578,,E. of Smithers; E. side of Bulkley River,B - Bedrock,,5a - Fractured sedimentary rock,L - Low,159.9,L - Low,L - Low,2003
+579,,E. of Smithers; E. side of Bulkley River,B - Bedrock,,5a - Fractured sedimentary rock,L - Low,62.3,L - Low,L - Low,2003
+580,,Smithers - North; W. side of Bulkley River,B - Bedrock,,5a - Fractured sedimentary rock,L - Low,5.9,L - Low,L - Low,2003
+581,,S of Telkwa & Bulkley R. confluence,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,26.6,M - Moderate,L - Low,2003
+582,,Confluence of Telkwa & Bulkley R,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,0.8,M - Moderate,M - Moderate,2003
+583,,East side of Telkwa River,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,2.5,M - Moderate,M - Moderate,2003
+584,,Smithers - North; E. side of Bulkley River,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,20.7,M - Moderate,L - Low,2003
+585,,Smithers - South; W. side of Bulkley River,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,9.8,H - High,M - Moderate,2003
+586,,Smithers; Between Beavery & John Brown Cks,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.6,L - Low,M - Moderate,2003
+587,,Smithers - East; E. side of Bulkley River,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,2.7,M - Moderate,L - Low,2003
+589,East Pine Bedrock Aquifer,Bedrock area east of the confluence of the Pine & Murray Rivers,B - Bedrock,Dunvegan & Kaskapau Formation,5a - Fractured sedimentary rock,M - Moderate,181.0,M - Moderate,L - Low,2023
+590,Groundbirch Buried Valley,"Groundbirch, BC (Peace River District)",SG - Sand and Gravel,Late Wisconsinan glaciodeltaic sand and gravel,4b - Confined sand and gravel - glacial,H - High,155.6,M - Moderate,L - Low,2023
+591,East Pine - Groundbirch Bedrock Aquifer,"East of Pine River, Groundbirch",B - Bedrock,Kaskapau Formation,5a - Fractured sedimentary rock,M - Moderate,269.1,M - Moderate,L - Low,2023
+592,Sunset Creek Overburden Aquifer,"Groundbirch and Willow Valley, BC",SG - Sand and Gravel,Late Wisconsinan glaciodeltaic sand and gravel,4b - Confined sand and gravel - glacial,M - Moderate,87.4,M - Moderate,L - Low,2023
+593,Valley View - Dawson Creek Bedrock Aquifer,"Between the Kiskatinaw and Pouce Coupé rivers, Dawson Creek, Arras, BC",B - Bedrock,Kaskapau Formation,5a - Fractured sedimentary rock,H - High,886.1,L - Low,L - Low,2023
+594,Kiskatinaw Buried Channel,"South of Peace River, Lower Kiskatinaw River Valley, Sunset Prairie, Arras, BC",SG - Sand and Gravel,Middle Wisconsinan fluvial sand and gravel,4b - Confined sand and gravel - glacial,L - Low,198.3,H - High,L - Low,2023
+595,Sunset Prairie Bedrock Aquifer,Between Progress and the confluence of the Kiskatinaw & Peace River.,B - Bedrock,Dunvegan and Kaskapau formations,5a - Fractured sedimentary rock,M - Moderate,642.4,M - Moderate,L - Low,2023
+596,Kiskatinaw Glaciodeltaic Overburden Aquifer,"South of Peace River, Lower Kiskatinaw River Valley",SG - Sand and Gravel,Late Wisconsinan glaciodeltaic sand and gravel,4b - Confined sand and gravel - glacial,L - Low,198.3,M - Moderate,L - Low,2023
+597,,Arras Buried Channels,SG - Sand and Gravel,Wisconsinan sediments,4b - Confined sand and gravel - glacial,L - Low,40.5,M - Moderate,L - Low,2003
+598,Pouce Coupe Overburden Aquifer,Alluvial sediments along Pouce Coupé River,SG - Sand and Gravel,Alluvial sand and gravel,1a - Unconfined sand and gravel - large river system,H - High,38.6,H - High,L - Low,2023
+599,,"Sooke R floodplain, west to Kemp Lk",SG - Sand and Gravel,Capilano sediments and Vashon till,4b - Confined sand and gravel - glacial,H - High,19.3,M - Moderate,L - Low,2003
+600,,Horse Creek Fan S. of Nicholson,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,2.4,M - Moderate,M - Moderate,2003
+602,,from Radium towards Columbia River,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,1.2,H - High,M - Moderate,2003
+603,,Invermere 3km N and S,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,13.2,M - Moderate,M - Moderate,2016
+604,,East of Sooke around Young Lake,SG - Sand and Gravel,Quadra sand and Saanichton gravel,4b - Confined sand and gravel - glacial,L - Low,2.0,L - Low,L - Low,2003
+605,,South of Broom Hill NE of Sooke Bay,SG - Sand and Gravel,Quadra sand and Saanichton gravel,4b - Confined sand and gravel - glacial,L - Low,0.1,L - Low,L - Low,2003
+606,Sooke-Metchosin,"Colwood, Langford, Metchosin, Sooke",B - Bedrock,"Metchosin Igneous Complex; Gabbroic, basaltic & volcanic rock",6b - Fractured crystalline bedrock,H - High,537.6,L - Low,L - Low,2004
+607,,North end of Saanich Peninsula,B - Bedrock,Nanaimo Group,5a - Fractured sedimentary rock,M - Moderate,9.1,L - Low,L - Low,2003
+608,North Central Saanich,North Saanich to Elk Lake,B - Bedrock,Island Plutonic Suite,6b - Fractured crystalline bedrock,M - Moderate,79.7,M - Moderate,M - Moderate,2012
+609,,Littlewood Rd N of Victoria Intl Airport,SG - Sand and Gravel,Quadra sand,4b - Confined sand and gravel - glacial,M - Moderate,0.5,M - Moderate,L - Low,2003
+610,,"North Saanich, Bazan Bay",SG - Sand and Gravel,Quadra sand,4b - Confined sand and gravel - glacial,M - Moderate,1.0,M - Moderate,M - Moderate,2003
+611,Hagan Aquifer,"Saanichton, Central Saanich",SG - Sand and Gravel,Quadra sand & gravel; Upper unit of the Cowichan Head formation,4b - Confined sand and gravel - glacial,M - Moderate,2.1,L - Low,M - Moderate,2012
+612,Keating,"Central Saanich, Keating",SG - Sand and Gravel,Quadra Sand & gravel; Upper unit of the Cowichan Head Formation,4b - Confined sand and gravel - glacial,M - Moderate,8.5,M - Moderate,M - Moderate,2012
+613,Durrance,"Durrance Rd, Saanich",SG - Sand and Gravel,Quadra sand & gravel;  Upper unit of the Cowichan Head Formation,4b - Confined sand and gravel - glacial,M - Moderate,0.5,L - Low,M - Moderate,2012
+614,Karmutsen,Saanich between Cordova  and Brentwood Bay,B - Bedrock,"Karmutsen Formation; A basaltic unit with minor breccia, tuff & limestone",6b - Fractured crystalline bedrock,M - Moderate,17.3,M - Moderate,L - Low,2012
+615,,East side of Saanich Peninsula,SG - Sand and Gravel,"Quadra sand, Cowichan Head Formation",4b - Confined sand and gravel - glacial,M - Moderate,3.4,L - Low,L - Low,2003
+616,Cordova Bay,"Elk Lake to Cordova Bay, Saanich",SG - Sand and Gravel,Quadra sand and gravel,4b - Confined sand and gravel - glacial,L - Low,7.9,M - Moderate,M - Moderate,2012
+617,West Saanich Road,West Saanich Rd at Wallace Dr,SG - Sand and Gravel,Quadra sand & gravel; Upper unit of the Cowichan Head Formation,4b - Confined sand and gravel - glacial,L - Low,0.1,L - Low,M - Moderate,2012
+618,,"Port Renfrew, south side of San Juan River",B - Bedrock,Leech River Formation,6b - Fractured crystalline bedrock,L - Low,5.8,L - Low,L - Low,2004
+619,,Mayne Island,B - Bedrock,Fractured sedimentary bedrock of Upper Cretaceous Nanaimo Group,5a - Fractured sedimentary rock,M - Moderate,8.0,L - Low,M - Moderate,2006
+620,,Mayne Island,B - Bedrock,Fractured sedimentary bedrock of Upper Cretaceous Nanaimo Group,5a - Fractured sedimentary rock,M - Moderate,7.7,L - Low,M - Moderate,2006
+621,,Kelly Lake,B - Bedrock,Wapiti Formation,5a - Fractured sedimentary rock,M - Moderate,27.5,M - Moderate,L - Low,2003
+622,,South of Pouce Coupe,B - Bedrock,"Dowling, Thistle, Hanson and Muskiki Members",5a - Fractured sedimentary rock,L - Low,280.2,M - Moderate,L - Low,2003
+623,,Lone Prairie area,SG - Sand and Gravel,S & gr of glacial or pre-glacial origin,5a - Fractured sedimentary rock,M - Moderate,17.9,M - Moderate,L - Low,2003
+624,,Wildmore Ck.; Chetwind - Groundbirch,SG - Sand and Gravel,Alluvial fan and glaciofluvial deposits-intermixed,4b - Confined sand and gravel - glacial,M - Moderate,1.1,M - Moderate,M - Moderate,2003
+625,,Bissett Ck. SW of Chetwynd,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,M - Moderate,0.9,M - Moderate,M - Moderate,2003
+626,,N. of Pine River; Chetwynd area,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,2.9,M - Moderate,M - Moderate,2003
+627,,Dhetwynd area; W. of Dokie Siding,B - Bedrock,Cruiser Formation,5a - Fractured sedimentary rock,M - Moderate,7.8,M - Moderate,L - Low,2003
+628,,Chetwyn; N. of Pine R.,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,M - Moderate,1.5,L - Low,M - Moderate,2003
+629,,Chetwynd area,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,M - Moderate,0.5,L - Low,M - Moderate,2003
+630,,Jackfish Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,8.4,M - Moderate,L - Low,2003
+631,,S. of the Peace R.,B - Bedrock,Kaskapau and Dunvegan Formations,5a - Fractured sedimentary rock,L - Low,14.9,M - Moderate,L - Low,2003
+632,,"Navy Channel, S. Mayne Is.",B - Bedrock,Upper Cretaceous; Nanimo Group; Gabriola & Spray Formations,5a - Fractured sedimentary rock,M - Moderate,3.9,M - Moderate,M - Moderate,2006
+633,Sweetwater Bedrock Aquifer,South and East of Kiskatinaw River,B - Bedrock,Dunvegan and Kaskapau formations,5a - Fractured sedimentary rock,M - Moderate,432.5,M - Moderate,L - Low,2023
+634,,Taylor; S. of Peace River,B - Bedrock,Dunvegan Formation,5a - Fractured sedimentary rock,L - Low,59.3,M - Moderate,L - Low,2003
+635,,SW of Tumbler Ridge townsite,G - Gravel,,2 - Unconfined sand and gravel - deltaic,H - High,0.9,H - High,M - Moderate,2003
+636,,Goodlow; E. of Ft. St. John,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,3.9,M - Moderate,L - Low,2003
+637,,Between Prespatou & Umbach Cks.,SG - Sand and Gravel,till with minor sand & gravel deposits,4b - Confined sand and gravel - glacial,L - Low,83.8,M - Moderate,L - Low,2003
+638,,Between Snyder & Buic Cks.,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,20.4,M - Moderate,L - Low,2003
+639,,NW of Rose Prarie; N. of Blueberry R.,B - Bedrock,,5a - Fractured sedimentary rock,L - Low,844.8,M - Moderate,L - Low,2003
+640,,E. of Tumbler Ridge; N. of Flatbed Ck.,SG - Sand and Gravel,Dunvegan Formation,4a - Unconfined sand and gravel - late glacial outwash,H - High,2.5,H - High,L - Low,2003
+641,,Between Francois and Tchesinkut Lakes,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,15.8,L - Low,L - Low,2003
+642,,Between Francois and Tchesinkut Lakes,B - Bedrock,Cenozoic Era Basalts,6a - Flat-lying to gently-dipping volcanic bedrock,M - Moderate,41.4,L - Low,L - Low,2003
+643,,Endako; N. of Endako R.,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,2.7,H - High,M - Moderate,2003
+644,,NE of burns and Decker Lakes,B - Bedrock,Volcanic; granitic intrusions,6b - Fractured crystalline bedrock,M - Moderate,19.0,L - Low,L - Low,2003
+645,,Gerow Is. & S. shore of Burns Lk.,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,3.0,H - High,H - High,2003
+646,,Between Burns and Tchesinkut Lakes,B - Bedrock,Volcanic; granitic intrusions,6b - Fractured crystalline bedrock,M - Moderate,9.4,L - Low,L - Low,2003
+647,,E. shore of Decker Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,3.6,M - Moderate,M - Moderate,2003
+648,,N. of Decker Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,7.1,M - Moderate,M - Moderate,2003
+649,,N. shore of Burns Lk.,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,3.8,H - High,H - High,2003
+650,North Nechako Terrace Bedrock,North of Fraser Lake and Nechako River,B - Bedrock,"Endako Batholith, Endako Formation, Cache Creek Complex, Chilcotin Group",5a - Fractured sedimentary rock,M - Moderate,678.8,M - Moderate,L - Low,2020
+651,,N. shore of Burns Lake,B - Bedrock,Volcanic; granitic intrusions,6a - Flat-lying to gently-dipping volcanic bedrock,L - Low,3.1,L - Low,M - Moderate,2003
+652,,NW of Burns Lk.; S. of Old Woman Lk,B - Bedrock,Endako Group Volcanics,6a - Flat-lying to gently-dipping volcanic bedrock,L - Low,4.1,M - Moderate,L - Low,2003
+653,,Rose Lk.; NW of Burns Lk.,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,1.7,M - Moderate,M - Moderate,2003
+654,Topley Bedrock,Around the town of Topley,B - Bedrock,"Telkwa Formation, Topley Plutonic Suite, Endako Formation, Goosly Lake Formation",6b - Fractured crystalline bedrock,H - High,86.8,L - Low,L - Low,2020
+656,,Topley Landing; W. of Babine lk.,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.9,M - Moderate,L - Low,2003
+657,,Confluence of Nechako & Cheslatta Rivers,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,0.8,H - High,L - Low,2003
+658,Houston Bedrock,Around the town of Houston,B - Bedrock,"Kasalka Group, Telka Formation, Goosly Lake Formation",6b - Fractured crystalline bedrock,M - Moderate,113.0,L - Low,M - Moderate,2020
+659,Upper Bulkley Alluvial,"Along the Upper Bulkley River, within the valley bottom",SG - Sand and Gravel,Holocene Alluvial Sediment,1a - Unconfined sand and gravel - large river system,H - High,40.1,M - Moderate,M - Moderate,2020
+660,Bulkley Buried Channel,"Along the Upper Bulkley River, within a valley in the bedrock",SG - Sand and Gravel,Fraser Glaciofluvial Sediment,4b - Confined sand and gravel - glacial,L - Low,49.0,M - Moderate,M - Moderate,2020
+661,,Spider Lk nr Horne Lk,SG - Sand and Gravel,Kame Feature,4a - Unconfined sand and gravel - late glacial outwash,H - High,6.2,M - Moderate,M - Moderate,2023
+662,,Between Big & Little Qualicum Rivers,SG - Sand and Gravel,Quadra,4b - Confined sand and gravel - glacial,L - Low,56.5,M - Moderate,M - Moderate,2023
+663,663,Upper reaches of Whisky Creek,SG - Sand and Gravel,Kame terrace and delta glacio-fluvial deposits,4a - Unconfined sand and gravel - late glacial outwash,H - High,17.6,M - Moderate,L - Low,2023
+664,Little Qualicum River,Little Qualicum R. valley & delta,SG - Sand and Gravel,Salish sediments,1c - Unconfined sand and gravel aquifer - small stream system,H - High,3.9,,,2023
+665,Big Qualicum River,Between Big Qualicum R. & Thames Ck.,SG - Sand and Gravel,Capilano Sediments,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,14.3,,,2023
+666,,N. shore Stuart Lk.; NW of Ft. St. James,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,2.7,M - Moderate,M - Moderate,2003
+668,Stellako Unconsolidated,"Between Endako and Stallako Rivers, west of Fraser Lake",SG - Sand and Gravel,Fraser Glaciofluvial  and Alluvial,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,18.6,M - Moderate,L - Low,2020
+673,South Fraser Lake Bedrock,South of Fraser Lake,B - Bedrock,"Endako Batholith, Endako Formation",6b - Fractured crystalline bedrock,M - Moderate,390.3,M - Moderate,L - Low,2020
+675,Barrett Hat Bedrock,"Northwest of Mount Harry Davis, between Fishpan Lake and Vallee Lake",B - Bedrock,"Buck Creek Formation, Telkwa Formation",6b - Fractured crystalline bedrock,M - Moderate,13.9,L - Low,L - Low,2020
+676,,S. of Mathews Lk. W. of Huston,SG - Sand and Gravel,Glacioalcusterine deposits,4b - Confined sand and gravel - glacial,L - Low,1.1,L - Low,L - Low,2003
+678,,S. & SW of Francois Lk.; W. of Fraser Lk.,B - Bedrock,Volcanic; Hazelton Group,6b - Fractured crystalline bedrock,L - Low,110.0,M - Moderate,L - Low,2003
+679,,N. of Cheslatta R.; S. of Francois Lk.,SG - Sand and Gravel,Glacioalcusterine and glacial moraine deposits,4b - Confined sand and gravel - glacial,L - Low,19.6,L - Low,L - Low,2003
+680,Wark-Colquitz,"Victoria S of Elk Lake, E of Finlayson Arm",B - Bedrock,Wark-Colquitz Complex; Paleozoic; Crystalline igneous and meta-igneous rocks,6b - Fractured crystalline bedrock,M - Moderate,209.0,M - Moderate,H - High,2012
+681,,"Willis Point, SE side of Saanich Inlet",B - Bedrock,Bonanza Group volcanics; Lower Jurassic,6b - Fractured crystalline bedrock,H - High,7.9,L - Low,H - High,2012
+682,,"Colwood, Langford, Metchosin",SG - Sand and Gravel,Colwood Delta Formation,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,24.1,M - Moderate,L - Low,2004
+683,,"Metchosin, from Parry Bay inland 3 km",SG - Sand and Gravel,"Quadra sand, Parry Bay Formation",4b - Confined sand and gravel - glacial,L - Low,9.0,M - Moderate,L - Low,2004
+684,,"Goldstream River mouth, Finlayson Arm",SG - Sand and Gravel,Capilano and Salish sediments,1c - Unconfined sand and gravel aquifer - small stream system,H - High,0.3,H - High,L - Low,2004
+685,Pacheedaht,"San Juan River floodplain, Port Renfrew",SG - Sand and Gravel,Capilano and Salish sediments,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,41.2,H - High,L - Low,2004
+686,,"Gordon Head, Saanich",SG - Sand and Gravel,Quadra sand,4b - Confined sand and gravel - glacial,L - Low,7.3,M - Moderate,L - Low,2004
+687,,Taylor Flats; SE of Ft. St. John,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,M - Moderate,1.0,M - Moderate,M - Moderate,2004
+688,,E. of Chetwynd; N. of Pine R.,B - Bedrock,Dunvegan Formation (Upper Cretaceous),5a - Fractured sedimentary rock,L - Low,17.9,M - Moderate,M - Moderate,2004
+689,,SE of Chetwynd; S. of Pine R.,B - Bedrock,Dunvegan Formation,5a - Fractured sedimentary rock,L - Low,75.1,M - Moderate,L - Low,2004
+690,,Clayhurst area,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,23.8,M - Moderate,L - Low,2004
+691,,East of Ash River,B - Bedrock,,5a - Fractured sedimentary rock,M - Moderate,29.3,M - Moderate,L - Low,2004
+692,,Bear Creek; N of Stamp River Falls,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,1.6,L - Low,L - Low,2004
+693,,Stamp River; d/s from Great Central Lake,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,0.3,M - Moderate,M - Moderate,2004
+694,,Stamp River; E side of Stamp Falls,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,0.2,M - Moderate,L - Low,2004
+695,,N shore of Sproat Lake; close to Kleecoot,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,1.2,M - Moderate,L - Low,2004
+696,,East of Stamp Falls,B - Bedrock,Cretaceous sandstone and shale,5a - Fractured sedimentary rock,L - Low,4.3,L - Low,L - Low,2004
+697,,East side of Alberni Valley,B - Bedrock,,5a - Fractured sedimentary rock,M - Moderate,42.2,L - Low,L - Low,2004
+698,,North shore of Sproat Lake at Kleecoot,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,5.6,L - Low,M - Moderate,2004
+699,,N sh of Sproat Lk; 8 km W of Port Alberni,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,1.2,L - Low,L - Low,2004
+700,,N shore of Sproat Lake at Kleecoot,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.4,M - Moderate,L - Low,2004
+701,,Eagle Point SW of Kleecoot,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,2.4,M - Moderate,M - Moderate,2004
+702,,McCoy Lake; W of Port Alberni,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,18.0,L - Low,M - Moderate,2004
+703,,W bank of Somass River,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,0.7,M - Moderate,L - Low,2004
+704,,E bank of Somass River,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,0.6,L - Low,L - Low,2004
+705,,Polly Point; 4km S of Port Alberni; E side,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,L - Low,0.2,L - Low,L - Low,2004
+706,,Gabriola; Northern area,B - Bedrock,,5a - Fractured sedimentary rock,H - High,5.9,L - Low,H - High,2004
+707,,China Cr; E Alb. In; 8km S of Pt Alberni,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.6,L - Low,L - Low,2004
+708,,E side Alberni In; 8 km S of Port Alberni,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,1.6,M - Moderate,M - Moderate,2004
+709,,Gabriola; excluding northern portion,B - Bedrock,,5a - Fractured sedimentary rock,H - High,46.8,L - Low,M - Moderate,2004
+710,,South Pender,B - Bedrock,,5a - Fractured sedimentary rock,M - Moderate,9.1,L - Low,M - Moderate,2004
+711,,North Pender; northern area,B - Bedrock,,5a - Fractured sedimentary rock,H - High,11.3,L - Low,M - Moderate,2004
+712,,North Pender; Port Browning,B - Bedrock,,5a - Fractured sedimentary rock,H - High,6.3,L - Low,M - Moderate,2004
+713,,Quilchena Cr; S shore of Nicola Lake,SG - Sand and Gravel,,1c - Unconfined sand and gravel aquifer - small stream system,H - High,3.5,L - Low,M - Moderate,2004
+714,,Nicola Lake Indian Reserve,SG - Sand and Gravel,,1c - Unconfined sand and gravel aquifer - small stream system,H - High,3.1,L - Low,M - Moderate,2004
+715,,mouths of Moore and Stumplake Creeks,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,L - Low,4.3,H - High,L - Low,2004
+716,Spences Bridge,confluence of Nicola and Thompson Rivers,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,0.4,H - High,M - Moderate,2018
+717,,S of Ashcroft; E side of Thompson River,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.6,H - High,M - Moderate,2004
+718,,Ashcroft; Ashcroft Ranch,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,3.6,M - Moderate,L - Low,2004
+719,,Ashcroft; W side of Thompson River,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,7.5,M - Moderate,L - Low,2004
+720,,North Pender; southern portioin,B - Bedrock,,5a - Fractured sedimentary rock,M - Moderate,9.5,L - Low,M - Moderate,2004
+721,North Salt Spring Island,Saltspring Island; north part,B - Bedrock,Nanaimo Group,5a - Fractured sedimentary rock,H - High,48.9,L - Low,,2018
+722,North-Central Salt Spring Island,Saltspring Is; central part; Ganges area,B - Bedrock,Nanaimo Group,5a - Fractured sedimentary rock,H - High,36.4,L - Low,,2018
+723,South Salt Spring Island,Saltspring Island,B - Bedrock,Sick Group / Buttle Lake Group,6b - Fractured crystalline bedrock,H - High,51.4,L - Low,,2018
+724,West of Merritt,Nicola R fldpln between Canford & Coyle,SG - Sand and Gravel,,1c - Unconfined sand and gravel aquifer - small stream system,H - High,5.7,M - Moderate,M - Moderate,2018
+725,Spius Creek West of Canford,s of Nicola R & Spius Cr con; W of Canford,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,9.8,L - Low,L - Low,2018
+726,Canford,Nicola R & Spius Cr con; w of Canford,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,5.4,M - Moderate,M - Moderate,2018
+727,,Cherry Cr valley; SW of Kamloops,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,29.8,L - Low,M - Moderate,2004
+728,,Cherry Cr valley; SW of Kamloops,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,8.4,M - Moderate,H - High,2004
+729,,South Thetis Island,B - Bedrock,"Mesozoic, upper cretaceous",5a - Fractured sedimentary rock,H - High,0.6,L - Low,H - High,2006
+730,730,South East Thetis Island,B - Bedrock,"Mesozoic, Upper Cretaceous Northumberland Formation",5a - Fractured sedimentary rock,M - Moderate,2.7,L - Low,M - Moderate,2012
+731,731,Thetis Island,B - Bedrock,"Mesozoic, Upper Cretaceous Geoffrey Formation",5a - Fractured sedimentary rock,H - High,6.8,L - Low,M - Moderate,2012
+732,732,Thetis Island,B - Bedrock,"Mesozoic, Upper Cretaceous Geoffrey Formation",5a - Fractured sedimentary rock,H - High,1.2,L - Low,H - High,2012
+733,,Norway Island,B - Bedrock,"Mesozoic, Upper Cretaceous De Courcy Formation",5a - Fractured sedimentary rock,M - Moderate,0.1,L - Low,H - High,2006
+734,,Dayman Island,B - Bedrock,"Mesozoic, Upper Cretaceous Geoffrey Formation",5a - Fractured sedimentary rock,M - Moderate,0.1,L - Low,M - Moderate,2006
+735,,Saturna Island - east,B - Bedrock,"Mesozoic, Geoffrey Formation",5a - Fractured sedimentary rock,H - High,1.4,L - Low,H - High,2006
+736,,Saturna Island - north,B - Bedrock,"Mesozoic, Upper Cretaceous Geoffrey Formation",5a - Fractured sedimentary rock,M - Moderate,2.6,L - Low,M - Moderate,2006
+737,,Saturna Island - west,B - Bedrock,"Mesozoic, Northumberland Formation",5a - Fractured sedimentary rock,M - Moderate,2.9,L - Low,H - High,2006
+738,,Saturna Island - west,B - Bedrock,"Mesozoic, Upper Cretaceous Northumberland Formation",5a - Fractured sedimentary rock,M - Moderate,0.3,L - Low,M - Moderate,2006
+739,,Denman Island - east,SG - Sand and Gravel,"Cenozoic, Quaternary glacial and post glacial deposits",4b - Confined sand and gravel - glacial,M - Moderate,4.0,L - Low,M - Moderate,2006
+740,,Denman Island,B - Bedrock,"Mesozoic, upper cretaceous De Courcy",5a - Fractured sedimentary rock,H - High,47.7,L - Low,M - Moderate,2006
+741,,Hudson Island,B - Bedrock,"Mesozoic, Upper Cretaceous De Courcy Formation",5a - Fractured sedimentary rock,M - Moderate,0.2,L - Low,H - High,2006
+742,,Scot Island,B - Bedrock,"Mesozoic, upper cretaceous De Courcy",5a - Fractured sedimentary rock,M - Moderate,0.1,L - Low,H - High,2006
+743,,"Bowen Island, Gafton Lake Valley",SG - Sand and Gravel,Fluvial and glacio-fluvial deposits,4b - Confined sand and gravel - glacial,M - Moderate,0.3,M - Moderate,M - Moderate,2006
+744,,Bowen Island - SW,SG - Sand and Gravel,Fluvial and glacio-fluvial deposits,4b - Confined sand and gravel - glacial,M - Moderate,0.2,M - Moderate,H - High,2006
+745,,Bowen Island - North,B - Bedrock,Lower Jurassic to Middle Jurassic Bowen Island Group,6b - Fractured crystalline bedrock,H - High,10.4,L - Low,M - Moderate,2006
+746,,Central Bowen Island,B - Bedrock,Lower to Middle Jurassic,6b - Fractured crystalline bedrock,M - Moderate,14.9,L - Low,M - Moderate,2006
+747,,Bowen Island - South and SE,B - Bedrock,Lower Jurassic to Middle Jurassic Bowen Island Group,6b - Fractured crystalline bedrock,M - Moderate,15.1,L - Low,L - Low,2006
+748,,Bowen Island - west,B - Bedrock,Lower Jurassic to Middle Jurassic Bowen Island Group,6b - Fractured crystalline bedrock,M - Moderate,5.8,M - Moderate,M - Moderate,2006
+749,,Bowen Island - SW,B - Bedrock,Lower Jurassic to Middle Jurassic Bowen Island Group,6b - Fractured crystalline bedrock,M - Moderate,4.1,M - Moderate,H - High,2006
+750,,"Mayne Island, east of Village Bay",SG - Sand and Gravel,Glacio-fluvial,4b - Confined sand and gravel - glacial,L - Low,0.1,L - Low,L - Low,2006
+751,South Quadra Unconsolidated,Quadra Island,SG - Sand and Gravel,Fraser glacial drift - probably Quadra Sand,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,34.0,,,2020
+754,Quadra South Bedrock,"Quathiaski Cove, Quadra Island",B - Bedrock,"Volcanic Rk, Late Mesozoic; noted as basalt on well records",6b - Fractured crystalline bedrock,M - Moderate,54.3,,,2020
+761,,Quadra Island,SG - Sand and Gravel,Alluvial Fan,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,0.1,M - Moderate,M - Moderate,2006
+763,Port McNeill West Bedrock,Port McNeil,B - Bedrock,"Mesozoic, Upper Cretaceous Nanaimo Group",5a - Fractured sedimentary rock,M - Moderate,60.4,,,2020
+764,Port McNeill West Unconsolidated,Port McNeil,SG - Sand and Gravel,Glacial Advance Outwash,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,50.8,,,2020
+765,,South of Tumbler Ridge,B - Bedrock,Fort St. John Group,5a - Fractured sedimentary rock,M - Moderate,2.3,M - Moderate,L - Low,2011
+766,,Anahim- E of Tweedsmuir Park,SG - Sand and Gravel,Outwash gravel and glaciolacustrine deposits,4b - Confined sand and gravel - glacial,L - Low,2.5,M - Moderate,L - Low,2006
+767,,Anahim  east of Tweedsmuir Park,B - Bedrock,unknown,6a - Flat-lying to gently-dipping volcanic bedrock,M - Moderate,0.7,H - High,M - Moderate,2006
+768,,Anahim  east of Tweedsmuir Park,SG - Sand and Gravel,Likely glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,0.6,M - Moderate,M - Moderate,2006
+769,,Clearwater  North of Kamloops,SG - Sand and Gravel,Alluvial fans,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,9.6,M - Moderate,M - Moderate,2006
+770,,Clearwater  North of Kamloops,SG - Sand and Gravel,Glacio-fluvial,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,2.6,H - High,H - High,2006
+771,,Clearwater  North of Kamloops,B - Bedrock,Likely outwash gravel and glacio-lacustrine deposits,6b - Fractured crystalline bedrock,M - Moderate,11.3,L - Low,L - Low,2006
+772,,Clearwater  North of Kamloops,B - Bedrock,Likely outwash gravel and glacio-lacustrine deposits,6b - Fractured crystalline bedrock,M - Moderate,2.8,L - Low,M - Moderate,2006
+773,,Clearwater  North of Kamloops,SG - Sand and Gravel,Likely outwash gravel and glacio-lacustrine deposits,4b - Confined sand and gravel - glacial,L - Low,1.7,M - Moderate,H - High,2006
+775,North Houston Bedrock,"North of the town of Houston, north of the Upper Bulkley River",B - Bedrock,"Buck Creek Formation, Goosly Lake Formation, Telkwa Formation",6b - Fractured crystalline bedrock,M - Moderate,81.8,L - Low,L - Low,2020
+776,,Egmont,B - Bedrock,"Upper Cretaceous period and earlier, Mesozoic and Cenozoic era",6b - Fractured crystalline bedrock,H - High,1.3,M - Moderate,M - Moderate,2006
+777,,Deadman Valley NW of Kamloops,SG - Sand and Gravel,"Quaternary, post-Fraser Glaciation fluvial deposits",1c - Unconfined sand and gravel aquifer - small stream system,M - Moderate,7.2,M - Moderate,L - Low,2006
+778,,"Pym Island, N of Swartz Bay",B - Bedrock,Fractured sedimentary bedrock of Upper Cretaceous Nanaimo Group,5a - Fractured sedimentary rock,M - Moderate,0.0,L - Low,L - Low,2006
+779,,"Knapp Island, N of Swartz Bay",B - Bedrock,Fractured sedimentary bedrock of Upper Cretaceous Nanaimo Group,5a - Fractured sedimentary rock,M - Moderate,0.1,L - Low,L - Low,2006
+780,,"Goudge Island, east of Swartz Bay",B - Bedrock,Fractured sedimentary bedrock of Upper Cretaceous Nanaimo Group,5a - Fractured sedimentary rock,L - Low,0.2,L - Low,L - Low,2006
+781,,"Kolb Island, East of Swartz Bay",B - Bedrock,Fractured sedimentary bedrock of Upper Cretaceous Nanaimo Group,5a - Fractured sedimentary rock,H - High,0.0,L - Low,M - Moderate,2006
+782,,"Fernie Island, East of Swartz Bay",B - Bedrock,Fractured sedimentary bedrock of Upper Cretaceous Nanaimo Group,5a - Fractured sedimentary rock,H - High,0.1,L - Low,L - Low,2006
+783,,"Coal Island, N of Swartz Bay",B - Bedrock,Fractured sedimentary bedrock of Upper Cretaceous Nanaimo Group,5a - Fractured sedimentary rock,H - High,1.4,L - Low,L - Low,2006
+784,,"Forrest Island, East of Sidney",B - Bedrock,Fractured sedimentary bedrock of Upper Cretaceous Nanaimo Group,5a - Fractured sedimentary rock,H - High,0.2,L - Low,L - Low,2006
+785,,"Comet  Island, East of Sidney",B - Bedrock,Fractured sedimentary bedrock of Upper Cretaceous Nanaimo Group,5a - Fractured sedimentary rock,H - High,0.1,L - Low,M - Moderate,2006
+786,,"Sidney Island, North End",S - Sand,Possibly Quadra Sand,4b - Confined sand and gravel - glacial,M - Moderate,2.3,M - Moderate,L - Low,2006
+787,,"Sidney Island, South End",B - Bedrock,Fractured rocks; mapped as Vancouver Volcanics of Lower Jurassic,6b - Fractured crystalline bedrock,L - Low,4.1,L - Low,L - Low,2006
+788,,"SW of Terrace, northshore of Skeena River",SG - Sand and Gravel,"Glaciofluvial and alluvial sediments comprised of gravel, boulders and sand",4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,23.1,M - Moderate,L - Low,2017
+791,,"South of Terrace, near Terrace Airport",SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,8.3,H - High,L - Low,2017
+792,,West shore of Lakelse Lake,SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,1.1,M - Moderate,L - Low,2017
+793,,East shore of Lakelse Lake,SG - Sand and Gravel,Alluvial floodlplain deposits,4a - Unconfined sand and gravel - late glacial outwash,H - High,6.3,M - Moderate,L - Low,2017
+794,,South of Lakelse Lake,SG - Sand and Gravel,Glaciofluvial deposits,4a - Unconfined sand and gravel - late glacial outwash,H - High,11.7,M - Moderate,L - Low,2017
+795,,"Two Mile, NW of New Hazleton",SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,M - Moderate,0.6,M - Moderate,M - Moderate,2006
+796,,New Hazleton,SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,0.6,M - Moderate,M - Moderate,2006
+797,,Kispiox Village,SG - Sand and Gravel,Alluvial terrace deposits,1c - Unconfined sand and gravel aquifer - small stream system,H - High,1.2,H - High,M - Moderate,2006
+798,,North of Kispiox Village,SG - Sand and Gravel,Alluvial terrace deposits,1c - Unconfined sand and gravel aquifer - small stream system,L - Low,0.4,M - Moderate,L - Low,2006
+799,,Valemont,SG - Sand and Gravel,"Glaciofluvial deposits, fan deposits",4b - Confined sand and gravel - glacial,L - Low,7.5,M - Moderate,L - Low,2006
+800,South Valemont,Valemont,SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,M - Moderate,17.6,L - Low,L - Low,2006
+801,,Revelstoke  West,SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,0.8,M - Moderate,M - Moderate,2006
+802,,Revelstoke  South,SG - Sand and Gravel,Glaciofluvial deposits,4a - Unconfined sand and gravel - late glacial outwash,H - High,2.2,H - High,M - Moderate,2006
+803,,Revelstoke  Townsite,SG - Sand and Gravel,Alluvium material,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,0.6,M - Moderate,L - Low,2006
+804,,Shuswap River  east of Enderby,B - Bedrock,unknown,6b - Fractured crystalline bedrock,L - Low,5.7,L - Low,L - Low,2006
+805,,West of Mabel Lake  East of Enderby,B - Bedrock,unknown,6b - Fractured crystalline bedrock,M - Moderate,2.3,M - Moderate,L - Low,2006
+806,,Shuswap River - east of Enderby,SG - Sand and Gravel,glaciofluvial deposits,4b - Confined sand and gravel - glacial,M - Moderate,1.7,M - Moderate,L - Low,2006
+807,,N Thompson River,SG - Sand and Gravel,Glacio-fluvial,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,16.6,M - Moderate,M - Moderate,2006
+808,Anarchist Mountain,"East of Osoyoos, Anarchist Mountain",B - Bedrock,Metamorphic rock; Mesozoic era; granite and alkali,6b - Fractured crystalline bedrock,H - High,18.6,M - Moderate,M - Moderate,2012
+809,,East of Osoyoos,SG - Sand and Gravel,Glacio-fluvial,4b - Confined sand and gravel - glacial,L - Low,2.9,M - Moderate,L - Low,2006
+810,810,East of Osoyoos,B - Bedrock,Metamorphic; Anarchist Form; Paleozoic; greenstone & greenschist.,6b - Fractured crystalline bedrock,L - Low,7.8,M - Moderate,M - Moderate,2012
+811,,North of Grand Forks,SG - Sand and Gravel,Glacio-fluvial,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,2.0,H - High,M - Moderate,2006
+812,,North of Grand Forks,B - Bedrock,"Attwood Group (north), Grand Forks Group (south)",6b - Fractured crystalline bedrock,M - Moderate,1.7,M - Moderate,L - Low,2006
+813,,North of Grand Forks,B - Bedrock,Brooklyn Formation and Grand Forks Group,6b - Fractured crystalline bedrock,M - Moderate,1.5,M - Moderate,L - Low,2006
+814,,North of Grand Forks,B - Bedrock,Carboniferous or Permian; Knob Hill Group,6b - Fractured crystalline bedrock,M - Moderate,0.8,L - Low,L - Low,2006
+815,,North of Grand Forks,SG - Sand and Gravel,Fluvial and glaciofluvial deposits,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,3.0,H - High,M - Moderate,2006
+816,,Canal Flats,SG - Sand and Gravel,Fluvial and glaciofluvial deposits,1a - Unconfined sand and gravel - large river system,H - High,7.3,H - High,M - Moderate,2006
+817,,"NE of Edgewater, Columbia River Valley",SG - Sand and Gravel,Glacio-fluvial,4b - Confined sand and gravel - glacial,L - Low,4.5,L - Low,M - Moderate,2006
+818,,South of Lakelse Lake,SG - Sand and Gravel,Glacio-fluvial,4b - Confined sand and gravel - glacial,L - Low,0.6,H - High,L - Low,2017
+819,,Highland Valley  W. of Logan Lk,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,6.1,H - High,H - High,2007
+820,,Highland Valley  W of Logan Lk,SG - Sand and Gravel,Glaciaofluvial,4b - Confined sand and gravel - glacial,L - Low,6.0,H - High,H - High,2007
+821,,Highland Valley  W of Logan Lk,SG - Sand and Gravel,Glaciofluvial depsits,4b - Confined sand and gravel - glacial,L - Low,14.0,H - High,H - High,2007
+822,,Logan Lake / SW of Kamloops,SG - Sand and Gravel,Glaciofluvial depsits,4b - Confined sand and gravel - glacial,L - Low,5.5,H - High,H - High,2021
+823,,Logan Lake / SWof Kamloops,SG - Sand and Gravel,glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,0.8,M - Moderate,L - Low,2007
+824,,Highland Valley near Award Creek,SG - Sand and Gravel,glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,0.8,H - High,M - Moderate,2007
+825,,Blue River- S of Valemont,SG - Sand and Gravel,Glaciofluvial depsits,4a - Unconfined sand and gravel - late glacial outwash,H - High,8.5,M - Moderate,L - Low,2007
+826,Nivek,Guichon Creek S of Kamloops,SG - Sand and Gravel,Alluvial deposits,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,0.7,M - Moderate,M - Moderate,2007
+827,Guichon Creek,South of Mamit Lake,SG - Sand and Gravel,Glaciofluvial depsits,4b - Confined sand and gravel - glacial,L - Low,2.1,M - Moderate,M - Moderate,2007
+828,,Dease Lake,SG - Sand and Gravel,Glaciofluvial depsits,4b - Confined sand and gravel - glacial,M - Moderate,6.5,M - Moderate,L - Low,2007
+829,,Wells,SG - Sand and Gravel,Glaciofluvial depsits,4b - Confined sand and gravel - glacial,L - Low,0.9,H - High,M - Moderate,2007
+830,,S of Bella Coola R./ E of Bella Coola,SG - Sand and Gravel,Alluvial deposits,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,2.7,M - Moderate,M - Moderate,2007
+831,,S of Bella Coola R./ E of Bella Coola,SG - Sand and Gravel,Alluvial deposits,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,1.1,H - High,M - Moderate,2007
+832,,S of Bella Coola R./ E of Bella Coola,SG - Sand and Gravel,Alluvial fan,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,3.5,M - Moderate,M - Moderate,2007
+833,,S of Bella Coola R. /E of Nusatsum R.,SG - Sand and Gravel,Fluvial deposits,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,2.2,M - Moderate,L - Low,2007
+834,,Savary Island,SG - Sand and Gravel,"Quaternary Quadra Sands and Vashon Drift, sand and gravel",4b - Confined sand and gravel - glacial,H - High,4.9,M - Moderate,H - High,2020
+835,,Mermaid Cove / E of Powell River,B - Bedrock,Granite bedrock,6b - Fractured crystalline bedrock,M - Moderate,2.2,L - Low,M - Moderate,2007
+836,,"Powell River,",SG - Sand and Gravel,Glaciofluvial depsits,4b - Confined sand and gravel - glacial,L - Low,19.6,L - Low,M - Moderate,2007
+837,,Powell River East,SG - Sand and Gravel,Glaciofluvial depsits,4b - Confined sand and gravel - glacial,L - Low,2.1,L - Low,L - Low,2007
+838,,Powell River,SG - Sand and Gravel,Glaciofluvial depsits,4b - Confined sand and gravel - glacial,L - Low,11.9,M - Moderate,M - Moderate,2007
+839,,Powell River,SG - Sand and Gravel,glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,12.9,L - Low,M - Moderate,2012
+840,,"Powell River, BC",B - Bedrock,intrusive igneous granidiorite,6b - Fractured crystalline bedrock,L - Low,30.8,L - Low,L - Low,2007
+841,,S Cortes Island,SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,9.5,M - Moderate,M - Moderate,2007
+842,,Cortes Island,B - Bedrock,intrusive igneous granidiorite,6b - Fractured crystalline bedrock,H - High,2.6,M - Moderate,M - Moderate,2006
+843,,Cortes Island,B - Bedrock,intrusive igneous granidiorite,6b - Fractured crystalline bedrock,M - Moderate,1.6,M - Moderate,M - Moderate,2007
+844,,Cortes Island,B - Bedrock,intrusive igneous granidiorite,6b - Fractured crystalline bedrock,M - Moderate,2.4,M - Moderate,M - Moderate,2007
+845,,Cortes Island,B - Bedrock,intrusive igneous granidiorite,6b - Fractured crystalline bedrock,H - High,0.3,L - Low,M - Moderate,2006
+846,,Cortes Island,B - Bedrock,intrusive igneous granidiorite,6b - Fractured crystalline bedrock,M - Moderate,2.9,M - Moderate,L - Low,2007
+847,Quinsam to Stories Beach,Campbell River (south),SG - Sand and Gravel,Cowichan Head Formation,4b - Confined sand and gravel - glacial,M - Moderate,34.5,,,2019
+850,,Fellers Heights,SG - Sand and Gravel,sand & gravel with some clay,4b - Confined sand and gravel - glacial,L - Low,4.1,M - Moderate,L - Low,2011
+851,Dawson Creek Overburden Aquifer,Between the Kiskatinaw and the Pouce Coupé rivers,SG - Sand and Gravel,Intra-till/Glaciolacustrine sands,4b - Confined sand and gravel - glacial,M - Moderate,866.3,M - Moderate,L - Low,2023
+855,Unused Aquifer number,Reserve Aquifer 4 T Values,,,,,,,,
+856,Unused aquifer number,,,,,,,,,
+857,,Campbell River Airport,SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,2.4,M - Moderate,M - Moderate,2007
+858,,Alert Bay  Cormorant Island,SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,M - Moderate,4.5,H - High,H - High,2007
+860,,"Mouth of Peachland Creek, SW of Peachland",SG - Sand and Gravel,Glaciofluvial and fluvial deposits,4a - Unconfined sand and gravel - late glacial outwash,H - High,0.1,M - Moderate,H - High,2007
+861,,Lower Peachland Creek watershed,B - Bedrock,Triassic/Jurassic intrusive grandioritic rocks,6a - Flat-lying to gently-dipping volcanic bedrock,M - Moderate,7.0,L - Low,M - Moderate,2007
+862,,Mouth of Trepanier Creek NE of Peachland,SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,1.5,H - High,L - Low,2007
+863,,N Trepanier Creek Valley N of Peachland,B - Bedrock,Penticton Group,6b - Fractured crystalline bedrock,M - Moderate,8.8,L - Low,M - Moderate,2007
+864,,"Trepanier Cr. and Jack Cr, N of Peachland",SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,1.1,M - Moderate,M - Moderate,2007
+865,,Heber  R. and Gold R.,SG - Sand and Gravel,Glaciofluvial and fluvial deposits,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,0.3,H - High,H - High,2007
+866,,"Ashby Point,, Shuswap Lake",B - Bedrock,Lower Paleozoic,5b - Karstic limestone,M - Moderate,1.9,L - Low,L - Low,2007
+867,,"Ashby Point,  Shuswap Lake",SG - Sand and Gravel,Glaciofluvial and fluvial deposits,4a - Unconfined sand and gravel - late glacial outwash,H - High,0.3,M - Moderate,M - Moderate,2007
+868,,"W of Paradise Point, Shuswap Lake",SG - Sand and Gravel,Glaciofluvial and glacioalcustrine deposits,4b - Confined sand and gravel - glacial,L - Low,0.2,M - Moderate,H - High,2007
+869,,"W of Paradise Point, Shuswap Lake",B - Bedrock,Hydrinian to Paleozoic sedimentary,6b - Fractured crystalline bedrock,M - Moderate,0.5,L - Low,M - Moderate,2007
+870,,"Knight Cr. at Paradise Point, Shuswap Lake",SG - Sand and Gravel,Glaciofluvial and glacioalcustrine deposits,4b - Confined sand and gravel - glacial,M - Moderate,0.2,M - Moderate,H - High,2007
+871,,"Lower Canoe Cr, E side of valley",B - Bedrock,Lower Paleozoic,5b - Karstic limestone,M - Moderate,2.1,M - Moderate,L - Low,2007
+872,,"Canoe Creek, at Shuswap Lake",SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,M - Moderate,0.8,L - Low,L - Low,2007
+873,,Edgewood,SG - Sand and Gravel,Glaciofluvial deposits,4a - Unconfined sand and gravel - late glacial outwash,H - High,3.9,M - Moderate,M - Moderate,2007
+874,874,Edgewood,SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,M - Moderate,1.8,H - High,M - Moderate,2007
+878,878,Wilmer,SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,15.6,M - Moderate,L - Low,2016
+879,879,"Lillian Lake, NW of Wilmer Creek",B - Bedrock,Upper Paleozoic,5a - Fractured sedimentary rock,L - Low,95.1,M - Moderate,L - Low,2016
+880,880,"Silverdale Cr, W of Mission City",SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,7.7,M - Moderate,M - Moderate,2016
+881,881,NE of Mission City,SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,12.1,M - Moderate,H - High,2016
+884,884,Northshore Hayward Lake to Stave Lake,SG - Sand and Gravel,Glaciofluvial deposits,4c - Confined sand and gravel - glacio-marine,M - Moderate,14.4,M - Moderate,M - Moderate,2016
+886,886,"E of Hayward Lake, N of Hairsine Creek",B - Bedrock,fractured quarz diorite of Coast Plutonic Rocks,6b - Fractured crystalline bedrock,H - High,31.5,M - Moderate,M - Moderate,2016
+887,887,"E of Stave Falls, Steelhead Creek",B - Bedrock,fractured quarz diorite of Coast Plutonic Rocks,6b - Fractured crystalline bedrock,H - High,25.6,M - Moderate,L - Low,2016
+888,888,Steelhead Valley,SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,M - Moderate,5.7,M - Moderate,M - Moderate,2016
+889,889,N end of Hatzic Valley,SG - Sand and Gravel,Glaciofluvial deposits,4a - Unconfined sand and gravel - late glacial outwash,H - High,4.1,M - Moderate,L - Low,2016
+890,Mount Tom Bedrock,"Mt Tom area, SE of Chilliwack",B - Bedrock,Cultus Mudstones (east) to Kent coarse sedimentary (west) / Locally Vedder Complex,5a - Fractured sedimentary rock,M - Moderate,28.7,,,2019
+897,897,N shore Allouette River,B - Bedrock,fractured quarz diorite of Coast Plutonic Rocks,6b - Fractured crystalline bedrock,M - Moderate,8.4,L - Low,L - Low,2016
+899,899,"Ford Creek area, SE of Chilliwack",B - Bedrock,Primarily Volcanic rocks of Pennsylvanian to Permian Chilliwack Group,6b - Fractured crystalline bedrock,M - Moderate,81.5,,,2019
+900,Malcolm Island,Sointula  / Malcolm Island,SG - Sand and Gravel,Glaciofluvial deposits - Golder River Advance,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,81.9,,,2020
+903,Pouce Coupe Overburden Aquifer,East of Pouce Coupé River,SG - Sand and Gravel,Glaciolacustrine sand and gravel,4b - Confined sand and gravel - glacial,M - Moderate,33.8,L - Low,L - Low,2023
+904,904,Pt. Hardy,B - Bedrock,Nanaimo Group of Late Cretaceous Age,5a - Fractured sedimentary rock,H - High,0.9,L - Low,M - Moderate,2007
+905,905,Ft. Rupert,B - Bedrock,Nanaimo Group of Late Cretaceous Age,5a - Fractured sedimentary rock,M - Moderate,4.8,L - Low,L - Low,2007
+906,906,Ft. Rupert,SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,M - Moderate,2.2,L - Low,M - Moderate,2007
+907,907,Coal Harbour S of Pt. Hardy,B - Bedrock,Nanaimo Group of Late Cretaceous Age,5a - Fractured sedimentary rock,M - Moderate,1.1,M - Moderate,L - Low,2007
+908,Halfway Valley Aquifer System,On the alluvial terrace of Halfway River between Graham and Cameron Rivers,SG - Sand and Gravel,Holocene fluvial sand and gravels and late Wisconsinan outwash sand and gravel,2 - Unconfined sand and gravel - deltaic,H - High,66.7,M - Moderate,L - Low,2022
+909,909,Indian Point - Savary Island,SG - Sand and Gravel,Quaternary Quadra sands,4a - Unconfined sand and gravel - late glacial outwash,H - High,0.2,L - Low,H - High,2007
+910,,East Williston Lake,SG - Sand and Gravel,Fluvial deposits of sand & gravel,4b - Confined sand and gravel - glacial,M - Moderate,36.1,M - Moderate,L - Low,2011
+911,911,N of Deka Lake and E of 100 Mile House,B - Bedrock,Volcanic bedrock,6a - Flat-lying to gently-dipping volcanic bedrock,L - Low,1.7,L - Low,M - Moderate,2007
+912,912,W of Bridge Lk /SEof 100 Mile House,SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,1.0,M - Moderate,M - Moderate,2007
+913,913,S of Deka Lake and E of 100 Mile House.,SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,1.6,M - Moderate,M - Moderate,2007
+914,914,SW of Deka Lake and E of 100 Mile House.,SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,0.8,M - Moderate,M - Moderate,2007
+915,915,Sulphurous Lake  / E  of 100 Mile House,B - Bedrock,Volcanic bedrock (basalt),6a - Flat-lying to gently-dipping volcanic bedrock,L - Low,1.2,L - Low,M - Moderate,2007
+916,916,N of Sulphurous Lake/ E of 100 Mile House,SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,0.4,M - Moderate,M - Moderate,2007
+917,,Near East Pine,B - Bedrock,Dunvegan Formation,5a - Fractured sedimentary rock,M - Moderate,58.4,L - Low,L - Low,2011
+918,918,N of Bridge Lake / E of 100 Mile House,SG - Sand and Gravel,Glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,4.8,M - Moderate,L - Low,2007
+919,919,NE of Bridge Lake/ E of 100 Mile House,B - Bedrock,Volcanic bedrock,6a - Flat-lying to gently-dipping volcanic bedrock,L - Low,0.8,M - Moderate,M - Moderate,2007
+920,Clinton Creek Lower Unconsolidated,Cutoff / Clinton Creek Valley,SG - Sand and Gravel,Glacial outwash deposited in a large meltwater channel,4a - Unconfined sand and gravel - late glacial outwash,H - High,16.3,M - Moderate,L - Low,2021
+921,921,Clinton,SG - Sand and Gravel,Glaciofluvial and glacioalcustrine deposits,4b - Confined sand and gravel - glacial,L - Low,4.1,M - Moderate,L - Low,2007
+922,922,3 Mile Lake / SE of Clinton,B - Bedrock,Cretaceous sandstone,5a - Fractured sedimentary rock,H - High,0.6,L - Low,M - Moderate,2007
+923,,Moberly Lake,SG - Sand and Gravel,"Glaciofluvial deposits of sand, gravel & silt",4b - Confined sand and gravel - glacial,L - Low,61.8,M - Moderate,L - Low,2011
+924,924,Mossum Creek area near Anmore,SG - Sand and Gravel,Glaciofluvial and glacioalcustrine deposits,4b - Confined sand and gravel - glacial,L - Low,4.0,M - Moderate,L - Low,2007
+925,925,Partington Creek near Port Coquitlam,B - Bedrock,fractured quarz diorite of Coast Plutonic Rocks,6b - Fractured crystalline bedrock,L - Low,5.4,M - Moderate,L - Low,2007
+926,926,N side of Pitt River Valley,SG - Sand and Gravel,Glaciofluvial and glacioalcustrine deposits,4b - Confined sand and gravel - glacial,L - Low,2.6,M - Moderate,M - Moderate,2007
+927,927,"W side of Burk Mt, E Coquitlam R. Valley",SG - Sand and Gravel,Glaciofluvial and glacioalcustrine deposits,4b - Confined sand and gravel - glacial,L - Low,2.3,L - Low,L - Low,2007
+928,Farrel Creek Bedrock Aquifer,Between Peace River and Farrel Creek,B - Bedrock,Fort St. John Group,5a - Fractured sedimentary rock,L - Low,232.0,M - Moderate,L - Low,2022
+929,,North pine River at Nelson Creek,SG - Sand and Gravel,Terrace deposits of gravel sheets and sand,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,10.4,M - Moderate,L - Low,2011
+930,,South Pine River at Nelson Creek,SG - Sand and Gravel,Terrace deposits of gravel sheets & sand,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,16.7,H - High,L - Low,2011
+931,,"E. of Blueberry River, N. of Fort St John",B - Bedrock,Dunvegan Formation (Sedimentary),5a - Fractured sedimentary rock,M - Moderate,964.4,L - Low,L - Low,2011
+932,Northwest Halfway-Beatton Bedrock,"Between the Blueberry River and Cameron River, near Wonowon",B - Bedrock,Dunvegan Formation,5a - Fractured sedimentary rock,M - Moderate,528.4,M - Moderate,L - Low,2022
+933,,"Cecil Lake, North Peace River",B - Bedrock,Dunvegan Formation,5a - Fractured sedimentary rock,M - Moderate,1119.5,L - Low,L - Low,2011
+934,Upper Halfway Bedrock Aquifer,Between the Halfway River and the Cameron River,B - Bedrock,"Fort St. John Group, Sully Formation",5a - Fractured sedimentary rock,M - Moderate,421.6,M - Moderate,L - Low,2022
+935,935,Keremeos Creek Valley,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,5.2,H - High,M - Moderate,2012
+936,936,"East of Osoyoos, Anarchist Mountain",B - Bedrock,Metamorphic rock; Anarchist Form; Paleozoic Era; Greenstone & Greenschist,6b - Fractured crystalline bedrock,M - Moderate,16.1,M - Moderate,M - Moderate,2012
+937,937,Keremeos Creek Valley,B - Bedrock,"Sedimentary rock; Shoemaker Form; Paleo to Meso Era; chert, tuff & greenstone",5a - Fractured sedimentary rock,M - Moderate,4.7,L - Low,M - Moderate,2012
+938,938,"Hayman Mtn, S of Lambly Ck",B - Bedrock,"Volcanic Rk,Harper Ranch Group, Paleozoic Era",6b - Fractured crystalline bedrock,M - Moderate,8.3,L - Low,M - Moderate,2012
+939,939,Wilson Landing,B - Bedrock,Volcanic Rock; Harper Ranch Grp; Paleozoic Era,6b - Fractured crystalline bedrock,M - Moderate,8.9,H - High,L - Low,2012
+940,940,"Hayman Mtn., north of Lambly Ck",B - Bedrock,"Igneous intrusive, metamorphic, meta-sedimentary, meta-volcanic, volcanic",6b - Fractured crystalline bedrock,M - Moderate,2.6,L - Low,M - Moderate,2012
+941,941,West side of Okanagan Lk; near Ceasars,B - Bedrock,Intrusive rock; Mesozoic Era,6b - Fractured crystalline bedrock,M - Moderate,12.0,L - Low,L - Low,2012
+943,943,"Jordan River to Rosemond Creek, Vancouver",B - Bedrock,Carmanah Group; undivided sed. rks; Metchosin Igneous Complex; Basaltic rks,6b - Fractured crystalline bedrock,M - Moderate,16.3,L - Low,L - Low,2012
+944,944,"Jordan River to Uglow Creek, Vancouver",SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,2.6,M - Moderate,M - Moderate,2012
+945,945,North-eastern shore of Cowichan Lake,B - Bedrock,Fractured shales & sandstones; Nanaimo Group; Upper Cretaceous Period.,5a - Fractured sedimentary rock,L - Low,15.6,L - Low,L - Low,2012
+946,946,North-eastern shore of Cowichan Lake,B - Bedrock,Fractured volcanic rk; McLaughlin Ridge Form; Devonian Period.,6b - Fractured crystalline bedrock,M - Moderate,3.7,L - Low,L - Low,2012
+947,947,East shore of Mesachie Lake,G - Gravel,Alluvial fan and glacio-fluvial deposits,4b - Confined sand and gravel - glacial,L - Low,1.2,M - Moderate,L - Low,2012
+948,948,"West shore of Marble Bay, Cowichan Lake",SG - Sand and Gravel,Glacial-fluvial outwash channels of gravel and medium sand,4b - Confined sand and gravel - glacial,L - Low,0.3,H - High,L - Low,2012
+949,949,East shore of Mesachie Lake,SG - Sand and Gravel,Alluvial fan and glacio-fluvial deposits,1b - Unconfined sand and gravel aquifer - medium stream system,L - Low,2.9,M - Moderate,L - Low,2012
+950,Wood Mountain and Mount Washington,"Courtenay Airport, Courtenay",B - Bedrock,Karmutsen Formation,6b - Fractured crystalline bedrock,L - Low,117.0,,,2019
+951,Courtney and Royston,Puntledge to Courtenay,SG - Sand and Gravel,Various inferred,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,34.2,,,2019
+952,"Tsolum River, North of Courtney",North of Puntledge River,S - Sand,Capilano Sediments (fluvial),4a - Unconfined sand and gravel - late glacial outwash,H - High,19.0,,,2019
+953,953,Pearson Island,B - Bedrock,Bedrock; fractured granite,6b - Fractured crystalline bedrock,H - High,0.1,L - Low,H - High,2012
+954,954,Sakinaw Lake near Steep Spring,B - Bedrock,Bedrock; fractured granite,6b - Fractured crystalline bedrock,H - High,1.5,L - Low,L - Low,2012
+955,955,Gunboat Bay; Sunshine Coast,B - Bedrock,Bedrock; fractured granite,6b - Fractured crystalline bedrock,M - Moderate,0.6,L - Low,L - Low,2012
+956,956,"Lily Lake, Sunshine Coast",B - Bedrock,Bedrock; fractured granite,6b - Fractured crystalline bedrock,H - High,2.0,M - Moderate,L - Low,2012
+957,957,Shuttle Bay to the Malaspina Peninsula,B - Bedrock,Likley dioritic intrusive rocks; Early Cretaceous Period,6b - Fractured crystalline bedrock,H - High,12.3,L - Low,L - Low,2012
+958,958,South of Okeover Arm Provincial Park,B - Bedrock,Likely dioritic intrusive rocks; Early Cretaceous Period,6b - Fractured crystalline bedrock,H - High,3.2,L - Low,L - Low,2012
+959,959,Hurtado Point,B - Bedrock,Likely dioritic intrusive rocks; Early Cretaceous Period,6b - Fractured crystalline bedrock,H - High,7.1,M - Moderate,L - Low,2012
+960,960,"Lund, BC",B - Bedrock,Likely dioritic rocks; Early Cretaceous Period,6b - Fractured crystalline bedrock,H - High,3.3,L - Low,L - Low,2012
+961,961,Coast near Altrevida Reef,SG - Sand and Gravel,deposits of gravel and coarse sand,4b - Confined sand and gravel - glacial,M - Moderate,0.1,M - Moderate,M - Moderate,2012
+962,962,"Ladysmith, BC",SG - Sand and Gravel,Primarily gravel and sand,4a - Unconfined sand and gravel - late glacial outwash,H - High,0.6,L - Low,L - Low,2012
+963,963,Nanaimo River Road near Berkley Creek,B - Bedrock,"Several formations of the Nanaimo Series, Upper Creatceous",5a - Fractured sedimentary rock,H - High,5.1,L - Low,M - Moderate,2012
+964,964,Cassidy  Nanaimo Airport,B - Bedrock,"Cretaceous sandstone & shale, primarily DeCourcy Form., Nanaimo Series",5a - Fractured sedimentary rock,M - Moderate,17.3,M - Moderate,L - Low,2012
+965,965,Ruxton Island,B - Bedrock,Upper Cretaceous Geoffrey Formation,5a - Fractured sedimentary rock,H - High,1.0,L - Low,H - High,2012
+966,966,Valdes Island,B - Bedrock,Upper Cretaceous; Geoffrey & De Courcy Formation,5a - Fractured sedimentary rock,M - Moderate,24.5,L - Low,L - Low,2012
+967,967,Reid Island,B - Bedrock,pper Cretaceous; Geoffrey & De Courcy Formation,5a - Fractured sedimentary rock,H - High,1.0,L - Low,H - High,2012
+968,968,De Courcy Island,B - Bedrock,Upper Cretaceous Geoffrey Formation,5a - Fractured sedimentary rock,H - High,2.0,L - Low,H - High,2012
+969,969,Sumas mountain,B - Bedrock,Sedimentary rk; Kitsilano Formation; Cenozoic Era,5a - Fractured sedimentary rock,M - Moderate,21.5,M - Moderate,L - Low,2012
+970,970,South of Grant Hill,SG - Sand and Gravel,Sumas Drift and Fort Langley Formation,4b - Confined sand and gravel - glacial,M - Moderate,15.0,M - Moderate,M - Moderate,2016
+971,971,Southwest shore of Stave Lake,SG - Sand and Gravel,Sand & Gravel,1a - Unconfined sand and gravel - large river system,M - Moderate,1.5,M - Moderate,M - Moderate,2016
+973,973,North Thormanby Island,S - Sand,"Sand, silty sand, and gravel",4b - Confined sand and gravel - glacial,M - Moderate,1.6,L - Low,M - Moderate,2012
+974,974,"Gowlland Harbour, Quadra Island",SG - Sand and Gravel,Likely Quadra Sand,4b - Confined sand and gravel - glacial,M - Moderate,0.7,M - Moderate,M - Moderate,2012
+975,Campbell River,East shore of McIvor Lake,S - Sand,Cowichan Head Formation,4a - Unconfined sand and gravel - late glacial outwash,H - High,30.3,,,2019
+976,976,Flintoff Creek,S - Sand,Likely Quadra Sand,4b - Confined sand and gravel - glacial,L - Low,0.9,M - Moderate,L - Low,2012
+977,Unused aquifer number,,,,,,,,,
+979,979,"Quesnel, east side of the Fraser River",B - Bedrock,"Sedimentary rock, Endako Group, Cenozoic Era",5a - Fractured sedimentary rock,L - Low,70.8,M - Moderate,L - Low,2017
+980,980,"NW of Quesnel, E of Bouchie Lake",S - Sand,Late Fraser Drift,6b - Fractured crystalline bedrock,L - Low,2.5,M - Moderate,L - Low,2012
+981,981,"Bouchie Lake, Northwest of Quesnel",SG - Sand and Gravel,Sand & Gravel,4a - Unconfined sand and gravel - late glacial outwash,H - High,2.8,M - Moderate,M - Moderate,2012
+982,982,Confluence of Arrow Ck and Goat R.,B - Bedrock,Sedimentary rocks from Aldridge Formation of the Proterozoic Era,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,38.1,L - Low,L - Low,2012
+983,983,"Wild Ck near Duck Lake, BC",B - Bedrock,"Sedimentary & dolomitic rks, Mount Nelson, Dutch Ck & Kitchener Formations",4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,4.9,M - Moderate,L - Low,2012
+984,984,Confluence of Arrow Ck. and Goat R.,G - Gravel,Glacial-fluvial gravel and some sand and gravel,4b - Confined sand and gravel - glacial,M - Moderate,7.5,M - Moderate,M - Moderate,2012
+985,985,"Kootenay R. floodplain, NW of Creston",S - Sand,Fluvial deposits of fine to medium sand and some sand and gravel,1c - Unconfined sand and gravel aquifer - small stream system,L - Low,52.5,L - Low,L - Low,2012
+986,986,Northeast end of Osoyoos Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,2.1,M - Moderate,L - Low,2012
+987,987,Sumas Mountain,B - Bedrock,"Sumas Mountain, Volcanic rock; Harrison Lake Formation",6b - Fractured crystalline bedrock,L - Low,5.6,L - Low,M - Moderate,2012
+988,988,Western slope of Sentinel Mountain,B - Bedrock,"Sheppard, Tuzo Creek, & Shingle Ck Intrusions; Some metamorphic rks",6b - Fractured crystalline bedrock,H - High,8.3,M - Moderate,L - Low,2012
+989,989,"Ladybird Mountain, west of Norns Creek",B - Bedrock,"Sheppard, Tuzo Ck, & Shingle Ck Intrusive rks; Some metamorphic rks",6b - Fractured crystalline bedrock,M - Moderate,2.1,M - Moderate,M - Moderate,2012
+990,990,"N. side Columbia R., W. of Lower Arrow Lk",B - Bedrock,"Greenwood, Wallace Cr Plutons, Kinnaird Gneiss form. Some metamorphic rks.",6b - Fractured crystalline bedrock,M - Moderate,4.5,M - Moderate,L - Low,2012
+991,991,"Harrop, BC",SG - Sand and Gravel,Glaciofluvial sand & gravel intermixed with fine sand lenses,2 - Unconfined sand and gravel - deltaic,H - High,2.6,M - Moderate,M - Moderate,2012
+992,992,"Fraser, West of Balfour",SG - Sand and Gravel,"Glaciofluvial gravel, sand, and sand & gravel deposits",2 - Unconfined sand and gravel - deltaic,M - Moderate,1.0,M - Moderate,M - Moderate,2012
+993,993,"Longbeach to Harrop Point, BC",SG - Sand and Gravel,Glaciofluvial sand & gravel deposits,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,1.3,M - Moderate,M - Moderate,2012
+994,994,Kokanee Point,SG - Sand and Gravel,Fluvial sand & gravel deposits,2 - Unconfined sand and gravel - deltaic,H - High,1.2,M - Moderate,M - Moderate,2012
+995,995,Longbeach and Fraser,B - Bedrock,Granodioritic rocks; Nelson Batholith Grp; Mesozoic Era,6b - Fractured crystalline bedrock,M - Moderate,24.0,M - Moderate,L - Low,2012
+996,996,Bull Mountain,B - Bedrock,"Sed rock; Etherington, Mount Head, and Livingstone Form.; Paleozoic Era",5a - Fractured sedimentary rock,M - Moderate,5.7,M - Moderate,L - Low,2012
+997,997,Mayook,SG - Sand and Gravel,Glaciofluvial sand and gravel; possibly multiple stacked aquifers,4b - Confined sand and gravel - glacial,L - Low,4.4,M - Moderate,L - Low,2012
+998,998,Bednorski Lake,SG - Sand and Gravel,Glaciofluvial multiple stacked aquifers?,4b - Confined sand and gravel - glacial,L - Low,6.7,M - Moderate,L - Low,2012
+999,999,North of Cranbrook,G - Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,3.8,M - Moderate,M - Moderate,2016
+1000,1000,Eastern side of Windermere Lake,B - Bedrock,Fine Sed rocks; McKay Group; Cambrian to Ordovician Eras,5a - Fractured sedimentary rock,M - Moderate,26.1,M - Moderate,L - Low,2012
+1002,Rawlings Lake,south and west of Rawlings Lake,SG - Sand and Gravel,Kame - Fraser glaciation,4a - Unconfined sand and gravel - late glacial outwash,H - High,3.4,M - Moderate,M - Moderate,2018
+1003,1003,North of Lumby,B - Bedrock,"Sed. rk.; Nicola Group; Mesozoic Era; mudstone, siltstone & shale",5a - Fractured sedimentary rock,L - Low,22.8,L - Low,L - Low,2012
+1004,1004,White Valley area,B - Bedrock,Sed. rock.; Harper Ranch & Nicola Groups; Meta. rock.; Shuswap Assemblage,5a - Fractured sedimentary rock,L - Low,51.1,M - Moderate,L - Low,2012
+1005,1005,Southwest of Kawkawa Lake,SG - Sand and Gravel,Sand & Gravel,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,1.5,M - Moderate,M - Moderate,2012
+1006,1006,Southeast of Devil Lake,SG - Sand and Gravel,Sand and gravel,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,0.7,M - Moderate,H - High,2012
+1007,1007,Hope,SG - Sand and Gravel,Sand & Gravel,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,2.8,H - High,L - Low,2012
+1008,Haig,Hope,B - Bedrock,"Intrusive Rk, Mesozoic Era;  Sedimentary rks, Princeton Group, Cenozoic Era",5a - Fractured sedimentary rock,M - Moderate,4.9,,,2018
+1009,Kawkawa Lake,Hope,B - Bedrock,Intrusive rock from the Mesozoic Era,6b - Fractured crystalline bedrock,M - Moderate,6.3,,,2018
+1010,1010,Tulameen,SG - Sand and Gravel,Sand and Gravel,4a - Unconfined sand and gravel - late glacial outwash,H - High,0.9,M - Moderate,H - High,2012
+1011,1011,"Coalmont, 5 km SE of Tulameen",SG - Sand and Gravel,Sand and Gravel,1c - Unconfined sand and gravel aquifer - small stream system,H - High,0.9,M - Moderate,M - Moderate,2012
+1012,1012,"Riddle Mountain, SE slope",B - Bedrock,"Intrusive &volcanic rock, Cenozoic Era",6b - Fractured crystalline bedrock,H - High,1.2,M - Moderate,M - Moderate,2012
+1013,1013,"Otter Lake, NW shoreline",G - Gravel,Gravel,2 - Unconfined sand and gravel - deltaic,H - High,0.6,M - Moderate,M - Moderate,2012
+1014,Owl Ridge Aquifer,Owl Ridge Subdivision,SG - Sand and Gravel,Ice-contact glacial sand & gravel deposits,4b - Confined sand and gravel - glacial,L - Low,2.3,M - Moderate,M - Moderate,2012
+1015,Birkenhead River Aquifer,Birkenhead River,SG - Sand and Gravel,ice contact sand and gravel deposits,1c - Unconfined sand and gravel aquifer - small stream system,M - Moderate,4.1,H - High,L - Low,2012
+1016,Owl Creek,Owl Creek,B - Bedrock,Sedimentary & volcanic rks;Peninsula & Brokenback Hill Formations,5a - Fractured sedimentary rock,M - Moderate,13.5,L - Low,M - Moderate,2012
+1017,,S of Prince George; Cranbrook Hill,SG - Sand and Gravel,Fluvialglacial sands and gravels,4b - Confined sand and gravel - glacial,M - Moderate,7.2,M - Moderate,L - Low,2012
+1018,1018,Crescent Bay,B - Bedrock,Granodioritic rock; Nelson Batholith Group; Mesozoic Era,6b - Fractured crystalline bedrock,M - Moderate,8.4,M - Moderate,L - Low,2012
+1019,1019,Fintry Provincial Park,SG - Sand and Gravel,Ice contact deposits,4a - Unconfined sand and gravel - late glacial outwash,H - High,2.1,M - Moderate,L - Low,2013
+1020,1020,East face of Sugarloaf Mountain,B - Bedrock,Intrusive rock; granite & alkali feldspar granite; Mesozoic Era,6b - Fractured crystalline bedrock,M - Moderate,52.4,L - Low,L - Low,2013
+1021,1021,Winfield,B - Bedrock,Intrusive rock; granite & alkali feldspar granite; Mesozoic Era,6b - Fractured crystalline bedrock,L - Low,3.4,M - Moderate,L - Low,2013
+1022,1022,Ribbleworth Creek,B - Bedrock,"Primarily metamorphic rks, Proterozoic Era; some Granitic rks, Mesozoic era",6b - Fractured crystalline bedrock,M - Moderate,25.5,L - Low,L - Low,2013
+1023,1023,"Barkley Road, Lake Country",SG - Sand and Gravel,glacio-fluvial sediments,4b - Confined sand and gravel - glacial,L - Low,0.3,M - Moderate,L - Low,2013
+1024,1024,Princeton,B - Bedrock,Sedimentary rks; Coldwater Beds; Allenby Frm of Princeton Grp; Cenozoic Era,5a - Fractured sedimentary rock,M - Moderate,122.3,M - Moderate,L - Low,2013
+1025,1025,Allison Lake,SG - Sand and Gravel,glaciofluvial deposits,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,0.9,M - Moderate,H - High,2013
+1026,1026,"Hayes Creek, N of Finnegan Ck",B - Bedrock,Primarily granitic intrusive rks; Mesozoic Era,6b - Fractured crystalline bedrock,M - Moderate,22.5,L - Low,L - Low,2013
+1027,1027,Chain Lake,B - Bedrock,Primarily granitic intrusive rocks; Mesozoic Era,6b - Fractured crystalline bedrock,L - Low,1.8,M - Moderate,L - Low,2013
+1028,1028,Confluence of Hayes and Siwash Creeks,G - Gravel,Glaciofluvial deposits,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,7.0,M - Moderate,M - Moderate,2013
+1029,1029,North of Princeton,G - Gravel,Glaciofluvial deposits,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,8.2,H - High,M - Moderate,2013
+1030,1030,12km North of Princeton,SG - Sand and Gravel,Likely Glaciofluvial deposits,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,0.8,M - Moderate,M - Moderate,2013
+1031,1031,Hayes Ck south of Trehearne Ck,B - Bedrock,Primarily granitic intrusive rks; Mesozoic Era,6b - Fractured crystalline bedrock,M - Moderate,14.3,L - Low,L - Low,2013
+1032,1032,Osprey Lake,B - Bedrock,"Igneous intrusive or metamorpjic, meta-sedimentary, meta-volcanic rks",6b - Fractured crystalline bedrock,M - Moderate,5.9,L - Low,M - Moderate,2013
+1033,1033,Chain Lake,SG - Sand and Gravel,Likely glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,0.4,M - Moderate,H - High,2013
+1034,1034,Highland area north of Fort Nelson,B - Bedrock,Fort St. John Group,5a - Fractured sedimentary rock,L - Low,128.6,L - Low,L - Low,2013
+1035,,East side of Fort Nelson River,SG - Sand and Gravel,glacialfluvial sands and gravel,4b - Confined sand and gravel - glacial,M - Moderate,4.3,M - Moderate,L - Low,2013
+1036,,Columbia River Valley at Spillimacheen,SG - Sand and Gravel,glaciofluvial deposits,3 - Unconfined sand and gravel - alluvial or colluvial fan,L - Low,3.1,M - Moderate,M - Moderate,2013
+1037,,Columbia River Valley  northwest of Brisco,SG - Sand and Gravel,glaciofluvial deposits,4b - Confined sand and gravel - glacial,M - Moderate,0.4,M - Moderate,M - Moderate,2013
+1038,,Columbia River Valley at Brisco,SG - Sand and Gravel,glaciofluvial deposits,4b - Confined sand and gravel - glacial,M - Moderate,0.6,M - Moderate,M - Moderate,2013
+1039,,Columbia River Valley 1southeast of Brisco,SG - Sand and Gravel,glaciofluvial deposits,4b - Confined sand and gravel - glacial,M - Moderate,0.3,M - Moderate,M - Moderate,2013
+1040,,Industrial area 6 km south of Fort Nelson,SG - Sand and Gravel,Glaciofluvial gravels and sands,4b - Confined sand and gravel - glacial,L - Low,5.7,H - High,L - Low,2013
+1041,,7km SE of Fort Nelson,SG - Sand and Gravel,fluvial gravel and sands,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,3.3,H - High,L - Low,2013
+1042,,Columbia River Valley-Frances Creek Valley,SG - Sand and Gravel,glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,5.8,M - Moderate,L - Low,2013
+1043,,southeast of Golden,B - Bedrock,McKay Group,5a - Fractured sedimentary rock,L - Low,5.3,L - Low,L - Low,2013
+1044,,18 km southeast of Golden,G - Gravel,alluvial fan,3 - Unconfined sand and gravel - alluvial or colluvial fan,M - Moderate,2.2,M - Moderate,M - Moderate,2013
+1045,,3 km north of Luxor,B - Bedrock,"Fractured mudstone, siltstone and shale",5a - Fractured sedimentary rock,L - Low,1.2,M - Moderate,L - Low,2013
+1046,,2 km northeast of Luxor,SG - Sand and Gravel,glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,1.8,M - Moderate,M - Moderate,2013
+1047,,30 km southeast of Golden,SG - Sand and Gravel,Quaternary sands and gravels,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,0.3,M - Moderate,M - Moderate,2013
+1048,,40 km southeast of Golden,SG - Sand and Gravel,Quaternary sands and gravels,3 - Unconfined sand and gravel - alluvial or colluvial fan,M - Moderate,0.6,M - Moderate,M - Moderate,2013
+1049,,45 km southeast of Golden,SG - Sand and Gravel,45 km southeast of Golden,3 - Unconfined sand and gravel - alluvial or colluvial fan,M - Moderate,1.2,M - Moderate,M - Moderate,2013
+1050,,Babtiste Lake,SG - Sand and Gravel,glaciofluvial deposits,4b - Confined sand and gravel - glacial,L - Low,0.9,M - Moderate,M - Moderate,2013
+1051,,Salmon River Valley  south of Sayward,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,9.7,M - Moderate,L - Low,2015
+1052,,Junction of Greenhills  and Fording River,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.4,H - High,L - Low,2015
+1053,,2 km south of Fernie,B - Bedrock,,5a - Fractured sedimentary rock,M - Moderate,7.8,L - Low,M - Moderate,2015
+1054,,Greenhills Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.5,H - High,H - High,2015
+1055,,Salmon River Valley at Stowe Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,5.8,M - Moderate,L - Low,2015
+1056,,"1 km N of Elkford, Elk River Valley",SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,3.1,M - Moderate,L - Low,2015
+1057,,"Elko, west side of Elk River",SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,6.5,H - High,M - Moderate,2015
+1058,,Boivin Creek Fan at Elkford,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,1.3,H - High,M - Moderate,2015
+1059,,"Rocky Mountain Trench, west of Caithness",SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,1.5,M - Moderate,M - Moderate,2015
+1060,,Elk River Valley,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,2.2,H - High,L - Low,2015
+1061,,Grasmere Valley,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,3.4,M - Moderate,L - Low,2015
+1062,,west side of Elk River valley,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,3.0,H - High,L - Low,2015
+1063,,Edwards Lakes Valley,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,4.5,M - Moderate,L - Low,2015
+1064,,Elk River Valley,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,3.0,M - Moderate,L - Low,2015
+1065,,3 km south of Grasmere,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,2.2,M - Moderate,M - Moderate,2015
+1066,,West side of Elk river,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.7,M - Moderate,L - Low,2015
+1067,,West side of Lake Koocanusa,B - Bedrock,,5a - Fractured sedimentary rock,L - Low,1.5,M - Moderate,M - Moderate,2015
+1068,,West side of Elk River,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,1.5,M - Moderate,L - Low,2015
+1069,,East side of Lake Koocanusa,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,2.2,M - Moderate,M - Moderate,2015
+1070,,West side of Elk River Valley,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,5.1,M - Moderate,L - Low,2015
+1071,,West side of Lake Koocanusa,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.9,M - Moderate,L - Low,2015
+1072,,West side of Elk River Valley bottom,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,3.5,M - Moderate,L - Low,2015
+1073,,West side of Koocanusa Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,5.0,M - Moderate,L - Low,2015
+1074,,W side of Elk R Valley,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.8,M - Moderate,M - Moderate,2015
+1075,,West side of Kitimat River,SG - Sand and Gravel,,4c - Confined sand and gravel - glacio-marine,M - Moderate,6.5,M - Moderate,L - Low,2015
+1076,,W side of Elk R Valley,B - Bedrock,,5a - Fractured sedimentary rock,M - Moderate,3.7,L - Low,L - Low,2015
+1077,,North of Kitimat River,S - Sand,,4c - Confined sand and gravel - glacio-marine,M - Moderate,3.2,M - Moderate,L - Low,2015
+1078,,W side of Elk R Valley,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,8.5,M - Moderate,L - Low,2015
+1079,,Eaast side of Kitimat River,SG - Sand and Gravel,,1a - Unconfined sand and gravel - large river system,H - High,1.6,H - High,M - Moderate,2015
+1080,,Sparwood,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,0.1,H - High,H - High,2015
+1081,,West side of Kitimat River,SG - Sand and Gravel,,1a - Unconfined sand and gravel - large river system,H - High,2.4,H - High,M - Moderate,2015
+1082,,Sparwood,B - Bedrock,,5a - Fractured sedimentary rock,L - Low,1.8,M - Moderate,M - Moderate,2015
+1083,,East bank of Kitimat River,SG - Sand and Gravel,,1a - Unconfined sand and gravel - large river system,H - High,0.7,H - High,L - Low,2015
+1084,,,,,,,,,,
+1085,,West side of Kitimat River,SG - Sand and Gravel,,4c - Confined sand and gravel - glacio-marine,M - Moderate,1.1,H - High,M - Moderate,2015
+1086,,,,,,,,,L - Low,
+1087,,Salmon River Valley at Memekay River,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,4.8,H - High,H - High,2015
+1088,,Town of Hosmer,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,1.2,M - Moderate,M - Moderate,2015
+1089,,,,,,,,,,
+1090,,South of Hosmer,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,3.7,M - Moderate,L - Low,2015
+1091,,,,,,,,,,
+1093,,,,,,,,,,
+1094,,W. side of Elk R Valley,B - Bedrock,,5a - Fractured sedimentary rock,L - Low,11.2,L - Low,L - Low,2020
+1095,,,,,,,,,,
+1096,,Salmon River Valley at Bigtree Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,2.2,H - High,H - High,2015
+1097,,,,,,,,,,
+1098,,East of Englishman River,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,24.4,M - Moderate,M - Moderate,2023
+1099,TEST AQUIFER,,,,,,,,,
+1100,,Whonnock Lake / Creek,SG - Sand and Gravel,unconfined fluvial or glaciofluvial sand and gravel,1c - Unconfined sand and gravel aquifer - small stream system,H - High,1.5,L - Low,L - Low,2016
+1101,,North Kanata Creek,SG - Sand and Gravel,Glacio-fluvial sand and gravel,4c - Confined sand and gravel - glacio-marine,M - Moderate,9.4,M - Moderate,M - Moderate,2016
+1102,,Maple Ridge,SG - Sand and Gravel,Glacio-fluvial sand and gravel,4c - Confined sand and gravel - glacio-marine,M - Moderate,12.4,M - Moderate,L - Low,2016
+1103,,Silverdale,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,8.6,M - Moderate,M - Moderate,2016
+1104,,Silvermere Lake Island,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,0.3,M - Moderate,M - Moderate,2016
+1105,,South of Davis Lake,B - Bedrock,,6b - Fractured crystalline bedrock,H - High,0.2,M - Moderate,L - Low,2016
+1106,,East of Hatzic Prairie,B - Bedrock,,6b - Fractured crystalline bedrock,H - High,4.7,M - Moderate,L - Low,2016
+1107,,"Grand Oro Road,south of Twin Lakes",SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,L - Low,0.6,M - Moderate,M - Moderate,2016
+1108,,Willowbrook and Oliver,B - Bedrock,,6b - Fractured crystalline bedrock,H - High,61.9,L - Low,L - Low,2016
+1109,,Willowbrook,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,12.0,L - Low,L - Low,2016
+1110,,Water Dog Lake to McCuddy Creek Road,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,16.2,M - Moderate,L - Low,2016
+1111,,Inkaneep,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,3.1,H - High,L - Low,2016
+1112,,McCoudy Creek Road,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,L - Low,0.2,H - High,L - Low,2016
+1113,,Mount Kobau,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,9.6,M - Moderate,L - Low,2016
+1114,,South of Goose Creek,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,2.8,M - Moderate,L - Low,2016
+1115,This aquifer was first named as aquifer #533,Salmon River Valley South in Sayward,SG - Sand and Gravel,,4c - Confined sand and gravel - glacio-marine,L - Low,6.2,M - Moderate,L - Low,2016
+1116,Rosebery,Mouth of Wilson Creek at Slocan Lake,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,0.8,M - Moderate,H - High,2016
+1117,,Glade east of Kootenay River,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,1.1,M - Moderate,M - Moderate,2016
+1118,,Taghum,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.7,M - Moderate,M - Moderate,2016
+1119,,"Krestova to Passmore, west of Slocan River",SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,15.8,M - Moderate,M - Moderate,2016
+1120,,"Valican, junction of Slocan Rivers",SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,2.8,M - Moderate,M - Moderate,2016
+1121,,Valican and Passmore,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,12.8,L - Low,L - Low,2016
+1122,,Winlaw,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,2.4,M - Moderate,M - Moderate,2016
+1123,,Appledale,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,H - High,0.6,M - Moderate,M - Moderate,2016
+1124,,Winlaw to Lemon Creek,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,18.6,L - Low,L - Low,2016
+1125,,Lemon Creek,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,5.3,M - Moderate,L - Low,2016
+1126,,Village of Slocan,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,M - Moderate,2.0,M - Moderate,M - Moderate,2016
+1127,,Greater Nakusp Area,G - Gravel,,5a - Fractured sedimentary rock,M - Moderate,24.1,L - Low,L - Low,2016
+1128,,Village of Nakusp,SG - Sand and Gravel,,2 - Unconfined sand and gravel - deltaic,H - High,8.0,M - Moderate,L - Low,2016
+1129,,FairmontHot springs,B - Bedrock,,5a - Fractured sedimentary rock,L - Low,0.7,L - Low,M - Moderate,2016
+1130,,"West of Invermere, south of Toby Creek",SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,16.6,M - Moderate,L - Low,2016
+1131,,South of Froster Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,H - High,5.6,M - Moderate,L - Low,2016
+1132,,North of Fairmont Hot springs,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,4.1,M - Moderate,L - Low,2016
+1133,,"Old Town, on Perry Creek",SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,1.0,M - Moderate,M - Moderate,2016
+1134,,"Wycliffe, North of St.Mary River",SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,H - High,3.6,M - Moderate,M - Moderate,2016
+1135,,South of Kimberly,SG - Sand and Gravel,,1a - Unconfined sand and gravel - large river system,H - High,1.1,M - Moderate,H - High,2016
+1136,,South of Kimberly,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,2.2,H - High,L - Low,2016
+1137,,City of Kimberly and Kimberly Highway,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,11.8,M - Moderate,M - Moderate,2016
+1138,,East of Kimberly,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,1.2,M - Moderate,M - Moderate,2016
+1139,,Canadian Rockies International  Airport,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,0.5,H - High,M - Moderate,2016
+1140,,Kimberly Highway,B - Bedrock,,5a - Fractured sedimentary rock,L - Low,2.6,L - Low,L - Low,2016
+1141,,Kootenay and St. mary Rivers,SG - Sand and Gravel,,1a - Unconfined sand and gravel - large river system,H - High,7.7,M - Moderate,L - Low,2016
+1142,,North of Fort Steele,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,15.6,M - Moderate,L - Low,2016
+1143,Not correlated at the time of interpretation,Insufficient info or does not correspond,,,,,,,,2016
+1144,Hopington C,Hopington-Township of Langley,SG - Sand and Gravel,Glaciomarrine outwash of the Fort Langley Formation,4c - Confined sand and gravel - glacio-marine,M - Moderate,16.5,M - Moderate,H - High,2017
+1145,,northeast of Terrace,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,22.0,M - Moderate,M - Moderate,2017
+1146,,Gibraltar Mine,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,22.1,H - High,M - Moderate,2017
+1147,South-Central Salt Spring Island,Saltspring Island,B - Bedrock,Nitinat Formation and the Saltspring Intrusive Suite,6b - Fractured crystalline bedrock,H - High,48.8,L - Low,,2018
+1148,Greenwood,Saltspring Island,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,1.0,M - Moderate,,2018
+1149,Ashton Creek Unconfined,Ashton Creek,SG - Sand and Gravel,Late Glacial (Including reworked preglacial) to Holocene,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,8.1,M - Moderate,L - Low,2017
+1150,O'Keefe Basal,O'Keefe Valley and Grandview Flats,S - Sand,,4b - Confined sand and gravel - glacial,M - Moderate,17.6,M - Moderate,L - Low,2017
+1151,Swan Lake Unconfined,North of Vernon / North of Swan Lake,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,7.9,M - Moderate,L - Low,2017
+1152,Vernon Unconfined,Northeast of Vernon along BX Creek,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,21.1,L - Low,L - Low,2017
+1153,Spallumcheen Confined,Lower Shuswap River Valley,S - Sand,,4b - Confined sand and gravel - glacial,M - Moderate,93.0,H - High,,2019
+1154,Vernon Confined,Northeast of Vernon along BX Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,20.0,L - Low,L - Low,2017
+1155,Spallumcheen Deep Confined,,S - Sand,,4b - Confined sand and gravel - glacial,L - Low,46.9,H - High,,2019
+1156,Spallumcheen Basal Confined Aquifer,Lower Shuswap River Valley,S - Sand,,4b - Confined sand and gravel - glacial,L - Low,23.1,H - High,L - Low,2017
+1157,Hullcar Perched,"Slopes of Hullcar Valley, near Deep Creek",G - Gravel,,1c - Unconfined sand and gravel aquifer - small stream system,H - High,29.5,L - Low,L - Low,2017
+1158,Sugar Lake,Sugar Lake Road,SG - Sand and Gravel,"mixed kame, fan and modern alluvium",1b - Unconfined sand and gravel aquifer - medium stream system,H - High,14.9,M - Moderate,M - Moderate,2018
+1159,Lower Cherryville,Cherryville - Shuswap,SG - Sand and Gravel,"mixed kame, fan and modern alluvium",1b - Unconfined sand and gravel aquifer - medium stream system,H - High,24.4,M - Moderate,M - Moderate,2018
+1160,Bear Valley Perched,Bear Valley / Blue Springs Creek,SG - Sand and Gravel,"mixed englacialdeposits, outwash and recent fan",4a - Unconfined sand and gravel - late glacial outwash,H - High,1.1,M - Moderate,M - Moderate,2018
+1161,Falkland Perched,Falkland Upland,G - Gravel,"basal colluvial gravels, below Till",4b - Confined sand and gravel - glacial,L - Low,1.6,M - Moderate,M - Moderate,2018
+1162,Cedar Hill Perched,Cedar Hill,G - Gravel,"basal colluvial gravels, below Till",4b - Confined sand and gravel - glacial,L - Low,0.6,M - Moderate,M - Moderate,2018
+1163,Agate Aquifer,,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,4.9,H - High,L - Low,2018
+1164,Coldwater Valley,Coldwater River Valley,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,0.8,M - Moderate,L - Low,2018
+1165,Kingsvale,Coldwater River Valley,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,9.7,L - Low,L - Low,2018
+1166,Paul's Basin,Midday Creek Valley,B - Bedrock,Nicola Group Volcanics,6b - Fractured crystalline bedrock,M - Moderate,11.0,M - Moderate,M - Moderate,2018
+1167,Lower Merritt,Lower Merritt,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,6.8,H - High,M - Moderate,2018
+1168,Middle Merritt,Middle Merritt,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,13.0,H - High,M - Moderate,2018
+1169,Joeyaska Shallow,Joeyaska Shallow,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,1.9,M - Moderate,M - Moderate,2018
+1170,Stumbles Creek Confined,Stumbles Creek,S - Sand,,4b - Confined sand and gravel - glacial,M - Moderate,0.7,M - Moderate,L - Low,2018
+1171,Lower Nicola Outwash,Lower Nicola Outwash,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,6.4,H - High,M - Moderate,2018
+1172,Guichon Creek,Guichon Creek,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,2.9,L - Low,M - Moderate,2018
+1173,Kwinshatin Intertill,Coldwater River Valley,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,1.8,M - Moderate,M - Moderate,2018
+1174,Stump Lake,northeastern shore of Stump Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,1.5,M - Moderate,M - Moderate,2018
+1175,Stump Lake Bedrock,north east of Stump Lake.,B - Bedrock,,6b - Fractured crystalline bedrock,L - Low,5.1,L - Low,L - Low,2018
+1176,"Fraser Canyon, Choate to Yale",Fraser Canyon south of Choate to Yale,SG - Sand and Gravel,,1a - Unconfined sand and gravel - large river system,M - Moderate,9.8,M - Moderate,M - Moderate,2018
+1177,Coquihalla Canyon,Coquihalla Canyon,SG - Sand and Gravel,,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,2.3,M - Moderate,M - Moderate,2018
+1178,Eastern Kawkawa Lake,Eastern Kawkawa Lake,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,0.9,M - Moderate,M - Moderate,2018
+1179,"Mount Ozzard, Unconsolidated",Western slope of Mount Ozzard,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,23.1,M - Moderate,M - Moderate,2018
+1180,Tlell,"Graham Island, Tlell",S - Sand,,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,12.1,M - Moderate,M - Moderate,2018
+1181,Port Clements,"Graham Island, Port Clements",S - Sand,,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,7.8,M - Moderate,M - Moderate,2018
+1182,Masset,"Graham Island, Village of Masset",S - Sand,,4a - Unconfined sand and gravel - late glacial outwash,H - High,31.8,M - Moderate,M - Moderate,2018
+1183,Haida/Lawnhill,"Graham Island, Haida to Lawnhill",S - Sand,,4a - Unconfined sand and gravel - late glacial outwash,H - High,3.0,M - Moderate,M - Moderate,2018
+1184,Skidgate/Queen Charlotte,"Graham Island, Skidegate Plateau",B - Bedrock,,5a - Fractured sedimentary rock,M - Moderate,2.7,M - Moderate,M - Moderate,2018
+1185,"Mount Ozzard, Bedrock Southeast",Southeastern slope Mount Ozzard,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,43.7,M - Moderate,M - Moderate,2018
+1186,Mount Ozzard Bedrock West,Western slope Mount Ozzard,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,,M - Moderate,M - Moderate,2018
+1187,Ucluelet Peninsula,Ucluelet peninsula,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,10.0,M - Moderate,M - Moderate,2018
+1188,"Fraser Canyon, from Yale to Haig",Fraser Canyon,B - Bedrock,Custer Gneiss Formation,6b - Fractured crystalline bedrock,M - Moderate,11.3,,,2018
+1189,Eastern Kawkawa Lake,Eastern Kawkawa Lake,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,2.5,M - Moderate,M - Moderate,2018
+1190,Lower Coquihalla Canyon,Lower Coquihalla Canyon,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,2.8,M - Moderate,M - Moderate,2018
+1191,Central Kelowna Aquifer,Mission Creeknorth to Ellis Lake,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,42.4,H - High,L - Low,2018
+1192,Aldergrove CD,Township of Langley,SG - Sand and Gravel,Fort Langley Formation,4c - Confined sand and gravel - glacio-marine,M - Moderate,28.0,M - Moderate,M - Moderate,2018
+1193,Aldergrove Quadra,Township of Langley and Washington State,SG - Sand and Gravel,Quadra Sands,4b - Confined sand and gravel - glacial,L - Low,41.3,M - Moderate,L - Low,2018
+1194,Salmon River,Township of Langley,S - Sand,Semiahmoo or earlier,4c - Confined sand and gravel - glacio-marine,L - Low,44.0,M - Moderate,L - Low,2018
+1195,South of Murrayville B,Township of Langley,SG - Sand and Gravel,Vashon Drift,4b - Confined sand and gravel - glacial,L - Low,22.9,M - Moderate,L - Low,2018
+1196,Elk Creek Fan,SE of Chilliwack,SG - Sand and Gravel,Holocene Alluvial Fan,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,2.3,,,2019
+1197,Greendale Deep,Chilliwack – Fraser Lowland,S - Sand,"Pleistocene, Late Wisconsin Glaciomarine Outwash",4c - Confined sand and gravel - glacio-marine,L - Low,130.8,,,2019
+1198,Cheam Slide,Chilliwack – Fraser Lowland,SG - Sand and Gravel,Holocene slide debris,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,5.9,,,2019
+1199,Sumas Prairie North,West Chilliwack / East Abbotsford,S - Sand,Holocene lacustrine,4b - Confined sand and gravel - glacial,L - Low,48.1,,,2019
+1200,Cultus Lake Fan Delta A,Cultus Lake,G - Gravel,Alluvial Fan Delta,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,0.2,,,2019
+1201,Cultus Lake Fan Delta B,Cultus Lake,G - Gravel,Alluvial Fan Delta,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,0.1,,,2019
+1202,Cultus Lake Fan Delta C,Cultus Lake,G - Gravel,Alluvial Fan Delta,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,0.1,,,2019
+1203,Cultus Lake Fan Delta D,Cultus Lake,G - Gravel,Cultus Lake Fan Delta D,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,0.2,,,2019
+1204,Cultus Lake Dan Delta E,Cultus Lake,G - Gravel,Alluvial Fan Delta,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,0.0,,,2019
+1205,Vedder Crossing,Northeast end of Vedder Mountain,SG - Sand and Gravel,"Sumas & advance phase Late Wiconsin Outwash, Lower part pre-Wisconsin",4a - Unconfined sand and gravel - late glacial outwash,H - High,0.2,,,2019
+1206,Chilliwack River Subtill,Chilliwack River Valley,SG - Sand and Gravel,advance phase Late-Wisconsin Outwash (Quadra equivalent),4b - Confined sand and gravel - glacial,M - Moderate,38.3,,,2019
+1207,Ryder Upland A,Ryder Upland – Southeast Chilliwack,S - Sand,Late-Wisconsin pre-Vashon glaciolacustrine,4b - Confined sand and gravel - glacial,L - Low,1.2,,,2019
+1208,Ryder Upland B,Ryder Upland – Southeast Chilliwack,S - Sand,Late-Wisconsin pre-Vashon glaciolacustrine,4b - Confined sand and gravel - glacial,L - Low,1.6,,,2019
+1209,Ryder Upland C,Ryder Upland – Southeast Chilliwack,S - Sand,Late-Wisconsin pre-Vashon glaciolacustrine,4b - Confined sand and gravel - glacial,L - Low,5.8,,,2019
+1210,Mount Tom Unconsolidated,"Promontory Heights, Southeast Chilliwack",SG - Sand and Gravel,"Late Wisconsin, Sumas and earlier",4b - Confined sand and gravel - glacial,L - Low,2.3,,,2019
+1211,Lookout Ridge,Lookout Road – Southeast Chilliwack,SG - Sand and Gravel,Late Wisconsin,4b - Confined sand and gravel - glacial,L - Low,0.4,,,2019
+1212,Elkview Road Shallow,Elkview Road – Southeast Chilliwack,SG - Sand and Gravel,Sumas outwash and moraine,4b - Confined sand and gravel - glacial,L - Low,0.5,,,2019
+1213,Marble Hill Unconsolidated,Eastern Hillsides - Chilliwack,SG - Sand and Gravel,"Late Wisconsin (Sumas) outwash, and Holocene colluvium",4a - Unconfined sand and gravel - late glacial outwash,H - High,0.7,,,2019
+1214,Chilliwack Mountain Bedrock,Northwest Chilliwack,B - Bedrock,Pyroclastics and Flows of Jurassic Harrison Lake Formation,6b - Fractured crystalline bedrock,M - Moderate,6.0,,,2019
+1215,Cannor Road North,Northwest Chilliwack,B - Bedrock,Pyroclastics and Flows of Jurassic Harrison Lake Formation,6b - Fractured crystalline bedrock,M - Moderate,0.1,,,2019
+1216,Vedder Mountain NW Bedrock,Southwest Chilliwack,B - Bedrock,"Permian to Triassic Vedder Complex, locally Jurassic to Cretaceous",6b - Fractured crystalline bedrock,M - Moderate,26.4,,,2019
+1217,Vedder Mountain SE Bedrock,Southwest of Chilliwack,B - Bedrock,"Jurassic to Cretaceous, Kent Formation",5a - Fractured sedimentary rock,H - High,22.0,,,2019
+1218,East Cultus Columbia Bedrock,East of Cultus Lake and Columbia Valley,B - Bedrock,Mudstones and Sandstones of Triassic-Jurassic Cultus Formation,5a - Fractured sedimentary rock,H - High,31.3,,,2019
+1219,Langdale/Hopkins Landing,Langdale,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,M - Moderate,,,,
+1220,Eastern slope of Mount Elphinstone,Sunshine Coast East,B - Bedrock,,6b - Fractured crystalline bedrock,M - Moderate,18.5,,,2018
+1221,North Hope,Hope,SG - Sand and Gravel,,2 - Unconfined sand and gravel - deltaic,H - High,1.0,,,2018
+1222,Haans Creek to Blain Creek - Haida Gwaii,Moresby Island,B - Bedrock,Sedimentary/Volcanic,5a - Fractured sedimentary rock,M - Moderate,35.3,,,2018
+1223,Sandspit - Haida Gwaii,Moresby Island,S - Sand,,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,11.0,,,2018
+1224,Chetwynd Artesian,North of Chetwynd along Centurion Creek,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,11.4,M - Moderate,,2017
+1225,Lower Shuswap River Confined,Lower Shuswap River,S - Sand,,4b - Confined sand and gravel - glacial,M - Moderate,24.8,M - Moderate,,2019
+1226,Lower Shuswap Deep Confined,,S - Sand,,4b - Confined sand and gravel - glacial,L - Low,29.9,H - High,,2019
+1227,Okanagan Landing Deep Confined,,SG - Sand and Gravel,,4b - Confined sand and gravel - glacial,L - Low,3.8,H - High,,2019
+1228,O Avenue Aquifer,Township of Langley,SG - Sand and Gravel,Fort Langley or Vashon Intertill,4b - Confined sand and gravel - glacial,L - Low,1.7,,,2019
+1229,Border A,Township of Langley,SG - Sand and Gravel,Fort Langley,4b - Confined sand and gravel - glacial,M - Moderate,2.2,,,2019
+1230,Border B,Township of Langley,SG - Sand and Gravel,Fort Langley,4b - Confined sand and gravel - glacial,L - Low,4.0,,,2019
+1231,Campbell River A,Township of Langley/Surrey,SG - Sand and Gravel,Vashon Drift,4b - Confined sand and gravel - glacial,L - Low,10.3,,,2019
+1232,Campbell River B,Township of Langley/US,SG - Sand and Gravel,Vashon Drift,4b - Confined sand and gravel - glacial,L - Low,1.5,,,2019
+1233,South of Aldergrove,Township of Langley/Abbotsford,SG - Sand and Gravel,Fort Langley Formation,4b - Confined sand and gravel - glacial,L - Low,11.5,,,2019
+1234,Sperling,Township of Langley,SG - Sand and Gravel,Fort Langley Formation,4b - Confined sand and gravel - glacial,L - Low,4.0,,,2019
+1235,West Langley,Township of Langley/Surrey,SG - Sand and Gravel,Fraser River Sands and Sumas Drift,1a - Unconfined sand and gravel - large river system,H - High,10.6,,,2019
+1236,Border C,Langley/Surrey,SG - Sand and Gravel,Fort Langley Formation,4b - Confined sand and gravel - glacial,L - Low,1.2,,,2019
+1237,Mount Tom Bedrock,,,,,,,,,2019
+1238,,Oyama Creek,SG - Sand and Gravel,,3 - Unconfined sand and gravel - alluvial or colluvial fan,H - High,0.5,,,2020
+1239,,the north end of Wood Lake and south end of Kalamalka Lake,SG - Sand and Gravel,,4a - Unconfined sand and gravel - late glacial outwash,H - High,1.9,,,2020
+1240,Quadra Central Bedrock,Quadra Island,B - Bedrock,"Basalt and Breccias, Marine Sedimentary and Volcanic, Diorite and Granodiorites",6b - Fractured crystalline bedrock,H - High,107.7,,,2020
+1241,North Campbell River Unconsolidated,North Campbell River,SG - Sand and Gravel,Quadra Sand,4a - Unconfined sand and gravel - late glacial outwash,M - Moderate,29.8,,,2020
+1242,North Campbell River Bedrock,North Campbell River,B - Bedrock,"Pillow Basalts, Granite",6b - Fractured crystalline bedrock,H - High,126.9,,,2020
+1243,Port McNeill East Unconsolidated,Port McNeill,SG - Sand and Gravel,Glacial Advance  Outwash - Gold River Advance,4a - Unconfined sand and gravel - late glacial outwash,H - High,4.7,,,2020
+1244,Port McNeill East Bedrock,Port McNeill,B - Bedrock,"Limestones, Siltstones, Mudstones and Fractured Basalts",5a - Fractured sedimentary rock,H - High,19.1,,,2020
+1245,Beaver Cove,Beaver Cove,SG - Sand and Gravel,Port McNeill/Gold River Advance - Glaciofluvial,4b - Confined sand and gravel - glacial,M - Moderate,13.3,,,2020
+1246,West Cluculz Lake Bedrock,West of Cluculz Lake,B - Bedrock,"Cache Creek Complex, Australian Creek Formation, Fraser Bend Formation",6b - Fractured crystalline bedrock,L - Low,178.9,M - Moderate,L - Low,2020
+1247,Fort Fraser Alluvial,"Along Nechako River, at Fort Fraser and south of it",SG - Sand and Gravel,Alluvial,1a - Unconfined sand and gravel - large river system,H - High,60.8,M - Moderate,L - Low,2020
+1248,,French Creek delta,SG - Sand and Gravel,Salish Sediments,2 - Unconfined sand and gravel - deltaic,H - High,2.2,H - High,,2023
+1249,,North side of Little Qualicum River,SG - Sand and Gravel,Vashon-Capilano Sediments,4a - Unconfined sand and gravel - late glacial outwash,H - High,4.0,L - Low,,2023
+1250,,Morningstar Creek to Grodon Creek,SG - Sand and Gravel,Cowichan Head - Dashwood Sediments,4c - Confined sand and gravel - glacio-marine,L - Low,14.8,M - Moderate,,2023
+1251,,Between Qualicum River and Nile Creek,SG - Sand and Gravel,Mapleguard Sediments,4c - Confined sand and gravel - glacio-marine,L - Low,28.4,,,2023
+1252,,Between Englishman and River and Morrison Creek,SG - Sand and Gravel,Capilano Sediments,4a - Unconfined sand and gravel - late glacial outwash,H - High,5.4,M - Moderate,,2023
+1253,,,B - Bedrock,Island plutonic suite (granodiorite),6b - Fractured crystalline bedrock,M - Moderate,7.5,M - Moderate,,2023
+1262,Clinton Creek Upper Sand and Gravel,Cutoff / Clinton Creek Valley,SG - Sand and Gravel,Holocene Alluvium,1b - Unconfined sand and gravel aquifer - medium stream system,H - High,28.7,M - Moderate,,2021
+1263,Clinton Creek Bedrock,Cutoff / Clinton Creek Valley,B - Bedrock,Cache Creek Complex,6b - Fractured crystalline bedrock,M - Moderate,43.6,L - Low,,2021
+1264,,"The headwaters of the Trout Creek watershed, near the Okanagan Basin boundary",B - Bedrock,Osprey Lake Batholith,6b - Fractured crystalline bedrock,H - High,204.6,,,2021
+1265,Sheridan Lake,Permeable sediments surrounding Sheridan Lake,SG - Sand and Gravel,Pre-Fraser Glaciation fluvial,4b - Confined sand and gravel - glacial,M - Moderate,7.6,M - Moderate,,2022
+1266,Lower Lac la Hache Valley Bedrock,"Lower Lac la Hache valley, including dissected valleys that drain towards Lac la Hache",B - Bedrock,Chilcotin/ Nicola Group,6b - Fractured crystalline bedrock,M - Moderate,677.9,M - Moderate,,2022
+1267,Lower Bridge Creek Valley Bedrock,"Lower Bridge Creek valley, approximately from 100 Mile House to Canim Lake",B - Bedrock,Chilcotin/ Kamloops/ Nicola,6b - Fractured crystalline bedrock,M - Moderate,514.8,M - Moderate,,2022
+1268,Upper Bridge Creek Bedrock,"Upland area, east of 100 Mile House to the headwaters of Bridge Creek",B - Bedrock,Chilcotin/ Kamloops/ Nicola,6b - Fractured crystalline bedrock,M - Moderate,1026.6,M - Moderate,,2022
+1269,Northern Halfway Beatton Bedrock,Along the Blueberry and Beatton Rivers north of Highway 97 and east of the Montney Creek valley,B - Bedrock,Dunvegan Formation,5a - Fractured sedimentary rock,M - Moderate,795.4,M - Moderate,,2022
+1270,Montney Halfway Beatton Bedrock,Within the valley of Montney Creek,B - Bedrock,Dunvegan Formation,5a - Fractured sedimentary rock,M - Moderate,483.8,M - Moderate,,2022
+1271,Charlie Halfway Beatton Bedrock,Between Red Creek and the valley of Montney Creek and near the City of Fort St. John,B - Bedrock,Dunvegan Formation,5a - Fractured sedimentary rock,M - Moderate,705.8,M - Moderate,,2022
+1272,Blueberry Valley Aquifer System,Along the Blueberry River between the Beatton River and Aitken Creek Road,SG - Sand and Gravel,Holocene fluvial sand and gravels and late Wisconsinan outwash sand and gravel,2 - Unconfined sand and gravel - deltaic,H - High,105.4,M - Moderate,,2022
+1273,Peace-Valley Aquifer System,Along the Peace River between Farrel Creek and the City of Fort St. John,SG - Sand and Gravel,Holocene fluvial sand and gravels and late Wisconsinan outwash sand and gravel,2 - Unconfined sand and gravel - deltaic,H - High,107.2,M - Moderate,,2022
+1274,Blueberry-Aitken Bedrock,North of Blueberry River and west of Aitken Creek,B - Bedrock,Dunvegan Formation,5a - Fractured sedimentary rock,M - Moderate,203.7,M - Moderate,,2022
+1275,Arras-Fellers Heights Bedrock,South of Groundbirch and Progress,B - Bedrock,Kaskapau Formation,5a - Fractured sedimentary rock,L - Low,163.8,L - Low,,2023
+1285,,Chatham-Discovery Islands,B - Bedrock,West Coast Complex intrusive rocks,6b - Fractured crystalline bedrock,H - High,2.1,,,2023
+1286,,East of Sooke Lake,B - Bedrock,West Coast Crystalline Complex,6b - Fractured crystalline bedrock,,30.7,,,2023

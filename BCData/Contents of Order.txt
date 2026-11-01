@@ -1,0 +1,15 @@
+
+------------------
+Order Details
+-----------------
+Order ID: 2309292
+Date: 20230828
+
+----------------------
+Feature Types
+-----------------------
+ - Borehole Log Lithology in directory BRHL_LTH
+
+----------------------------
+Packaged Products
+----------------------------

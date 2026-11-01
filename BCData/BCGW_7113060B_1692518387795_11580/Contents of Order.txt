@@ -1,0 +1,15 @@
+
+------------------
+Order Details
+-----------------
+Order ID: 2307581
+Date: 20230820
+
+----------------------
+Feature Types
+-----------------------
+ - Ground Water Aquifers in subdirectory GW_AQUIFERS_CLASSIFICATION_SVW
+
+----------------------------
+Packaged Products
+----------------------------
