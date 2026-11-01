@@ -1,0 +1,49 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   Pb-T   R-squared:                       0.743
+Model:                            OLS   Adj. R-squared:                  0.738
+Method:                 Least Squares   F-statistic:                     126.7
+Date:                Sun, 31 Dec 2023   Prob (F-statistic):          6.84e-266
+Time:                        10:40:59   Log-Likelihood:                -727.63
+No. Observations:                 985   AIC:                             1501.
+Df Residuals:                     962   BIC:                             1614.
+Df Model:                          22                                         
+Covariance Type:            nonrobust                                         
+=============================================================================================
+                                coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------
+const                         1.3785      0.039     35.207      0.000       1.302       1.455
+Alkalinity Total 4.5          0.0597      0.032      1.862      0.063      -0.003       0.123
+Chlrid:D                      0.0472      0.024      1.963      0.050    1.47e-05       0.094
+Fe-T                          0.1317      0.020      6.506      0.000       0.092       0.171
+N.Kjel:T                      0.0063      0.018      0.354      0.724      -0.029       0.041
+P--T                         -0.0549      0.019     -2.910      0.004      -0.092      -0.018
+Residue Filterable 1.0u       0.1772      0.039      4.555      0.000       0.101       0.254
+Specific Conductance         -0.1200      0.050     -2.388      0.017      -0.219      -0.021
+Sulfat:D                     -0.0860      0.024     -3.552      0.000      -0.134      -0.038
+pH                            0.0594      0.023      2.602      0.009       0.015       0.104
+Hardness Total (T)            0.0191      0.029      0.667      0.505      -0.037       0.075
+K--T                         -0.0804      0.023     -3.480      0.001      -0.126      -0.035
+PRECIPITATION                -0.0935      0.026     -3.556      0.000      -0.145      -0.042
+MIN_TEMP                      0.0594      0.053      1.127      0.260      -0.044       0.163
+MAX_TEMP                     -0.0248      0.053     -0.468      0.640      -0.128       0.079
+FD                            0.0457      0.023      1.982      0.048       0.000       0.091
+HW                            0.0164      0.024      0.672      0.502      -0.032       0.064
+MT                            0.0040      0.026      0.158      0.874      -0.046       0.054
+Aquifer_1                     0.4716      0.032     14.922      0.000       0.410       0.534
+Aquifer_2                     0.4649      0.033     13.895      0.000       0.399       0.531
+Aquifer_3                     0.4421      0.037     11.978      0.000       0.370       0.514
+x                             0.0003      0.000      1.695      0.090   -4.26e-05       0.001
+y                             0.0003      0.000      2.077      0.038     1.6e-05       0.001
+Months_Since_First_Sample    -0.0073      0.000    -36.956      0.000      -0.008      -0.007
+==============================================================================
+Omnibus:                       99.616   Durbin-Watson:                   1.256
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              134.069
+Skew:                           0.792   Prob(JB):                     7.71e-30
+Kurtosis:                       3.870   Cond. No.                     2.55e+18
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 1.14e-29. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
