@@ -1,0 +1,14 @@
+# Queue item 21 .gitignore rules (CURRENT-MASTER-RULES 44.59 s.2.3 + standard)
+node_modules/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+~$*
+desktop.ini
+Thumbs.db
+.DS_Store
+*.lnk
+.env
+inventory.tsv
