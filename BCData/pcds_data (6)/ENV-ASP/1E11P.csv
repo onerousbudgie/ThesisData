@@ -1,0 +1,14 @@
+station_observations
+Precip_Climatology, RGuage_mm, T_mean_Climatology, Tn_Climatology, Tx_Climatology, time
+149.416, None, -7.06422, -8.07801, -6.05044, 2000-01-31 23:59:59
+207.392, None, None, None, None, 2000-02-29 23:59:59
+192.77, None, None, None, None, 2000-03-31 23:59:59
+180.541, None, 0.601637, -1.98654, 3.18982, 2000-04-30 23:59:59
+133.918, None, 4.48006, 1.02541, 7.93472, 2000-05-31 23:59:59
+145.218, None, None, None, None, 2000-06-30 23:59:59
+175.705, None, None, None, None, 2000-07-31 23:59:59
+123.317, None, None, None, None, 2000-08-31 23:59:59
+177.372, None, None, None, None, 2000-09-30 23:59:59
+214.349, None, -0.246916, -2.41688, 1.92305, 2000-10-31 23:59:59
+192.002, None, None, None, None, 2000-11-30 23:59:59
+276.442, None, None, None, None, 2000-12-31 23:59:59
